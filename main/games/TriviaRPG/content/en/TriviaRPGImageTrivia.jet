@@ -5,765 +5,765 @@
     {
      "altText": "Mandrill",
      "correct": true,
-     "hint": "Rafiki is a mandrill"
+     "hint": "Rafiki est un mandrill"
     },
     {
-     "altText": "Cheetah",
+     "altText": "Guépard",
      "correct": false,
-     "hint": "Cheetahs never prosper"
+     "hint": "Les guépards ne prospèrent jamais."
     },
     {
-     "altText": "Warthog",
+     "altText": "Phacochère",
      "correct": true,
      "hint": "Pumba"
     },
     {
-     "altText": "Hornbill",
+     "altText": "Calao",
      "correct": true,
-     "hint": "Zazu is a hornbill bird"
+     "hint": "Zazu est un calao."
     },
     {
-     "altText": "Beetle",
+     "altText": "Scarabée",
      "correct": false,
-     "hint": "The bugs don’t talk"
+     "hint": "Les insectes ne parlent pas."
     },
     {
-     "altText": "Elephant",
+     "altText": "Éléphant",
      "correct": false,
-     "hint": "Backup dancer at best"
+     "hint": "Au mieux, danseur de soutien"
     },
     {
-     "altText": "Wildebeest",
+     "altText": "Gnou",
      "correct": false,
-     "hint": "Kills Mufasa without a word"
+     "hint": "Tue Mufasa sans un mot"
     },
     {
-     "altText": "Meerkat",
+     "altText": "Suricate",
      "correct": true,
      "hint": "Timon"
     },
     {
-     "altText": "Hyena",
+     "altText": "Hyène",
      "correct": true,
-     "hint": "Three of them speak"
+     "hint": "Trois d'entre elles parlent"
     }
    ],
    "id": "109357",
    "isEasy": true,
-   "question": "Animals with Speaking Roles in [i]The Lion King[/i] (1994)"
+   "question": "Animaux ayant des rôles parlants dans [i]Le Roi Lion[/i] (1994)"
   },
   {
    "choices": [
     {
-     "altText": "Square",
+     "altText": "Carré",
      "correct": true,
      "hint": "A square has 4 right angles"
     },
     {
-     "altText": "Right Triangle",
+     "altText": "Triangle rectangle",
      "correct": true,
-     "hint": "Has one"
+     "hint": "En a un"
     },
     {
-     "altText": "Circle",
+     "altText": "Cercle",
      "correct": false,
-     "hint": "Do you see any corners?"
+     "hint": "Voyez-vous des coins ?"
     },
     {
-     "altText": "Octagon",
+     "altText": "Octogone",
      "correct": false,
-     "hint": "Lot of corners...."
+     "hint": "Beaucoup de coins...."
     },
     {
-     "altText": "Plus Sign",
+     "altText": "Signe plus",
      "correct": true,
-     "hint": "This has the MOST right angles"
+     "hint": "C'est celui qui a le PLUS d'angles droits."
     },
     {
-     "altText": "Pentagon",
-     "correct": true,
-     "hint": "There are two right angles"
-    },
-    {
-     "altText": "Hexagon",
+     "altText": "Pentagone",
      "correct": false,
-     "hint": "No 90 degree angles"
+     "hint": "Il y a deux angles droits."
     },
     {
-     "altText": "Parallelogram",
+     "altText": "Hexagone",
      "correct": false,
-     "hint": "No 90 degree angles"
+     "hint": "Pas d'angles à 90 degrés"
     },
     {
-     "altText": "Square (with triangle dent)",
+     "altText": "Parallélogramme",
+     "correct": false,
+     "hint": "Pas d'angles à 90 degrés"
+    },
+    {
+     "altText": "Carré (avec encoche triangulaire)",
      "correct": true,
-     "hint": "There are three right angles"
+     "hint": "Il y a trois angles droits."
     }
    ],
    "id": "109751",
    "isEasy": true,
-   "question": "Shapes with Right Angles"
+   "question": "Formes à angles droits"
+  },
+  {
+   "choices": [
+  {
+    "altText": "Revolver",
+    "correct": true,
+    "hint": "Compter les balles dans le revolver est une grande blague du film"
+  },
+  {
+    "altText": "Clé à molette",
+    "correct": true,
+    "hint": "La clé à molette est appelée spanner dans la version britannique"
+  },
+  {
+    "altText": "Couteau",
+    "correct": true,
+    "hint": "Également connu sous le nom de dague"
+  },
+  {
+    "altText": "Poison",
+    "correct": false,
+    "hint": "Le poison a été ajouté dans la version du jeu sur magnétoscope"
+  },
+  {
+    "altText": "Marteau",
+    "correct": false,
+    "hint": "Le marteau n’est une arme que dans le jeu dérivé de 2003"
+  },
+  {
+    "altText": "Hache",
+    "correct": false,
+    "hint": "Non, mais elle figurait dans la version avancée des années 80"
+  },
+  {
+    "altText": "Corde",
+    "correct": true,
+    "hint": "Le pion est tout enroulé"
+  },
+  {
+    "altText": "Tuyau de plomb",
+    "correct": true,
+    "hint": "Le Docteur Lenoir se prend vraiment du plomb"
+  },
+  {
+    "altText": "Arbalète",
+    "correct": false,
+    "hint": "Aucune flèche de quelque sorte que ce soit n’apparaît"
+  },
+  {
+    "altText": "Poêle à frire",
+    "correct": false,
+    "hint": "Le couteau est le seul ustensile de cuisine utilisé"
+  }
+],
+"id": "109772",
+"isEasy": false,
+"question": "Les armes du meurtre originales dans Cluedo (1949)"
+  },
+  {
+   "choices": [
+  {
+    "altText": "Arc de Triomphe",
+    "correct": true,
+    "hint": "L’Arc de Triomphe se trouve à Paris"
+  },
+  {
+    "altText": "Le Christ Rédempteur",
+    "correct": false,
+    "hint": "Le Christ Rédempteur se trouve à Rio de Janeiro"
+  },
+  {
+    "altText": "La Grande Muraille de Chine",
+    "correct": false,
+    "hint": "Devine où se trouve la Grande Muraille de Chine"
+  },
+  {
+    "altText": "Hôtel Paris Las Vegas",
+    "correct": false,
+    "hint": "Ceci est l’hôtel Paris Las Vegas"
+  },
+  {
+    "altText": "La tour Eiffel",
+    "correct": true,
+    "hint": "Ceci est la véritable tour Eiffel"
+  },
+  {
+    "altText": "Stonehenge",
+    "correct": true,
+    "hint": "Stonehenge se trouve au Royaume-Uni"
+  },
+  {
+    "altText": "Palais du Parlement",
+    "correct": true,
+    "hint": "Big Ben est la cloche, pas l’horloge"
+  },
+  {
+    "altText": "Notre-Dame",
+    "correct": true,
+    "hint": "C’est ici que vit le Bossu"
+  },
+  {
+    "altText": "Taj Mahal",
+    "correct": false,
+    "hint": "Le Taj Mahal se trouve dans la ville d’Agra"
+  },
+  {
+    "altText": "Salto Ángel",
+    "correct": false,
+    "hint": "Voici le Salto Ángel"
+  }
+],
+"id": "109773",
+"isEasy": false,
+"question": "Photos prises en Europe"
+  },
+  {
+   "choices": [
+  {
+    "altText": "Chèvre",
+    "correct": true,
+    "hint": "Cet animal donne du lait, parfait pour les oeufs"
+  },
+  {
+    "altText": "Tente",
+    "correct": false,
+    "hint": "Pas besoin de camper pour les oeufs"
+  },
+  {
+    "altText": "Avion",
+    "correct": false,
+    "hint": "Pas besoin de voyager pour manger des oeufs"
+  },
+  {
+    "altText": "Train",
+    "correct": true,
+    "hint": "Train rime avec rain (pluie)"
+  },
+  {
+    "altText": "Lion",
+    "correct": false,
+    "hint": "Avec quoi lion pourrait-il bien rimer ?"
+  },
+  {
+    "altText": "Souris",
+    "correct": true,
+    "hint": "Il les mangerait dans une maison"
+  },
+  {
+    "altText": "Arbre",
+    "correct": true,
+    "hint": "Le feriez-vous, pourriez-vous… dans un arbre ?"
+  },
+  {
+    "altText": "Boîte",
+    "correct": true,
+    "hint": "Un renard se joindrait à vous là-dedans"
+  },
+  {
+    "altText": "Chaussettes",
+    "correct": false,
+    "hint": "Vous pensez à un autre livre de Seuss"
+  },
+  {
+    "altText": "Chat",
+    "correct": false,
+    "hint": "Vous pensez à un autre livre de Seuss"
+  }
+],
+"id": "109774",
+"isEasy": true,
+"question": "Mots présents dans [i]Les Oeufs verts au jambon[/i]"
   },
   {
    "choices": [
     {
-     "altText": "Revolver",
-     "correct": true,
-     "hint": "Counting bullets in the revolver is a big joke in the film"
-    },
-    {
-     "altText": "Wrench",
-     "correct": true,
-     "hint": "Wrench is called a spanner in the British version"
-    },
-    {
-     "altText": "Knife",
-     "correct": true,
-     "hint": "Also known as the dagger"
-    },
-    {
-     "altText": "Poison",
+     "altText": "Carte de l'Australie",
      "correct": false,
-     "hint": "Poison was added in the VCR version of the game"
+     "hint": "C'est le seul pays qui soit également un continent."
     },
     {
-     "altText": "Hammer",
-     "correct": false,
-     "hint": "Hammer is only a weapon in 2003 spin-off game"
-    },
-    {
-     "altText": "Axe",
-     "correct": false,
-     "hint": "No, but it was in the ’80s advanced version"
-    },
-    {
-     "altText": "Rope",
+     "altText": "Carte du Chili",
      "correct": true,
-     "hint": "The token is all bundled up"
+     "hint": "C'est un pays d'Amérique du Sud."
     },
     {
-     "altText": "Lead Pipe",
+     "altText": "Carte de l'Espagne",
+     "correct": false,
+     "hint": "C'est l'Espagne"
+    },
+    {
+     "altText": "Carte du Canada",
      "correct": true,
-     "hint": "Mr. Body does eat lead"
+     "hint": "C'est le voisin nordique des États-Unis."
     },
     {
-     "altText": "Crossbow",
+     "altText": "Carte du Mexique",
      "correct": false,
-     "hint": "No arrows of any kind are featured"
+     "hint": "Au sud de la frontière américaine"
     },
     {
-     "altText": "Frying Pan",
-     "correct": false,
-     "hint": "The knife is the only kitchen tool used"
-    }
-   ],
-   "id": "109772",
-   "isEasy": false,
-   "question": "The original Clue murder weapons (1949)"
-  },
-  {
-   "choices": [
-    {
-     "altText": "Arc de Triomphe",
+     "altText": "Carte du Cuba",
      "correct": true,
-     "hint": "Ard de Triomphe is in Paris"
+     "hint": "Castro était aux commandes"
     },
     {
-     "altText": "Christ the Redeemer",
-     "correct": false,
-     "hint": "Christ the Redeemer is in Rio de Janeiro"
-    },
-    {
-     "altText": "The Great Wall of China",
-     "correct": false,
-     "hint": "Guess where the Great Wall of China is"
-    },
-    {
-     "altText": "The Paris Las Vegas Hotel",
-     "correct": false,
-     "hint": "This is the Paris Las Vegas Hotel"
-    },
-    {
-     "altText": "The Eiffel Tower",
+     "altText": "Carte de la Chine",
      "correct": true,
-     "hint": "This is the real Eiffel Tower"
+     "hint": "Autrefois le pays le plus peuplé, mais dépassé par l'Inde"
     },
     {
-     "altText": "Stonehenge",
-     "correct": true,
-     "hint": "Stonehenge is in the UK"
-    },
-    {
-     "altText": "House of Parliament",
-     "correct": true,
-     "hint": "Big Ben is the bell, not the clock"
-    },
-    {
-     "altText": "Notre Dame",
-     "correct": true,
-     "hint": "This is where that Hunchback hangs out"
-    },
-    {
-     "altText": "Taj Mahal",
+     "altText": "Carte de l'Italie",
      "correct": false,
-     "hint": "The Taj Mahal is in the city of Agra"
-    },
-    {
-     "altText": "Angel Falls",
-     "correct": false,
-     "hint": "This is Angel Falls"
-    }
-   ],
-   "id": "109773",
-   "isEasy": false,
-   "question": "Photos taken in Europe"
-  },
-  {
-   "choices": [
-    {
-     "altText": "Goat",
-     "correct": true,
-     "hint": "Goat rhymes with boat"
-    },
-    {
-     "altText": "Tent",
-     "correct": false,
-     "hint": "What would “tent” even rhyme with?"
-    },
-    {
-     "altText": "Plane",
-     "correct": false,
-     "hint": "Train is the vehicle that rhymes with rain"
-    },
-    {
-     "altText": "Train",
-     "correct": true,
-     "hint": "Train is the vehicle that rhymes with rain"
-    },
-    {
-     "altText": "Lion",
-     "correct": false,
-     "hint": "What would “lion” even rhyme with?"
-    },
-    {
-     "altText": "Mouse",
-     "correct": true,
-     "hint": "He would eat them in a house"
-    },
-    {
-     "altText": "Tree",
-     "correct": true,
-     "hint": "Would you, could you... in a tree?"
-    },
-    {
-     "altText": "Box",
-     "correct": true,
-     "hint": "A fox would join you in there"
-    },
-    {
-     "altText": "Socks",
-     "correct": false,
-     "hint": "You’re thinking of a different Seuss book"
-    },
-    {
-     "altText": "Cat",
-     "correct": false,
-     "hint": "You’re thinking of a different Seuss book"
-    }
-   ],
-   "id": "109774",
-   "isEasy": true,
-   "question": "Words in [i]Green Eggs and Ham[/i]"
-  },
-  {
-   "choices": [
-    {
-     "altText": "Map of Australia",
-     "correct": false,
-     "hint": "This is only country that is also a continent"
-    },
-    {
-     "altText": "Map of Chile",
-     "correct": true,
-     "hint": "This is a South American country"
-    },
-    {
-     "altText": "Map of Spain",
-     "correct": false,
-     "hint": "This is Spain"
-    },
-    {
-     "altText": "Map of Canada",
-     "correct": true,
-     "hint": "The is the northern neighbor of the U.S."
-    },
-    {
-     "altText": "Map of Mexico",
-     "correct": false,
-     "hint": "South of the U.S. border"
-    },
-    {
-     "altText": "Map of Cuba",
-     "correct": true,
-     "hint": "Castro was in charge"
-    },
-    {
-     "altText": "Map of China",
-     "correct": true,
-     "hint": "Used to be the most populous country, but was surpassed by India"
-    },
-    {
-     "altText": "Map of Italy",
-     "correct": false,
-     "hint": "Looks like a Versace boot"
+     "hint": "On dirait une botte Versace."
     }
    ],
    "id": "110145",
    "isEasy": true,
-   "question": "Countries that start with “C”"
+   "question": "Pays commençant par “C”"
   },
   {
    "choices": [
     {
-     "altText": "Trumpet",
+     "altText": "Trompette",
      "correct": false,
-     "hint": "A trumpet is a brass instrument"
+     "hint": "Une trompette est un instrument à vent en cuivre"
     },
     {
      "altText": "Harmonica",
      "correct": true,
-     "hint": "A harmonica has small metal reeds"
+     "hint": "Un harmonica possède de petites lamelles métalliques"
     },
     {
-     "altText": "Bagpipe",
+     "altText": "Cornemuse",
      "correct": true,
-     "hint": "A bagpipe has a reed"
+     "hint": "Une cornemuse possède une anche"
     },
     {
-     "altText": "Lightsaber Handle",
+     "altText": "Poignée de sabre laser",
      "correct": false,
-     "hint": "This is actually a fake laser sword handle"
+     "hint": "Ceci est en réalité la poignée d'un faux sabre laser"
     },
     {
-     "altText": "Flute",
+     "altText": "Flûte",
      "correct": true,
-     "hint": "Woodwinds are either reed instruments or flutes"
+     "hint": "Les instruments à vent en bois sont soit des instruments à anche, soit des flûtes"
     },
     {
      "altText": "Kazoo",
      "correct": false,
-     "hint": "A kazoo does not have a reed"
+     "hint": "Un kazoo n'a pas d'anche"
     },
     {
-     "altText": "Soprano Saxophone",
+     "altText": "Saxophone soprano",
      "correct": true,
-     "hint": "This is a type of saxophone"
+     "hint": "Ceci est un type de saxophone"
     },
     {
      "altText": "Tuba",
      "correct": false,
-     "hint": "Tuba is a brass instrument"
+     "hint": "Le tuba est un instrument à vent en cuivre"
     },
     {
      "altText": "Saxophone",
      "correct": true,
-     "hint": "A saxophone is a woodwind"
+     "hint": "Un saxophone est un instrument à vent en bois"
     },
     {
-     "altText": "Recorder",
+     "altText": "Flûte à bec",
      "correct": true,
-     "hint": "A recorder is a type of flute, and a flute is...."
+     "hint": "Une flûte à bec est un type de flûte, et une flûte est…"
     }
-   ],
-   "id": "110148",
-   "isEasy": false,
-   "question": "Woodwind Instruments"
+],
+"id": "110148",
+"isEasy": false,
+"question": "Instruments à vent en bois"
   },
   {
    "choices": [
     {
-     "altText": "Peaches",
+     "altText": "Pêches",
      "correct": true,
-     "hint": "Do peaches have pits?"
+     "hint": "Les pêches ont-elles un noyau ?"
     },
     {
-     "altText": "Dates",
+     "altText": "Dattes",
      "correct": true,
-     "hint": "You have a date with a stone"
+     "hint": "On appelle 'date' un fruit avec un noyau"
     },
     {
-     "altText": "Grapes",
+     "altText": "Raisins",
      "correct": false,
-     "hint": "Seeds aren’t always stones"
+     "hint": "Les grains ne sont pas toujours des noyaux"
     },
     {
-     "altText": "Mangoes",
+     "altText": "Mangues",
      "correct": true,
-     "hint": "Mangoes have stones called drupes"
+     "hint": "Les mangues ont des noyaux appelés drupes"
     },
     {
-     "altText": "Pineapple",
+     "altText": "Ananas",
      "correct": false,
-     "hint": "Pineapples are only hard on the outside"
+     "hint": "Les ananas ne sont durs que dehors"
     },
     {
      "altText": "Olives",
      "correct": true,
-     "hint": "Olives are fruits"
+     "hint": "Les olives sont des fruits"
     },
     {
-     "altText": "Cherries",
+     "altText": "Cerises",
      "correct": true,
-     "hint": "Do cherries have pits?"
+     "hint": "Les cerises ont-elles un noyau ?"
     },
     {
-     "altText": "Bananas",
+     "altText": "Bananes",
      "correct": false,
-     "hint": "If you find a hard bit in your banana... do not eat it."
+     "hint": "Si vous trouvez un petit morceau dur dans votre banane… ne le mangez pas."
     },
     {
-     "altText": "Walnuts",
+     "altText": "Noix",
      "correct": false,
-     "hint": "Walnuts aren’t fruits"
+     "hint": "Les noix ne sont pas des fruits"
     },
     {
-     "altText": "Apples",
+     "altText": "Pommes",
      "correct": false,
-     "hint": "Seeds aren’t always stones"
+     "hint": "Les graines ne sont pas toujours des noyaux"
     }
-   ],
-   "id": "110152",
-   "isEasy": true,
-   "question": "Stone Fruit"
+],
+"id": "110152",
+"isEasy": true,
+"question": "Fruits à noyau"
   },
   {
    "choices": [
     {
-     "altText": "Warm Woolen Mittens",
+     "altText": "Moufles chaudes en laine",
      "correct": true,
-     "hint": "Warm woolen mittens... rhymes with kittens"
+     "hint": "Moufles chaudes en laine… rime avec chatons"
     },
     {
-     "altText": "Snow-White Bunny",
+     "altText": "Lapin blanc comme neige",
      "correct": false,
-     "hint": "Bunnies/rabbits not mentioned in song"
+     "hint": "Les lapins ne sont pas mentionnés dans la chanson"
     },
     {
-     "altText": "Crisp Apple Strudel",
+     "altText": "Strudel aux pommes croustillant",
      "correct": true,
-     "hint": "That apple strudel looks crisp to me"
+     "hint": "Ce strudel aux pommes a l’air croustillant"
     },
     {
-     "altText": "Shiny Red Wagon",
+     "altText": "Chariot rouge brillant",
      "correct": false,
-     "hint": "What would wagon even rhyme with?"
+     "hint": "Avec quoi 'wagon' pourrait-il rimer ?"
     },
     {
-     "altText": "Schnitzel with Noodles",
+     "altText": "Schnitzel avec nouilles",
      "correct": true,
-     "hint": "Schnitzel with noodles? A favorite of Maria’s"
+     "hint": "Schnitzel avec des nouilles ? Le plat préféré de Maria"
     },
     {
-     "altText": "Fluffy Barnyard Chicks",
+     "altText": "Poussins du poulailler tout doux",
      "correct": false,
-     "hint": "Chicks/chickens/hens not mentioned"
+     "hint": "Les poussins/poules ne sont pas mentionnés"
     },
     {
-     "altText": "Red-Cheeked Child",
+     "altText": "Enfant aux joues rouges",
      "correct": false,
-     "hint": "Girls in white dresses are the only children mentioned"
+     "hint": "Seules les filles en robe blanche sont mentionnées"
     },
     {
-     "altText": "Bright Copper Kettle",
+     "altText": "Bouilloire en cuivre brillant",
      "correct": true,
-     "hint": "Bright Copper Kettle is mentioned before warm woolen mittens"
+     "hint": "La bouilloire en cuivre brillant est mentionnée avant les moufles chaudes en laine"
     },
     {
-     "altText": "Warm Berry Muffins",
+     "altText": "Muffins aux baies chauds",
      "correct": false,
-     "hint": "Muffins are not in her favorites"
+     "hint": "Les muffins ne font pas partie de ses favoris"
     },
     {
-     "altText": "Brown Paper Package Tied Up with String",
+     "altText": "Colis en papier brun attaché avec une ficelle",
      "correct": true,
-     "hint": "Brown Paper Package? Tied up with string?!?! ...yeah!"
+     "hint": "Colis en papier brun ? Attaché avec une ficelle ?!... exact !"
     }
-   ],
-   "id": "110153",
-   "isEasy": false,
-   "question": "Things Mentioned in Lyrics of “My Favorite Things”"
+],
+"id": "110153",
+"isEasy": false,
+"question": "Éléments mentionnés dans les paroles de “My Favorite Things”"
   },
   {
    "choices": [
     {
-     "altText": "2 Rubber Duckies",
+     "altText": "2 canards en caoutchouc",
      "correct": true,
-     "hint": "Is 2 a prime number?"
+     "hint": "2 est-il un nombre premier ?"
     },
     {
-     "altText": "3 Rubber Duckies",
+     "altText": "3 canards en caoutchouc",
      "correct": true,
-     "hint": "Is 3 a prime number?"
+     "hint": "3 est-il un nombre premier ?"
     },
     {
-     "altText": "4 Rubber Duckies",
+     "altText": "4 canards en caoutchouc",
      "correct": false,
-     "hint": "You can divide 4 by 2."
+     "hint": "On peut diviser 4 par 2."
     },
     {
-     "altText": "5 Rubber Duckies",
+     "altText": "5 canards en caoutchouc",
      "correct": true,
-     "hint": "5 is a prime number"
+     "hint": "5 est un nombre premier"
     },
     {
-     "altText": "6 Rubber Duckies",
+     "altText": "6 canards en caoutchouc",
      "correct": false,
      "hint": "2 x 3 = 6"
     },
     {
-     "altText": "7 Rubber Duckies",
+     "altText": "7 canards en caoutchouc",
      "correct": true,
-     "hint": "7 can only be divided by 1 and itself"
+     "hint": "7 ne peut être divisé que par 1 et lui-même"
     },
     {
-     "altText": "8 Rubber Duckies",
+     "altText": "8 canards en caoutchouc",
      "correct": false,
-     "hint": "8 can be divided by 2"
+     "hint": "8 peut être divisé par 2"
     },
     {
-     "altText": "9 Rubber Duckies",
+     "altText": "9 canards en caoutchouc",
      "correct": false,
-     "hint": "9 can be divided by 3"
+     "hint": "9 peut être divisé par 3"
     },
     {
-     "altText": "10 Rubber Duckies",
+     "altText": "10 canards en caoutchouc",
      "correct": false,
-     "hint": "10 ducks can be divided by 2, 5, 1 and 10."
+     "hint": "10 canards peuvent être divisés par 2, 5, 1 et 10."
     },
     {
-     "altText": "11 Rubber Duckies",
+     "altText": "11 canards en caoutchouc",
      "correct": true,
-     "hint": "Can you divide 11 up evenly?"
+     "hint": "Peut-on diviser 11 de manière égale ?"
     }
-   ],
-   "id": "111196",
-   "isEasy": true,
-   "question": "Prime Number of Rubber Duckies"
+],
+"id": "111196",
+"isEasy": true,
+"question": "Nombre premier de canards en caoutchouc"
   },
   {
    "choices": [
     {
      "altText": "Missouri",
      "correct": true,
-     "hint": "Huckleberry Finn shows Missouri does"
+     "hint": "Huckleberry Finn montre que le Missouri en fait partie"
     },
     {
-     "altText": "California",
+     "altText": "Californie",
      "correct": false,
-     "hint": "California is pretty far away"
+     "hint": "La Californie est un peu loin"
     },
     {
-     "altText": "Florida",
+     "altText": "Floride",
      "correct": false,
-     "hint": "Florida...too far east"
+     "hint": "Floride... trop à l’est"
     },
     {
      "altText": "Illinois",
      "correct": true,
-     "hint": "It runs right along edge of Illinois"
+     "hint": "Il longe directement la frontière de l’Illinois"
     },
     {
-     "altText": "Louisiana",
+     "altText": "Louisiane",
      "correct": true,
-     "hint": "Go south down the Mississippi and you’ll find LA"
+     "hint": "Descendez le Mississippi vers le sud et vous trouverez la Louisiane"
     },
     {
      "altText": "Texas",
      "correct": false,
-     "hint": "TX? A little bit too west"
+     "hint": "Texas ? Un peu trop à l’ouest"
     },
     {
      "altText": "Tennessee",
      "correct": true,
-     "hint": "This the only ten I see... 10/10 correct that is!"
+     "hint": "I see le Mississipi d'ici !"
     },
     {
      "altText": "Alaska",
      "correct": false,
-     "hint": "Alaska? Think about it..."
+     "hint": "L'Alaska ? Réfléchis un peu…"
     },
     {
      "altText": "Ohio",
      "correct": false,
-     "hint": "Oh-hi... no"
+     "hint": "Oh-hi… non"
     }
-   ],
-   "countrySpecific": true,
-   "id": "111501",
-   "isEasy": false,
-   "question": "U.S. States That Border the Mississippi River"
+],
+"countrySpecific": true,
+"id": "111501",
+"isEasy": false,
+"question": "États américains bordant le Mississippi"
   },
   {
    "choices": [
     {
-     "altText": "Camel",
+     "altText": "Chameau",
      "correct": true,
-     "hint": "The hump is delicious"
+     "hint": "La bosse est délicieuse"
     },
     {
-     "altText": "Snake",
+     "altText": "Serpent",
      "correct": false,
-     "hint": "Snake is a little thin for a cookie"
+     "hint": "Un serpent est un peu trop fin pour un biscuit"
     },
     {
-     "altText": "Parrot",
+     "altText": "Perroquet",
      "correct": false,
-     "hint": "A little small for a cookie"
+     "hint": "Un peu petit pour un biscuit"
     },
     {
-     "altText": "Seal",
+     "altText": "Phoque",
      "correct": true,
-     "hint": "This is one of the few marine cookies"
+     "hint": "C’est l’un des rares biscuits marins"
     },
     {
-     "altText": "Unicorn",
+     "altText": "Licorne",
      "correct": false,
-     "hint": "This is not a real animal... sorry"
+     "hint": "Ce n’est pas un animal réel… désolé"
     },
     {
-     "altText": "Shark",
+     "altText": "Requin",
      "correct": false,
-     "hint": "Not many aquatic animals available"
+     "hint": "Peu d’animaux aquatiques disponibles"
     },
     {
-     "altText": "Tiger",
+     "altText": "Tigre",
      "correct": true,
-     "hint": "Barnum has BOTH tigers and lions"
+     "hint": "Barnum a à la fois des tigres et des lions"
     },
     {
-     "altText": "Dolphin",
+     "altText": "Dauphin",
      "correct": false,
-     "hint": "Not many aquatic cookies available"
+     "hint": "Peu de biscuits aquatiques disponibles"
     },
     {
      "altText": "Hippo",
      "correct": true,
-     "hint": "Barnum has both elephants AND hippos"
+     "hint": "Barnum a à la fois des éléphants ET des hippopotames"
     },
     {
-     "altText": "Zebra",
+     "altText": "Zèbre",
      "correct": true,
-     "hint": "Barnum has many striped options"
+     "hint": "Barnum propose de nombreuses options rayées"
     }
-   ],
-   "countrySpecific": true,
-   "id": "112583",
-   "isEasy": true,
-   "question": "Barnum Animal Cracker Shapes"
+],
+"countrySpecific": true,
+"id": "112583",
+"isEasy": true,
+"question": "Formes d’animaux des biscuits Barnum"
   },
   {
    "choices": [
     {
-     "altText": "Wood",
+     "altText": "Bois",
      "correct": true,
-     "hint": "Wood/lumber is a resource"
+     "hint": "Le bois est une ressource"
     },
     {
-     "altText": "Cattle",
+     "altText": "Bétail",
      "correct": false,
-     "hint": "Cattle are NOT the livestock resource in the game"
+     "hint": "Le bétail n’est PAS la ressource dans le jeu"
     },
     {
-     "altText": "Coffee",
+     "altText": "Café",
      "correct": false,
-     "hint": "Coffee is what the players drink while playing... not what they trade"
+     "hint": "Le café est pour les joueurs, pas pour le commerce"
     },
     {
-     "altText": "Bricks",
+     "altText": "Briques",
      "correct": true,
-     "hint": "Bricks are produced by the hills in the game"
+     "hint": "Les collines produisent des briques dans le jeu"
     },
     {
-     "altText": "Sheep",
+     "altText": "Moutons",
      "correct": true,
-     "hint": "Sheep are produced by the pastures in the game"
+     "hint": "Les pâturages produisent des moutons dans le jeu"
     },
     {
-     "altText": "Wheat",
+     "altText": "Blé",
      "correct": true,
-     "hint": "Wheat is always a resource in the real world and Catan"
+     "hint": "Le blé est toujours une ressource dans le monde réel et à Catan"
     },
     {
-     "altText": "Corn",
+     "altText": "Maïs",
      "correct": false,
-     "hint": "Catan is not Iowa"
+     "hint": "Catan n’est pas l’Iowa"
     },
     {
-     "altText": "Coins (silver)",
+     "altText": "Pièces (argent)",
      "correct": false,
-     "hint": "There’s no currency... it’s a beautiful world"
+     "hint": "Il n’y a pas de monnaie… c’est un beau monde"
     },
     {
-     "altText": "Ore",
+     "altText": "Minerai",
      "correct": true,
-     "hint": "Ore comes from the mountains of Catan"
+     "hint": "Le minerai vient des montagnes de Catan"
     },
     {
-     "altText": "Coal",
+     "altText": "Charbon",
      "correct": false,
-     "hint": "No coal mines"
+     "hint": "Pas de mines de charbon"
     }
-   ],
-   "id": "112584",
-   "isEasy": false,
-   "question": "Resources in the (Original) Settlers of Catan"
+],
+"id": "112584",
+"isEasy": false,
+"question": "Ressources dans le jeu (Original) Les Colons de Catan"
   },
   {
    "choices": [
     {
      "altText": "White",
      "correct": true,
-     "hint": "Mr. White is right"
+     "hint": "Mr. White a raison"
     },
     {
      "altText": "Brown",
      "correct": true,
-     "hint": "This is the director’s moniker"
+     "hint": "C’est le surnom du réalisateur"
     },
     {
      "altText": "Blue",
      "correct": false,
-     "hint": "Mr. Blue is a song... but not a character"
+     "hint": "Mr. Blue est une chanson… mais pas un personnage"
     },
     {
-     "altText": "Purple",
+     "altText": "Violet",
      "correct": false,
-     "hint": "Not featured in this very “violet” movie"
+     "hint": "Pas présent dans ce film très “violet”"
     },
     {
      "altText": "Orange",
      "correct": true,
-     "hint": "Mr. Orange played by Harvey Keitel"
+     "hint": "Mr. Orange joué par Harvey Keitel"
     },
     {
      "altText": "Green",
      "correct": false,
-     "hint": "Mr. Green is in Clue"
+     "hint": "Mr. Green est dans Cluedo"
     },
     {
      "altText": "Black",
      "correct": false,
-     "hint": "They want to be Mr. Black... but nobody gets the name"
+     "hint": "Ils veulent Mr. Black… mais personne ne trouve le nom"
     },
     {
      "altText": "Pink",
      "correct": true,
-     "hint": "Steve Buscemi is upset that this one is correct"
+     "hint": "Steve Buscemi est contrarié que celui-ci soit correct"
     }
-   ],
-   "id": "112586",
-   "isEasy": false,
-   "question": "[i]Reservoir Dogs[/i] (’92) Character Names",
+],
+"id": "112586",
+"isEasy": false,
+"question": "Noms des personnages de [i]Reservoir Dogs[/i] de 92",
    "x": true
   },
   {
@@ -771,984 +771,986 @@
     {
      "altText": "Green Lantern",
      "correct": false,
-     "hint": "Green Lantern is a DC superhero"
+     "hint": "Green Lantern est un super-héros DC"
     },
     {
      "altText": "Storm",
      "correct": true,
-     "hint": "This is a Storm"
+     "hint": "Une vraie tempête, celle là !"
     },
     {
      "altText": "Wolverine",
      "correct": true,
-     "hint": "This is a Wolverine"
+     "hint": "Voici devant vous un Wolverine"
     },
     {
      "altText": "Robin",
      "correct": false,
-     "hint": "This is a Robin"
+     "hint": "Ceci est Robin"
     },
     {
-     "altText": "Cyclops",
+     "altText": "Cyclope",
      "correct": true,
-     "hint": "What do you call a monster with one eye?"
+     "hint": "Comment appelle-t-on un monstre avec un œil ?"
     },
     {
-     "altText": "Black Widow",
+     "altText": "Veuve Noire",
      "correct": false,
-     "hint": "This spider is more of an Avenger"
+     "hint": "Cette araignée est plutôt une Avengers"
     },
     {
      "altText": "Phoenix",
      "correct": true,
-     "hint": "What do you call a flaming bird that rises from the ashes?"
+     "hint": "Comment appelle-t-on un oiseau de feu qui renaît de ses cendres ?"
     },
     {
      "altText": "Nightcrawler",
      "correct": true,
-     "hint": "This worm is called a Nightcrawer"
+     "hint": "Ce ver s’appelle Nightcrawler"
     },
     {
      "altText": "Wasp",
      "correct": false,
-     "hint": "This is a Wasp"
+     "hint": "Ceci est une Guêpe"
     },
     {
      "altText": "Green Arrow",
      "correct": false,
-     "hint": "Green Arrow is a DC superhero"
+     "hint": "Green Arrow est un super-héros DC"
     }
-   ],
-   "id": "112588",
-   "isEasy": false,
-   "question": "Names of X-Men Characters"
+],
+"id": "112588",
+"isEasy": false,
+"question": "Noms des personnages des X-Men"
   },
   {
    "choices": [
     {
-     "altText": "Beetle",
+     "altText": "Coccinelle",
      "correct": true,
-     "hint": "The Beetle is nicknamed the Bug"
+     "hint": "La Coccinelle est surnommée le Bug"
     },
     {
      "altText": "Golf",
      "correct": true,
-     "hint": "VW Golf was originally a variation of the Beetle"
+     "hint": "La VW Golf était à l’origine une variante de la Coccinelle"
     },
     {
      "altText": "Mustang",
      "correct": false,
-     "hint": "Mustang is made by Ford"
+     "hint": "La Mustang est fabriquée par Ford"
     },
     {
      "altText": "Leaf",
      "correct": false,
-     "hint": "This is a Nissan model"
+     "hint": "Ceci est un modèle Nissan"
     },
     {
      "altText": "Rabbit",
      "correct": true,
-     "hint": "The Rabbit was a hatchback"
+     "hint": "La Rabbit était une voiture compacte"
     },
     {
      "altText": "Taurus",
      "correct": false,
-     "hint": "This is Taurus"
+     "hint": "Ceci est Taurus"
     },
     {
      "altText": "Lincoln",
      "correct": false,
-     "hint": "Who makes the Lincoln?"
+     "hint": "Qui fabrique la Lincoln ?"
     },
     {
      "altText": "Firebird",
      "correct": false,
-     "hint": "The Firebird is a Pontiac"
+     "hint": "La Firebird est une Pontiac"
     },
     {
      "altText": "Atlas",
      "correct": true,
-     "hint": "The Atlas was a VW SUV"
+     "hint": "L’Atlas était un SUV VW"
     },
     {
      "altText": "Polo",
      "correct": true,
-     "hint": "The Polo was a super mini"
+     "hint": "La Polo était une super mini"
     }
-   ],
-   "id": "112589",
-   "isEasy": false,
-   "question": "VW Car Model Names"
+],
+"id": "112589",
+"isEasy": false,
+"question": "Noms de modèles de voitures VW"
   },
   {
    "choices": [
     {
-     "altText": "Lemon",
+     "altText": "Citron",
      "correct": false,
-     "hint": "Lemons are in slot machines, not Pac-Man"
+     "hint": "Les citrons sont dans les machines à sous, pas dans Pac-Man"
     },
     {
-     "altText": "Strawberry",
+     "altText": "Fraise",
      "correct": true,
-     "hint": "The strawberry is a bonus item"
+     "hint": "La fraise est un bonus"
     },
     {
-     "altText": "Raspberries",
+     "altText": "Framboises",
      "correct": false,
-     "hint": "Raspberries? ...no, too hard to pixelate"
+     "hint": "Framboises ? …non, trop difficile à pixeliser"
     },
     {
      "altText": "Orange",
      "correct": false,
-     "hint": "There is an orange fruit... but it’s not an orange"
+     "hint": "Il y a un fruit orange… mais ce n’est pas une orange"
     },
     {
-     "altText": "Pineapple",
+     "altText": "Ananas",
      "correct": false,
-     "hint": "Too pointy for a big mouth"
+     "hint": "Trop pointu pour une grande bouche"
     },
     {
-     "altText": "Apple",
+     "altText": "Pomme",
      "correct": true,
-     "hint": "Apples are worth 700 points"
+     "hint": "Les pommes valent 700 points"
     },
     {
-     "altText": "Cherries",
+     "altText": "Cerises",
      "correct": true,
-     "hint": "This is the most valuable Pac-Man fruit"
+     "hint": "C’est le fruit le plus précieux de Pac-Man"
     },
     {
-     "altText": "Peach",
+     "altText": "Pêche",
      "correct": true,
-     "hint": "There is a peach! It looks like an orange on screen"
+     "hint": "Il y a une pêche ! Elle ressemble à une orange à l’écran"
     }
-   ],
-   "id": "112629",
-   "isEasy": true,
-   "question": "Fruit in Pac-Man (1980)"
+],
+"id": "112629",
+"isEasy": true,
+"question": "Fruits dans Pac-Man (1980)"
   },
   {
    "choices": [
     {
-     "altText": "Pink Heart",
+     "altText": "Cœur rose",
      "correct": true,
-     "hint": "One of the originals"
+     "hint": "L’un des originaux"
     },
     {
-     "altText": "Red Ruby",
+     "altText": "Rubis rouge",
      "correct": false,
-     "hint": "Ruby was not the red one"
+     "hint": "Le rubis n’était pas le rouge"
     },
     {
-     "altText": "Red Balloon",
+     "altText": "Ballon rouge",
      "correct": true,
-     "hint": "Added in 1989"
+     "hint": "Ajouté en 1989"
     },
     {
-     "altText": "Blue Fairy",
+     "altText": "Fée bleue",
      "correct": false,
-     "hint": "Fairy sure this isn’t in there"
+     "hint": "Certainement pas présent"
     },
     {
-     "altText": "Blue Moon",
+     "altText": "Lune bleue",
      "correct": true,
-     "hint": "Blue moon added in 1995"
+     "hint": "Lune bleue ajoutée en 1995"
     },
     {
-     "altText": "Yellow Bell",
+     "altText": "Cloche jaune",
      "correct": false,
-     "hint": "Yellow bells... never heard of ‘em"
+     "hint": "Cloche jaune… jamais entendu parler"
     },
     {
-     "altText": "Shooting Star",
+     "altText": "Étoile filante",
      "correct": true,
-     "hint": "Shooting star added in 1998"
+     "hint": "Étoile filante ajoutée en 1998"
     },
     {
-     "altText": "Purple Horseshoe",
+     "altText": "Fer à cheval violet",
      "correct": true,
-     "hint": "Purple horseshoe added in 1983"
-    },
-    {
-     "altText": "Gold Coin",
-     "correct": false,
-     "hint": "Lucky doesn’t have any gold coins"
-    },
-    {
-     "altText": "White Cloud",
-     "correct": false,
-     "hint": "No white clouds... they would just look like normal marshmallows"
+     "hint": "Fer à cheval violet ajouté en 1983"
     }
-   ],
-   "id": "112630",
-   "isEasy": true,
-   "question": "Lucky Charms Marshmallows (In a standard 2025 box)"
+],
+"id": "112630",
+"isEasy": true,
+"question": "Marshmallows des céréales Lucky Charms (dans une boîte standard 2025)"
   },
   {
    "choices": [
     {
      "altText": "Pirates",
      "correct": true,
-     "hint": "These sailors are from Pittsburgh"
+     "hint": "Ces marins viennent de Pittsburgh"
     },
     {
      "altText": "Coyotes",
      "correct": false,
-     "hint": "The Arizona Coyotes play hockey"
+     "hint": "Les Arizona Coyotes jouent au hockey"
     },
     {
      "altText": "Marlins",
      "correct": true,
-     "hint": "This is a Marlin"
+     "hint": "Ceci est un Marlin"
     },
     {
      "altText": "Cubs",
      "correct": true,
-     "hint": "Another name for baby bears"
+     "hint": "Un autre nom pour les oursons"
     },
     {
      "altText": "Lions",
      "correct": false,
-     "hint": "No MLB baseball team called the Lions"
+     "hint": "Il n’y a pas d’équipe MLB appelée Lions"
     },
     {
      "altText": "Jets",
      "correct": false,
-     "hint": "Are you thinking football?"
+     "hint": "Vous pensez au football ?"
     },
     {
      "altText": "Orioles",
      "correct": true,
-     "hint": "This is an Oriole"
+     "hint": "Ceci est un Oriole"
     },
     {
      "altText": "Rays",
      "correct": true,
-     "hint": "This is a Ray"
+     "hint": "Ceci est un Raie"
     },
     {
      "altText": "Dolphins",
      "correct": false,
-     "hint": "Dolphins play football"
+     "hint": "Les Dolphins jouent au football"
     },
     {
      "altText": "Lynxes",
      "correct": false,
-     "hint": "This is a Lynx"
+     "hint": "Ceci est un Lynx"
     }
    ],
    "countrySpecific": true,
    "id": "112635",
    "isEasy": false,
-   "question": "MLB Team Names"
+   "question": "Noms des équipes MLB"
   },
   {
    "choices": [
     {
      "altText": "George Washington",
      "correct": true,
-     "hint": "This is the first one"
+     "hint": "C’est le premier"
     },
     {
      "altText": "William Shakespeare",
      "correct": false,
-     "hint": "Shakespeare is ineligible"
+     "hint": "Shakespeare n’est pas éligible"
     },
     {
      "altText": "Charles Dickens",
      "correct": false,
-     "hint": "This is Charles Dickens"
+     "hint": "Ceci est Charles Dickens"
     },
     {
      "altText": "Theodore Roosevelt",
      "correct": true,
-     "hint": "Teddy bears are named after this guy"
+     "hint": "Les Teddy Bears portent son nom"
     },
     {
      "altText": "Winston Churchill",
      "correct": false,
-     "hint": "Churchill was a world leader"
+     "hint": "Churchill était un chef d’État"
     },
     {
      "altText": "Benjamin Franklin",
      "correct": false,
-     "hint": "This is Benjamin Franklin"
+     "hint": "Ceci est Benjamin Franklin"
     },
     {
      "altText": "Andrew Jackson",
      "correct": true,
-     "hint": "This is Andrew Jackson"
+     "hint": "Ceci est Andrew Jackson"
     },
     {
      "altText": "P.T. Barnum",
      "correct": false,
-     "hint": "This is P.T. Barnum"
+     "hint": "Ceci est P.T. Barnum"
     },
     {
      "altText": "Ulysses S. Grant",
      "correct": true,
-     "hint": "Ulysses S Grant was a general and..."
+     "hint": "Ulysses S. Grant était général et..."
     },
     {
      "altText": "Abraham Lincoln",
      "correct": true,
-     "hint": "It’s the penny guy!"
+     "hint": "C’est le gars du penny !"
     }
    ],
    "countrySpecific": true,
    "id": "112637",
    "isEasy": false,
-   "question": "U.S. Presidents"
+   "question": "Présidents des États-Unis"
   },
   {
    "choices": [
     {
      "altText": "Titanic",
      "correct": false,
-     "hint": "This is the Titanic"
+     "hint": "Ceci est le Titanic"
     },
     {
      "altText": "Salt",
      "correct": false,
-     "hint": "Salt is a movie with Angelina Jolie"
+     "hint": "Salt est un film avec Angelina Jolie"
     },
     {
      "altText": "Magnolia",
      "correct": true,
-     "hint": "This type of flower is called a Magnolia"
+     "hint": "Cette fleur s’appelle Magnolia"
     },
     {
      "altText": "The Mummy",
      "correct": true,
-     "hint": "There have been many movies called “The Mummy”"
+     "hint": "Il y a eu plusieurs films appelés “La Momie”"
     },
     {
      "altText": "The Last Samurai",
      "correct": true,
-     "hint": "He is the Last Samurai"
+     "hint": "Il est le Dernier Samouraï"
     },
     {
      "altText": "The Princess Diaries",
      "correct": false,
-     "hint": "The arrow is pointing at the Princess Diary"
+     "hint": "La flèche pointe sur le Journal d’une Princesse"
     },
     {
      "altText": "Cocktail",
      "correct": true,
-     "hint": "He is making a Cocktail"
+     "hint": "Il prépare un Cocktail"
     },
     {
      "altText": "Top Gun",
      "correct": true,
-     "hint": "It’s pointing at the Top Gun"
+     "hint": "La flèche pointe vers Top Gun"
     },
     {
      "altText": "Jaws",
      "correct": false,
-     "hint": "The arrow is pointing at the Jaws"
+     "hint": "La flèche pointe vers Les Dents de la mer"
     },
     {
      "altText": "Bullet Train",
      "correct": false,
-     "hint": "This is a Bullet Train"
+     "hint": "Ceci est un Bullet Train"
     }
    ],
    "id": "112640",
    "isEasy": false,
-   "question": "Tom Cruise Movie Titles"
+   "question": "Titres de films avec Tom Cruise"
   },
   {
    "choices": [
     {
+   "choices": [
+    {
      "altText": "Scrubs",
      "correct": true,
-     "hint": "There’s two... so those are Scrubs... plural"
+     "hint": "Il y en a deux... ce sont donc des Scrubs… au pluriel"
     },
     {
      "altText": "Brooklyn Nine-Nine",
      "correct": true,
-     "hint": "The city pictured is Brooklyn"
+     "hint": "La ville montrée est Brooklyn"
     },
     {
      "altText": "Yellowjackets",
      "correct": false,
-     "hint": "Yellowjackets... sounds more like a drama?"
+     "hint": "Yellowjackets… ressemble plutôt à un drame ?"
     },
     {
      "altText": "The Office",
      "correct": true,
-     "hint": "I could see a Jim, Pam or Dwight working here"
+     "hint": "On pourrait y voir Jim, Pam ou Dwight travailler"
     },
     {
      "altText": "Cheers",
      "correct": true,
-     "hint": "What do you say when you clink glasses?"
+     "hint": "Que dites-vous quand vous trinquez ?"
     },
     {
      "altText": "Big Bang",
      "correct": false,
-     "hint": "It’s not just a theory that Sheldon and gang were on CBS"
+     "hint": "Ce n’est pas juste une théorie que Sheldon et sa bande étaient sur CBS"
     },
     {
      "altText": "One Tree Hill",
      "correct": false,
-     "hint": "One Tree Hill was a drama... not on NBC"
+     "hint": "Les Frères Scott était un drame… pas sur NBC"
     },
     {
      "altText": "30 Rock",
      "correct": true,
-     "hint": "How many “rock” are there?"
+     "hint": "Combien de “rock” y a-t-il ?"
     },
     {
      "altText": "The X-Files",
      "correct": false,
-     "hint": "Fox aired these particular files"
+     "hint": "Fox diffusait ces fichiers particuliers"
     },
     {
-     "altText": "The Sopranos",
+     "altText": "Les Sopranos",
      "correct": false,
-     "hint": "These are Sopranos"
+     "hint": "Ce sont Les Sopranos"
     }
    ],
    "countrySpecific": true,
    "id": "113451",
    "isEasy": false,
-   "question": "NBC Sitcoms"
+   "question": "Sitcoms NBC"
   },
   {
    "choices": [
     {
-     "altText": "Cheese",
+     "altText": "Fromage",
      "correct": true,
-     "hint": "No carbs or sugar in cheese"
+     "hint": "Pas de glucides ni de sucre dans le fromage"
     },
     {
-     "altText": "Rice",
+     "altText": "Riz",
      "correct": false,
-     "hint": "No carbs"
+     "hint": "Pas de glucides"
     },
     {
-     "altText": "Honey",
+     "altText": "Miel",
      "correct": false,
-     "hint": "Too sweet"
+     "hint": "Trop sucré"
     },
     {
      "altText": "Mayonnaise",
      "correct": true,
-     "hint": "Fat is fine"
+     "hint": "Les graisses, c’est correct"
     },
     {
-     "altText": "Lobster & Butter",
+     "altText": "Homard et beurre",
      "correct": true,
-     "hint": "Meat and butter are fine!"
+     "hint": "Viande et beurre, c’est correct !"
     },
     {
-     "altText": "Bread",
+     "altText": "Pain",
      "correct": false,
-     "hint": "Bread is like the most famous no-no"
+     "hint": "Le pain est le plus célèbre interdit"
     },
     {
      "altText": "Ketchup",
      "correct": false,
-     "hint": "There is sugar in ketchup"
+     "hint": "Il y a du sucre dans le ketchup"
     },
     {
      "altText": "Bacon",
      "correct": true,
-     "hint": "No carbs in bacon"
+     "hint": "Pas de glucides dans le bacon"
     },
     {
-     "altText": "Steak & Asparagus",
+     "altText": "Steak et asperges",
      "correct": true,
-     "hint": "Even the butter is fine"
+     "hint": "Même le beurre est correct"
     },
     {
      "altText": "Popcorn",
      "correct": false,
-     "hint": "Well, the butter is okay but...."
+     "hint": "Le beurre est correct mais…"
     }
    ],
    "id": "113534",
    "isEasy": true,
-   "question": "Can Eat This on the Keto Diet"
+   "question": "Peut-on manger ça avec le régime Keto ?"
   },
   {
    "choices": [
     {
      "altText": "Jaguar",
      "correct": true,
-     "hint": "Jaguars are the apex predator of the Amazon"
+     "hint": "Le jaguar est le prédateur suprême de l’Amazonie"
     },
     {
-     "altText": "Sloth",
+     "altText": "Paresseux",
      "correct": true,
-     "hint": "It’s easy to spot a sloth in the Amazon... because they don’t run off"
+     "hint": "Facile de repérer un paresseux en Amazonie… ils ne fuient pas"
     },
     {
-     "altText": "Red Panda",
+     "altText": "Panda roux",
      "correct": false,
-     "hint": "This is a red panda"
+     "hint": "Ceci est un panda roux"
     },
     {
-     "altText": "Tiger",
+     "altText": "Tigre",
      "correct": false,
-     "hint": "Tigers are mostly in Asia"
+     "hint": "Les tigres sont surtout en Asie"
     },
     {
-     "altText": "Poison Arrow Frog",
+     "altText": "Grenouille fléchette venimeuse",
      "correct": true,
-     "hint": "Lots of frogs in rainforests"
+     "hint": "Beaucoup de grenouilles dans les forêts tropicales"
     },
     {
      "altText": "Cobra",
      "correct": false,
-     "hint": "Cobras need dryer climates"
+     "hint": "Les cobras préfèrent les climats plus secs"
     },
     {
-     "altText": "Hippopotamus",
+     "altText": "Hippopotame",
      "correct": false,
-     "hint": "Hippos are African"
+     "hint": "Les hippopotames sont africains"
     },
     {
-     "altText": "Peacock",
+     "altText": "Paon",
      "correct": false,
-     "hint": "Peacocks are in Asia and Africa"
+     "hint": "Les paons vivent en Asie et en Afrique"
     },
     {
      "altText": "Capybara",
      "correct": true,
-     "hint": "This is a capybara"
+     "hint": "Ceci est un capybara"
     },
     {
-     "altText": "Green Anaconda",
+     "altText": "Anaconda vert",
      "correct": true,
-     "hint": "The largest rainforest has one of the biggest snakes"
+     "hint": "La plus grande forêt tropicale abrite l’un des plus gros serpents"
     }
    ],
    "id": "113560",
    "isEasy": true,
-   "question": "Animals Native to the Amazon"
+   "question": "Animaux originaires d’Amazonie"
   },
   {
    "choices": [
     {
-     "altText": "The Hoover Dam",
+     "altText": "Barrage Hoover",
      "correct": true,
-     "hint": "The Hoover Dam was built during the Great Depression"
+     "hint": "Le barrage Hoover a été construit pendant la Grande Dépression"
     },
     {
-     "altText": "The Seattle Space Needle",
+     "altText": "Le Space Needle de Seattle",
      "correct": false,
-     "hint": "Space Needle built while Twilight Zone was airing"
+     "hint": "La Space Needle a été construite pendant que La Quatrième Dimension était diffusée"
     },
     {
-     "altText": "Christ the Redeemer",
+     "altText": "Christ Rédempteur",
      "correct": true,
-     "hint": "Built during the roaring ’20s"
+     "hint": "Construit pendant les années folles"
     },
     {
-     "altText": "The Golden Gate Bridge",
+     "altText": "Golden Gate Bridge",
      "correct": true,
-     "hint": "The Golden Gate Bridge was built in the ’30s"
+     "hint": "Le Golden Gate Bridge a été construit dans les années 30"
     },
     {
-     "altText": "The Louvre Pyramid",
+     "altText": "La pyramide du Louvre",
      "correct": false,
-     "hint": "The Louvre (and its glass pyramid) didn’t open until the ’70s"
+     "hint": "Le Louvre (et sa pyramide de verre) n’ont ouvert qu’aux années 70"
     },
     {
-     "altText": "The Burj Khalifa",
+     "altText": "Le Burj Khalifa",
      "correct": false,
-     "hint": "The Burj Khalifa is the current tallest building the world"
+     "hint": "Le Burj Khalifa est actuellement le plus haut bâtiment du monde"
     },
     {
-     "altText": "The Statue of Liberty",
+     "altText": "La statue de la Liberté",
      "correct": true,
-     "hint": "The Statue of Liberty is the oldest landmark in this set"
+     "hint": "La Statue de la Liberté est le plus ancien monument de cette sélection"
     },
     {
-     "altText": "Sydney Opera House",
+     "altText": "Opéra de Sydney",
      "correct": false,
-     "hint": "The Sydney Opera House opened the same year that the Vietnam War ended"
+     "hint": "L’Opéra de Sydney a ouvert l’année de la fin de la guerre du Vietnam"
     },
     {
-     "altText": "Eiffel Tower",
+     "altText": "Tour Eiffel",
      "correct": true,
-     "hint": "Eiffel Tower was constructed in the 19th century"
+     "hint": "La tour Eiffel a été construite au XIXe siècle"
     },
     {
-     "altText": "The London Eye",
+     "altText": "Le London Eye",
      "correct": false,
-     "hint": "This is the London’s tallest ferris wheel"
+     "hint": "Ceci est la plus grande roue de Londres"
     }
    ],
    "id": "113570",
    "isEasy": false,
-   "question": "Landmarks Built Before World War II"
+   "question": "Monuments construits avant la Seconde Guerre mondiale"
   },
   {
    "choices": [
     {
      "altText": "Lacrosse",
      "correct": false,
-     "hint": "They will add lacrosse to Summer Olympics in 2028"
+     "hint": "La lacrosse sera ajoutée aux JO d’été 2028"
     },
     {
      "altText": "Pickleball",
      "correct": false,
-     "hint": "Pickleball only recently became big"
+     "hint": "Le pickleball est devenu populaire que récemment"
     },
     {
      "altText": "Ping Pong",
      "correct": true,
-     "hint": "China swept this sport"
+     "hint": "La Chine a tout raflé dans ce sport"
     },
     {
-     "altText": "Figure Skating",
+     "altText": "Patinage artistique",
      "correct": false,
-     "hint": "This is figure skating"
+     "hint": "Ceci est le patinage artistique"
     },
     {
      "altText": "Croquet",
      "correct": false,
-     "hint": "Only played in the 1900 Summer Olympics"
+     "hint": "Ne s’est joué qu’aux JO d’été 1900"
     },
     {
      "altText": "Cricket",
      "correct": false,
-     "hint": "They will play cricket in 2028, but...."
+     "hint": "Il sera joué en 2028, mais…"
     },
     {
-     "altText": "Boxing",
+     "altText": "Boxe",
      "correct": true,
-     "hint": "The source of scandal"
+     "hint": "La source de scandale"
     },
     {
-     "altText": "Archery",
+     "altText": "Tir à l'arc",
      "correct": true,
-     "hint": "South Korea swept"
+     "hint": "La Corée du Sud a tout raflé"
     },
     {
-     "altText": "Skateboarding",
+     "altText": "Skateboard",
      "correct": true,
-     "hint": "Skateboarding started in the 2020 games"
+     "hint": "Le skateboard a commencé aux JO 2020"
     },
     {
-     "altText": "Breakdancing",
+     "altText": "Breakdance",
      "correct": true,
-     "hint": "Remember Raygun?"
+     "hint": "Tu te souviens de Raygun ?"
     }
    ],
    "id": "113572",
    "isEasy": true,
-   "question": "Events in the 2024 Olympics in France"
+   "question": "Épreuves des JO 2024 en France"
   },
   {
    "choices": [
     {
      "altText": "Spider-Woman",
      "correct": false,
-     "hint": "You may have seen her in Madame Web!"
+     "hint": "Tu l’as peut-être vue dans Madame Web !"
     },
     {
      "altText": "Man-Bat",
      "correct": true,
-     "hint": "Man-Bat is a villain from the comics"
+     "hint": "Man-Bat est un vilain de la BD"
     },
     {
-     "altText": "Penguin",
+     "altText": "Le Pingouin",
      "correct": true,
-     "hint": "He got his own HBO Series"
+     "hint": "Il a eu sa propre série HBO"
     },
     {
-     "altText": "Doctor Octopus",
+     "altText": "Docteur Octopus",
      "correct": false,
-     "hint": "Looks more like a Spider-Man villain"
+     "hint": "Semble plus être un vilain de Spider-Man"
     },
     {
      "altText": "Scorpion",
      "correct": false,
-     "hint": "Scorpion is a Spider-Man villain"
+     "hint": "Scorpion est un vilain de Spider-Man"
     },
     {
-     "altText": "Two-Face",
+     "altText": "Double-Face",
      "correct": true,
-     "hint": "Played by Aaron Eckhart in The Dark Knight"
+     "hint": "Joué par Aaron Eckhart dans The Dark Knight"
     },
     {
-     "altText": "Scarecrow",
+     "altText": "L'Épouvantail",
      "correct": true,
-     "hint": "Played by Cillian Murphy in Batman Begins"
+     "hint": "Joué par Cillian Murphy dans Batman Begins"
     },
     {
      "altText": "Green Lantern",
      "correct": false,
-     "hint": "Is Green Lantern a real bad guy?"
+     "hint": "Green Lantern est-il vraiment un vilain ?"
     },
     {
      "altText": "Poison Ivy",
      "correct": true,
-     "hint": "Leaves of three, let them be"
+     "hint": "Les feuilles par trois, laisse-les tranquilles"
     },
     {
      "altText": "Wolverine",
      "correct": false,
-     "hint": "This is a picture of a wolverine"
+     "hint": "Ceci est une photo de wolverine"
     }
    ],
    "id": "113579",
    "isEasy": false,
-   "question": "Names of Batman Villains"
+   "question": "Noms de vilains de Batman"
   },
   {
    "choices": [
     {
-     "altText": "Turtle",
+     "altText": "Tortue",
      "correct": false,
-     "hint": "There’s a skeleton under there"
+     "hint": "Il y a un squelette dessous"
     },
     {
-     "altText": "Snakes",
+     "altText": "Serpents",
      "correct": false,
-     "hint": "Snakes have slinky skeletons"
+     "hint": "Les serpents ont un squelette allongé"
     },
     {
-     "altText": "Lobster",
+     "altText": "Homard",
      "correct": true,
-     "hint": "Crustaceans have their bones on the outside"
+     "hint": "Les crustacés ont leurs os à l’extérieur"
     },
     {
-     "altText": "Snail",
+     "altText": "Escargot",
      "correct": true,
-     "hint": "The shell is not a spine"
+     "hint": "La coquille n’est pas une colonne vertébrale"
     },
     {
-     "altText": "Hummingbird",
+     "altText": "Colibri",
      "correct": false,
-     "hint": "All birds have bones"
+     "hint": "Tous les oiseaux ont des os"
     },
     {
-     "altText": "Goldfish",
+     "altText": "Poisson rouge",
      "correct": false,
-     "hint": "A fish has a skeleton"
+     "hint": "Un poisson a un squelette"
     },
     {
-     "altText": "Octopus",
+     "altText": "Poulpe",
      "correct": true,
-     "hint": "Too squishy for a spine"
+     "hint": "Trop mou pour avoir une colonne"
     },
     {
-     "altText": "Spider",
+     "altText": "Araignée",
      "correct": true,
-     "hint": "Arachnids have an exoskeleton"
+     "hint": "Les arachnides ont un exosquelette"
     },
     {
-     "altText": "Bats",
+     "altText": "Chauves-souris",
      "correct": false,
-     "hint": "All mammals are vertebrates"
+     "hint": "Tous les mammifères ont une colonne"
     },
     {
-     "altText": "Fly",
+     "altText": "Mouche",
      "correct": true,
-     "hint": "Has an exoskeleton"
+     "hint": "A un exosquelette"
     }
    ],
    "id": "113580",
    "isEasy": true,
-   "question": "Invertebrates"
+   "question": "Invertébrés"
   },
   {
    "choices": [
     {
-     "altText": "The Two Cherubs",
-     "correct": false,
-     "hint": "Painted by a different ninja turtle"
-    },
-    {
-     "altText": "The Creation of Adam",
-     "correct": false,
-     "hint": "Painted by a party dude"
-    },
-    {
-     "altText": "Vitruvian Man",
+     "altText": "Homme de Vitruve",
      "correct": true,
-     "hint": "From his notebooks"
+     "hint": "Extrait de ses carnets"
     },
     {
-     "altText": "The Mona Lisa",
+     "altText": "Mona Lisa",
      "correct": true,
-     "hint": "She’s smiling because she’s right"
+     "hint": "Elle sourit parce qu’elle a raison"
     },
     {
-     "altText": "Relativity Stairs",
+     "altText": "La Cène",
+     "correct": true,
+     "hint": "Joue un rôle très important dans le roman de Dan Brown"
+    },
+    {
+     "altText": "Conception de vis aérienne",
+     "correct": true,
+     "hint": "Il était aussi un peu scientifique"
+    },
+    {
+     "altText": "Dame à l'hermine",
+     "correct": true,
+     "hint": "C’est l’une des quatre peintures de femmes faites par da Vinci"
+    },
+    {
+     "altText": "Les deux chérubins",
      "correct": false,
-     "hint": "A recreation of an M.C. Escher piece"
+     "hint": "Peint par une autre tortue ninja"
     },
     {
-     "altText": "The Birth of Venus",
+     "altText": "La création d'Adam",
      "correct": false,
-     "hint": "This is a Botticelli"
+     "hint": "Peint par un gars de fête"
     },
     {
-     "altText": "The Last Supper",
-     "correct": true,
-     "hint": "Played a very important part in the Dan Brown novel"
-    },
-    {
-     "altText": "The Thinker",
+     "altText": "Relativité",
      "correct": false,
-     "hint": "This was done by a French artist"
+     "hint": "Une recréation d’une œuvre de M.C. Escher"
     },
     {
-     "altText": "Aerial Screw Design",
-     "correct": true,
-     "hint": "He was also a bit of a scientist"
+     "altText": "La naissance de Vénus",
+     "correct": false,
+     "hint": "Ceci est un Botticelli"
     },
     {
-     "altText": "Lady with an Ermine",
-     "correct": true,
-     "hint": "This one of four paintings of women done by da Vinci"
+     "altText": "Le Penseur",
+     "correct": false,
+     "hint": "Réalisé par un artiste français"
     }
    ],
    "id": "113581",
    "isEasy": false,
-   "question": "Works of Leonardo da Vinci"
+   "question": "Œuvres de Léonard de Vinci"
   },
   {
    "choices": [
     {
-     "altText": "Pig",
+     "altText": "Cochon",
      "correct": true,
-     "hint": "She wins a beauty pageant"
+     "hint": "Elle gagne un concours de beauté"
     },
     {
-     "altText": "Tiger",
-     "correct": false,
-     "hint": "Not a ggrrreaaat answer"
-    },
-    {
-     "altText": "Frog",
+     "altText": "Grenouille",
      "correct": true,
-     "hint": "The star of the picture!"
+     "hint": "La star de l’image !"
     },
     {
-     "altText": "Turtle",
-     "correct": false,
-     "hint": "Henson made turtle costumes for a different film"
-    },
-    {
-     "altText": "Bear",
+     "altText": "Ours",
      "correct": true,
      "hint": "Wakka Wakka"
     },
     {
-     "altText": "Cat",
-     "correct": false,
-     "hint": "Rowlf wouldn’t share the spotlight"
-    },
-    {
-     "altText": "Dog",
+     "altText": "Chien",
      "correct": true,
-     "hint": "He plays piano"
+     "hint": "Il joue du piano"
     },
     {
-     "altText": "Shark",
-     "correct": false,
-     "hint": "Bruce was busy making the Spielberg picture"
-    },
-    {
-     "altText": "Eagle",
+     "altText": "Aigle",
      "correct": true,
-     "hint": "First name Sam"
+     "hint": "Prénom Sam"
     },
     {
-     "altText": "Bat",
+     "altText": "Tigre",
      "correct": false,
-     "hint": "More of a Sesame Street extra"
+     "hint": "Pas une très bonne réponse"
+    },
+    {
+     "altText": "Tortue",
+     "correct": false,
+     "hint": "Henson a fait des costumes de tortues pour un autre film"
+    },
+    {
+     "altText": "Chat",
+     "correct": false,
+     "hint": "Rowlf ne partagerait pas la vedette"
+    },
+    {
+     "altText": "Requin",
+     "correct": false,
+     "hint": "Bruce était occupé avec le film de Spielberg"
+    },
+    {
+     "altText": "Chauve-souris",
+     "correct": false,
+     "hint": "Plus un figurant de Sesame Street"
     }
    ],
    "id": "113582",
    "isEasy": false,
-   "question": "Characters in [i]The Muppet Movie[/i]"
+   "question": "Personnages du film [i]Les Muppets, le film[/i]"
   },
   {
    "choices": [
     {
-     "altText": "Velociraptor",
+     "altText": "Vélociraptor",
      "correct": true,
-     "hint": "They were in the kitchen!"
+     "hint": "Ils étaient dans la cuisine !"
     },
     {
-     "altText": "Brachiosaurus",
+     "altText": "Brachiosaure",
      "correct": true,
-     "hint": "Take off your sunglasses and have a better look"
+     "hint": "Enlève tes lunettes de soleil et regarde mieux"
     },
     {
-     "altText": "Pteranodon",
-     "correct": false,
-     "hint": "Pteranodons aren’t even dinosaurs"
-    },
-    {
-     "altText": "Stegosaurus",
-     "correct": false,
-     "hint": "They are in The Lost World"
-    },
-    {
-     "altText": "Triceratops",
+     "altText": "Tricératops",
      "correct": true,
-     "hint": "Triceratops had a tummy ache"
+     "hint": "Le tricératops avait mal au ventre"
     },
     {
-     "altText": "Ankylosaurus",
-     "correct": false,
-     "hint": "Ankylosaurus is in The Lost World"
-    },
-    {
-     "altText": "Dilophosaurus",
+     "altText": "Dilophosaure",
      "correct": true,
-     "hint": "She was in it and she was spittin’"
+     "hint": "Elle y était et elle crachait"
     },
     {
-     "altText": "Pachycephalosaurus",
+     "altText": "Ptéranodon",
      "correct": false,
-     "hint": "No boneheads"
+     "hint": "Les pteranodons ne sont même pas des dinosaures"
     },
     {
-     "altText": "Spinosaurus",
+     "altText": "Stégosaure",
      "correct": false,
-     "hint": "Not till the third one"
+     "hint": "Ils sont dans The Lost World"
+    },
+    {
+     "altText": "Ankylosaure",
+     "correct": false,
+     "hint": "Ankylosaurus est dans The Lost World"
+    },
+    {
+     "altText": "Pachycéphalosaure",
+     "correct": false,
+     "hint": "Pas de tête dure"
+    },
+    {
+     "altText": "Spinosaure",
+     "correct": false,
+     "hint": "Pas avant le troisième film"
     },
     {
      "altText": "T-rex",
      "correct": true,
-     "hint": "Don’t move! The image will see you if you move"
+     "hint": "Ne bouge pas ! L’image te verra si tu bouges"
     }
    ],
    "id": "113598",
    "isEasy": true,
-   "question": "Dinosaurs Featured in the First [i]Jurassic Park[/i] Movie"
+   "question": "Dinosaures du premier film [i]Jurassic Park[/i]"
   },
   {
    "choices": [
     {
      "altText": "Telephone",
      "correct": true,
-     "hint": "With Lady Gaga"
+     "hint": "Avec Lady Gaga"
     },
     {
      "altText": "Halo",
      "correct": true,
-     "hint": "What do you call that circle around a little angel’s head?"
-    },
-    {
-     "altText": "Firework",
-     "correct": false,
-     "hint": "Baby, you’re a...."
+     "hint": "Comment s’appelle ce cercle autour de la tête d’un petit ange ?"
     },
     {
      "altText": "Texas Hold ‘Em",
      "correct": true,
-     "hint": "Which card game is this?"
+     "hint": "Quel est ce jeu de cartes ?"
+    },
+    {
+     "altText": "Baby Boy",
+     "correct": true,
+     "hint": "Ceci est un bébé garçon"
+    },
+    {
+     "altText": "Partition",
+     "correct": true,
+     "hint": "C’est une partition"
+    },
+    {
+     "altText": "Firework",
+     "correct": false,
+     "hint": "Baby, tu es un...."
     },
     {
      "altText": "Umbrella",
@@ -1756,481 +1758,466 @@
      "hint": "Ella-ella, ayy, ayy, ayy"
     },
     {
-     "altText": "Baby Boy",
-     "correct": true,
-     "hint": "This is a baby boy"
-    },
-    {
      "altText": "Driver’s License",
      "correct": false,
-     "hint": "Driver’s License was a debut single"
-    },
-    {
-     "altText": "Partition",
-     "correct": true,
-     "hint": "That’s a partition"
+     "hint": "Driver’s License était un premier single"
     },
     {
      "altText": "Rock Lobster",
      "correct": false,
-     "hint": "We were at the beach"
+     "hint": "Nous étions à la plage"
     },
     {
      "altText": "Vampire",
      "correct": false,
-     "hint": "Sung by the same person as Driver’s License"
+     "hint": "Chanté par la même personne que Driver’s License"
     }
    ],
    "id": "113602",
    "isEasy": false,
-   "question": "Title of a Beyoncé Song (or Duet)"
+   "question": "Titre d’une chanson de Beyoncé (ou duo)"
   },
   {
    "choices": [
     {
-     "altText": "The Ring",
+     "altText": "Ring",
      "correct": true,
-     "hint": "If you watch this, you die in seven days"
+     "hint": "Si tu regardes ça, tu meurs dans 7 jours"
     },
     {
-     "altText": "Dodgeball",
-     "correct": false,
-     "hint": "Stars Ben Stiller and Vince Vaughn"
-    },
-    {
-     "altText": "Cabin in the Woods",
+     "altText": "La Cabane dans les bois",
      "correct": true,
-     "hint": "What kind of building is this... and where is it?"
+     "hint": "Quel type de bâtiment est-ce... et où est-il ?"
     },
     {
-     "altText": "Titanic",
-     "correct": false,
-     "hint": "Stars Leonardo DiCaprio & Kate Winslet"
-    },
-    {
-     "altText": "The Fly",
+     "altText": "La Mouche",
      "correct": true,
-     "hint": "Starring Jeff Goldblum & Geena Davis"
+     "hint": "Avec Jeff Goldblum & Geena Davis"
     },
     {
      "altText": "Scream",
      "correct": true,
-     "hint": "Do you like scary movies?"
+     "hint": "Tu aimes les films d’horreur ?"
     },
     {
-     "altText": "The Princess Diary",
-     "correct": false,
-     "hint": "Anne Hathaway movie"
-    },
-    {
-     "altText": "The Black Phone",
+     "altText": "Black Phone",
      "correct": true,
-     "hint": "2021 film starring Ethan Hawke"
+     "hint": "Film de 2021 avec Ethan Hawke"
     },
     {
-     "altText": "The Last Samurai",
+     "altText": "Dodgeball !",
      "correct": false,
-     "hint": "This is a Tom Cruise movie"
+     "hint": "Avec Ben Stiller et Vince Vaughn"
+    },
+    {
+     "altText": "Titanic",
+     "correct": false,
+     "hint": "Avec Leonardo DiCaprio et Kate Winslet"
+    },
+    {
+     "altText": "Princesse malgré elle",
+     "correct": false,
+     "hint": "Film avec Anne Hathaway"
+    },
+    {
+     "altText": "Le dernier Samouraï",
+     "correct": false,
+     "hint": "Ceci est un film de Tom Cruise"
     },
     {
      "altText": "Ratatouille",
      "correct": false,
-     "hint": "This is a Pixar movie"
+     "hint": "Ceci est un film Pixar"
     }
    ],
    "id": "113604",
    "isEasy": false,
-   "question": "Scary Movies That Won the Saturn Horror Award"
+   "question": "Films d’horreur ayant remporté le Saturn Horror Award"
   },
   {
    "choices": [
     {
-     "altText": "Anglerfish",
-     "correct": false,
-     "hint": "Very scary... but no lines"
-    },
-    {
-     "altText": "Jellyfish",
-     "correct": false,
-     "hint": "Lots of them... but none speak"
-    },
-    {
-     "altText": "Hammerhead Shark",
+     "altText": "Requin-marteau",
      "correct": true,
-     "hint": "One of the three featured"
+     "hint": "L’un des trois présentés"
     },
     {
-     "altText": "Sea Turtle",
+     "altText": "Tortue de mer",
      "correct": true,
-     "hint": "Woah! Dude!"
+     "hint": "Woah ! Mec !"
+    },
+    {
+     "altText": "Raie Manta",
+     "correct": true,
+     "hint": "Il parle ET il chante !"
+    },
+    {
+     "altText": "Poisson chirurgien bleu",
+     "correct": true,
+     "hint": "Je ne me souviens plus si elle parle..."
+    },
+    {
+     "altText": "Baudroie",
+     "correct": false,
+     "hint": "Très effrayant... mais ne parle pas"
+    },
+    {
+     "altText": "Méduse",
+     "correct": false,
+     "hint": "Beaucoup d’entre eux... mais aucun ne parle"
     },
     {
      "altText": "Barracuda",
      "correct": false,
-     "hint": "A pivotal character... but doesn’t speak"
+     "hint": "Personnage clé... mais ne parle pas"
     },
     {
-     "altText": "Squid",
+     "altText": "Calmar",
      "correct": false,
-     "hint": "There’s a giant one in Finding Dory"
+     "hint": "Il y en a un géant dans Finding Dory"
     },
     {
-     "altText": "Ray",
-     "correct": true,
-     "hint": "He talks AND he sings!"
-    },
-    {
-     "altText": "Blue Tang",
-     "correct": true,
-     "hint": "I can’t remember if she does...."
-    },
-    {
-     "altText": "Orca",
+     "altText": "Orque",
      "correct": false,
-     "hint": "Orcas are found in colder waters"
+     "hint": "Les orques vivent dans des eaux plus froides"
     },
     {
-     "altText": "Starfish",
+     "altText": "Étoile de mer",
      "correct": true,
-     "hint": "Her name is Peach"
+     "hint": "Elle s’appelle Peach"
     }
    ],
    "id": "113610",
    "isEasy": true,
-   "question": "Creatures with Speaking Roles in [i]Finding Nemo[/i]"
+   "question": "Créatures parlantes dans [i]Nemo[/i]"
   },
   {
    "choices": [
     {
-     "altText": "Fugu Pufferfish",
+     "altText": "Poisson-globe",
      "correct": true,
-     "hint": "Takes a skilled chef to prepare"
+     "hint": "Nécessite un chef qualifié pour le préparer"
     },
     {
-     "altText": "Blessed Poison Frog",
+     "altText": "Grenouille empoisonnée bénie",
      "correct": true,
-     "hint": "Notice how brightly colored it is"
+     "hint": "Remarque ses couleurs vives"
     },
     {
-     "altText": "Mistletoe",
+     "altText": "Gui",
      "correct": true,
-     "hint": "For kissing, not for eating"
+     "hint": "Pour embrasser, pas pour manger"
     },
     {
      "altText": "Boa Constrictor",
      "correct": false,
-     "hint": "This is a constrictor"
+     "hint": "Ceci est un boa constrictor"
     },
     {
-     "altText": "Dandelions",
+     "altText": "Pissenlits",
      "correct": false,
-     "hint": "You can eat dandelions"
+     "hint": "On peut manger des pissenlits"
     },
     {
-     "altText": "Grasshopper",
+     "altText": "Sauterelle",
      "correct": false,
-     "hint": "You can eat grasshoppers"
+     "hint": "On peut manger des sauterelles"
     },
     {
-     "altText": "Monarch Butterfly",
+     "altText": "Papillon monarque",
      "correct": true,
-     "hint": "Notice the brightly colored wings"
+     "hint": "Regarde les ailes très colorées"
     },
     {
-     "altText": "Pine Cone",
+     "altText": "Pomme de pin",
      "correct": false,
-     "hint": "It’s crunchy, but not poisonous"
+     "hint": "C’est croquant, mais pas toxique"
     },
     {
-     "altText": "Fly Agaric Mushroom",
+     "altText": "Amanite tue-mouche",
      "correct": true,
-     "hint": "Do NOT make a salad out of this"
+     "hint": "Ne fais PAS une salade avec ça"
     },
     {
-     "altText": "Spider Crab",
+     "altText": "Crabe araignée",
      "correct": false,
-     "hint": "Poisonous crabs tend to be a lot smaller"
+     "hint": "Les crabes toxiques sont souvent beaucoup plus petits"
     }
    ],
    "id": "113612",
    "isEasy": true,
-   "question": "Is It Poisonous?"
+   "question": "Est-ce que c’est toxique ?"
   },
   {
    "choices": [
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     },
     {
      "altText": "Troll",
      "correct": true,
-     "hint": "This (like the question) is a troll"
+     "hint": "Ceci (comme la question) est un troll"
     }
    ],
    "id": "113614",
    "isEasy": false,
-   "question": "This is a Troll"
+   "question": "Ceci est un Troll"
   },
   {
    "choices": [
     {
      "altText": "The Leftovers",
      "correct": true,
-     "hint": "These are the leftovers"
+     "hint": "Ce sont les restes"
     },
     {
      "altText": "The Wire",
      "correct": true,
-     "hint": "This is the wire"
-    },
-    {
-     "altText": "House of Cards",
-     "correct": false,
-     "hint": "This is a house of cards"
+     "hint": "C’est le fil"
     },
     {
      "altText": "The Penguin",
      "correct": true,
-     "hint": "This is the penguin"
-    },
-    {
-     "altText": "Yellowjackets",
-     "correct": false,
-     "hint": "These are yellowjackets"
-    },
-    {
-     "altText": "Moon Knight",
-     "correct": false,
-     "hint": "Sounds more like a Disney Plus show"
+     "hint": "C’est le pingouin"
     },
     {
      "altText": "The Sopranos",
      "correct": true,
-     "hint": "These are the Sopranos"
+     "hint": "Ce sont les Sopranos"
+    },
+    {
+     "altText": "House of Cards",
+     "correct": false,
+     "hint": "Ceci est une maison de cartes"
+    },
+    {
+     "altText": "Yellowjackets",
+     "correct": false,
+     "hint": "Ce sont des frelons"
+    },
+    {
+     "altText": "Moon Knight",
+     "correct": false,
+     "hint": "Semble plutôt être une série Disney+"
     },
     {
      "altText": "The X-Files",
      "correct": false,
-     "hint": "These are “X” files"
+     "hint": "Ce sont des 'X' fichiers"
     },
     {
      "altText": "Russian Doll",
      "correct": false,
-     "hint": "This is a Russian doll"
+     "hint": "Ceci est une poupée russe"
     },
     {
      "altText": "White Lotus",
      "correct": true,
-     "hint": "This is a white lotus"
+     "hint": "Ceci est un lotus blanc"
     }
    ],
    "countrySpecific": true,
    "id": "113638",
    "isEasy": false,
-   "question": "Titles of HBO Dramas"
+   "question": "Titres de drames HBO"
   },
   {
    "choices": [
     {
      "altText": "Atlas",
      "correct": true,
-     "hint": "This is Atlas holding up the world"
-    },
-    {
-     "altText": "Statue of St. George",
-     "correct": false,
-     "hint": "This is Saint George slaying a dragon"
+     "hint": "Voici Atlas portant le monde"
     },
     {
      "altText": "Pandora",
      "correct": true,
-     "hint": "This is Pandora releasing all the ills into the world"
+     "hint": "Pandora libère tous les maux dans le monde"
     },
     {
-     "altText": "The Thinker",
-     "correct": false,
-     "hint": "This Rodin piece was originally inspired by Dante’s Inferno"
-    },
-    {
-     "altText": "Perseus with the Head of Medusa",
+     "altText": "Persée et la tête de Méduse",
      "correct": true,
-     "hint": "This is Perseus holding Medusa’s head"
+     "hint": "Perseus tenant la tête de Méduse"
     },
     {
-     "altText": "Icarus Falling",
+     "altText": "La chute d'Icare",
      "correct": true,
-     "hint": "This is Icarus flying too close to the sun"
+     "hint": "Icare volant trop près du soleil"
     },
     {
-     "altText": "Excalibur (Sword in the Stone)",
+     "altText": "Statue de Saint Georges",
      "correct": false,
-     "hint": "This is the sword King Arthur pulls from the stone"
+     "hint": "Saint Georges terrassant un dragon"
     },
     {
-     "altText": "Egyptian Book of the Dead",
+     "altText": "Excalibur (l'épée dans la pierre)",
      "correct": false,
-     "hint": "This is Anubis judging the dead"
+     "hint": "L’épée qu’Arthur retire de la pierre"
     },
     {
-     "altText": "Prometheus",
+     "altText": "Livre des morts égyptien",
+     "correct": false,
+     "hint": "Anubis jugeant les morts"
+    },
+    {
+     "altText": "Prométhée",
      "correct": true,
-     "hint": "This is Prometheus stealing fire for humanity"
+     "hint": "Prométhée volant le feu pour l’humanité"
     },
     {
-     "altText": "Thor, God of Thunder",
+     "altText": "Thor, dieu du tonnerre",
      "correct": false,
-     "hint": "This is Thor with his goats Tanngrisnir and Tanngnjóstr"
+     "hint": "Thor avec ses boucs Tanngrisnir et Tanngnjóstr"
     }
    ],
    "id": "113639",
    "isEasy": false,
-   "question": "This Art Depicts a Greek Myth"
+   "question": "Cette œuvre représente un mythe grec"
   },
   {
    "choices": [
     {
-     "altText": "Sci-Fi Movie Vehicles",
-     "correct": false,
-     "hint": "This is a hunk of junk won gambling"
-    },
-    {
-     "altText": "Fictional Flying Saucer",
-     "correct": false,
-     "hint": "This is a flying saucer"
-    },
-    {
-     "altText": "Saturn V Rocket",
+     "altText": "Fusée Saturn V",
      "correct": true,
-     "hint": "This is the Saturn V rocket"
+     "hint": "Voici la fusée Saturn V"
     },
     {
-     "altText": "Apollo 11 Command Module",
+     "altText": "module de commande Apollo 11",
      "correct": true,
-     "hint": "This was the Apollo 11 command module"
+     "hint": "Ceci est le module de commande Apollo 11"
     },
     {
-     "altText": "Solar Interstellar Vehicle",
-     "correct": false,
-     "hint": "We’re not intersteller... yet"
-    },
-    {
-     "altText": "Fictional Spaceship",
-     "correct": false,
-     "hint": "Looks like a Mass Effect ship to me"
-    },
-    {
-     "altText": "The ISS",
+     "altText": "La Station spatiale internationale",
      "correct": true,
-     "hint": "This is the International Space Station"
+     "hint": "Ceci est la Station spatiale internationale"
     },
     {
-     "altText": "Sputnik",
+     "altText": "Spoutnik",
      "correct": true,
-     "hint": "This was one of the first manmade objects in space"
+     "hint": "L’un des premiers objets artificiels dans l’espace"
     },
     {
-     "altText": "Human Colony on Mars",
+     "altText": "Véhicules de films de science-fiction",
      "correct": false,
-     "hint": "These are pods for a human colony on Mars"
+     "hint": "Ceci est un tas de ferraille gagné aux jeux"
+    },
+    {
+     "altText": "Soucoupe volante fictive",
+     "correct": false,
+     "hint": "Ceci est un OVNI"
+    },
+    {
+     "altText": "Véhicule interstellaire solaire",
+     "correct": false,
+     "hint": "Nous ne sommes pas encore interstellaires"
+    },
+    {
+     "altText": "Vaisseau spatial fictif",
+     "correct": false,
+     "hint": "Ressemble à un vaisseau Mass Effect"
+    },
+    {
+     "altText": "Colonie humaine sur Mars",
+     "correct": false,
+     "hint": "Ces modules sont pour une colonie humaine sur Mars"
     },
     {
      "altText": "Mars Rover",
      "correct": true,
-     "hint": "This is the Mars Rover"
+     "hint": "Ceci est le rover martien"
     }
    ],
    "id": "113640",
    "isEasy": false,
-   "question": "Real Space Tech That’s Actually Been To Space"
+   "question": "Technologie spatiale réelle ayant été dans l’espace"
   },
   {
    "choices": [
     {
-     "altText": "Cheese",
-     "correct": false,
-     "hint": "Richard Cheese is a singer"
-    },
-    {
      "altText": "Rice (Anne Rice)",
      "correct": true,
-     "hint": "This is the kind of food that would interview a vampire"
+     "hint": "Nourriture interviewant un vampire"
     },
     {
      "altText": "Brown (Dan Brown)",
      "correct": true,
-     "hint": "What color is this? Hmmm, it’s a Vatican mystery...."
-    },
-    {
-     "altText": "Strawberry",
-     "correct": false,
-     "hint": "You might be thinking of a baseball player"
+     "hint": "Quelle couleur ? Un mystère au Vatican..."
     },
     {
      "altText": "Sparks (Nicholas Sparks)",
      "correct": true,
-     "hint": "Those are a lot of Sparks"
-    },
-    {
-     "altText": "Crow",
-     "correct": false,
-     "hint": "Are you thinking of Sheryl?"
+     "hint": "Il y a beaucoup de Sparks"
     },
     {
      "altText": "King (Stephen King)",
      "correct": true,
-     "hint": "Who is that spooky guy who writes a LOT of scary books?"
-    },
-    {
-     "altText": "Bacon",
-     "correct": false,
-     "hint": "Francis Bacon is not on the best seller list"
+     "hint": "Qui est ce gars effrayant qui écrit BEAUCOUP de livres d’horreur ?"
     },
     {
      "altText": "Steel (Danielle Steel)",
      "correct": true,
-     "hint": "This is the best selling author on this list... Steel"
+     "hint": "L’auteur le plus vendu de cette liste... Steel"
+    },
+    {
+     "altText": "Cheese",
+     "correct": false,
+     "hint": "Richard Cheese est un chanteur"
+    },
+    {
+     "altText": "Strawberry",
+     "correct": false,
+     "hint": "Tu penses peut-être à un joueur de baseball"
+    },
+    {
+     "altText": "Crow",
+     "correct": false,
+     "hint": "Tu penses à Sheryl ?"
+    },
+    {
+     "altText": "Bacon",
+     "correct": false,
+     "hint": "Francis Bacon n’est pas sur la liste des best-sellers"
     },
     {
      "altText": "Gates",
      "correct": false,
-     "hint": "Might be thinking of the computer guy"
+     "hint": "Tu penses peut-être à l’informaticien"
     }
    ],
    "id": "113641",
    "isEasy": false,
-   "question": "Last Name of a Top 100 Best-Selling Author"
+   "question": "Nom de famille d’un auteur parmi les 100 meilleures ventes"
   }
- ]
+]
 }

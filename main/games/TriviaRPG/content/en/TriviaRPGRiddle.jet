@@ -2,162 +2,153 @@
  "content": [
   {
    "altSpellings": [],
-   "answer": "Bed",
-   "clue": "You’ve got this covered... with covers.",
+   "answer": "Lit",
+   "clue": "Vous avez tout prévu... avec des housses.",
    "id": "106895",
-   "riddle": "Flowers, rivers and you have one\nA place for rest and a place for fun\nTo get yours, go to the store & pay\nBut you can also make it every day\n\nWhat am I?"
+   "riddle": "Les fleurs, les rivières, et vous en avez un\nUn lieu de repos, parfois de doux lendemains\nVous pouvez l’acheter dans quelque magasin\nMais chaque matin, vous le refaites de vos mains\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Hearts"
+    "Coeurs",
+    "Cœur",
+    "Cœur"
    ],
-   "answer": "Heart",
-   "clue": "In constant conflict with your head",
+   "answer": "Coeur",
+   "clue": "En conflit permanent avec votre tête",
    "id": "106896",
-   "riddle": "It takes a lot of this to best a quest\nIt’s a treasure always found in a chest\nWhen the beatings stop, it will attack\nSeen on 13 cards in the pack\n\nWhat is it?"
+   "riddle": "Il vous faut tant de vaillance pour venir à bout d'une quête\nC'est un trésor qu'on garde, précieux, au fond d'un coffret discret\nQuand les battements s'apaisent, il sait parfois se muer en attaque\nEt l'on reconnaît sa couleur sur treize cartes d'un même paquet\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "A needle",
-    "Sewing needle"
+    "Une aiguille",
+    "Aiguille à coudre"
    ],
-   "answer": "Needle",
-   "clue": "It follows the thread to get to the point",
+   "answer": "Aiguille",
+   "clue": "Il suit le fil pour aller droit au but.",
    "id": "110118",
-   "riddle": "I have an eye, but can not see \nOn a leash, dangerous when free\nI pierce and pull while I gleam\nLike a sword, but not what I seam\n\nWhat am I?"
+   "riddle": "Vous tenez en main mon éclat fin\nJe glisse et pique sans grand bruit\nJ’ai un œil d’or pour guider le fil\nEt couds le monde, point par point, sans répit\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "A Bow",
-    "Bows"
+    "Un Arc",
+    "Arcs"
    ],
-   "answer": "Bow",
-   "clue": "It rhymes with “no” and “cow”",
+   "answer": "Arc",
+   "clue": "Ce mot rhyme avec “barque”",
    "id": "111220",
-   "riddle": "You pull it back when target’s found\nYou push it across to make a sound\nYou grab it with foes at the gate\nYou take it when the show goes great\n\nWhat is it?"
+   "riddle": "Je me tends sous vos doigts avant de chanter\nMon souffle invisible fend l’air et la forêt\nJe garde le silence quand tombe ma proie\nEt me courbe toujours sans jamais plier sous la loi\n\nQue suis-je ?"
   },
   {
-   "altSpellings": [
-    "Window"
-   ],
-   "answer": "Glass",
-   "clue": "The answer is clear... transparent, even.",
+   "altSpellings": [], 
+   "answer": "Verre",
+   "clue": "La réponse est claire... transparente, même.",
    "id": "111629",
-   "riddle": "A barrier known for what I let through\nWhen I was born, it really blew\nWhen I’m framed, it’s a pane\nEven more beautiful when I am stained\n\nWhat am I?"
+   "riddle": "Je recueille ce que l’on verse chaque jour\nTransparent comme l’air, fragile en mon contour\nOn me brise parfois par maladresse ou par jeu\nEt je reflète le monde quand vous regardez en feu\n\nQue suis-je ?"
   },
   {
-   "altSpellings": [
-    "A fence",
-    "Fencing"
-   ],
-   "answer": "Fence",
-   "clue": "I won’t try to whitewash the answer",
+   "altSpellings": [],
+   "answer": "Haie",
+   "clue": "Je sépare souvent deux jardins.",
    "id": "112359",
-   "riddle": "This is something you can do with a saber\nAnd it can drive apart friendly neighbors\nFind the weak link, if you need to trick it\nI’ll keep you posted, if you want to pick it\n\nWhat is it?"
+   "riddle": "On me dresse souvent pour marquer un domaine\nJe sépare les champs, parfois les cœurs, sans haine.\nJe pique un peu, mais j’abrite les nids\nEt l’on me taille quand je pousse trop vite, la nuit\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Nails",
-    "A Nail"
+    "Clous"
    ],
-   "answer": "Nail",
-   "clue": "Be sharp to solve this, not flat-headed",
+   "answer": "Clou",
+   "clue": "Soyez pointu pour résoudre ce problème, ne restez pas à plat.",
    "id": "112571",
-   "riddle": "Hit me on the head or file me away\nSome are painted, most are gray\nLook in your house, you’ll find plenty\nBut on you right now, should be twenty\n\nWhat am I?"
+   "riddle": "On me frappe au front pour me faire entrer\nJe tiens sans bouger, sans jamais crier\nPetit et dur, brillant ou rouillé\nSans moi, bien des murs resteraient inachevés\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Nets",
-    "A Net"
+    "Filets",
+    "Un Filet"
    ],
-   "answer": "Net",
-   "clue": "I stop pucks, but let basketballs go through",
+   "answer": "Filet",
+   "clue": "J'arrête les ballons de foot, mais je laisse passer les ballons de basket.",
    "id": "112996",
-   "riddle": "I hold even though I’m full of holes\nIn many games I am the end goal\nIt’s gross if I’m not in the final line\nSometimes I make your legs look fine!\n\nWhat am I?"
+   "riddle": "Je retiens tout, bien que percé de trous\nAu jeu, sans moi, nul but n’est vraiment doux\nDans l’eau, je piège, sur la jambe, j’enlace\nEt sur la table, parfois, je fais festin de grâce\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Teeth",
-    "A Tooth"
+    "Dents",
+    "Une dent"
    ],
-   "answer": "Tooth",
-   "clue": "It’s painful to have my cavity searched",
+   "answer": "Dent",
+   "clue": "C'est douloureux de se faire fouiller les cavités",
    "id": "112998",
-   "riddle": "Lost by the young and sought by fairies\nIf you find a hole, it’s pretty scary\nI’m no queen, but can wear a crown\nPresent in smiles, absent in frowns\n\nWhat am I?",
+   "riddle": "Perdue des enfants, chérie des souris\nSi je laisse un trou, c’est rarement joli\nJe ne suis pas reine, mais peut porter une couronne\nJe brille aux sourires, quand les grimaces m’abandonnent\n\nQue suis-je ?",
    "x": false
   },
   {
    "altSpellings": [
-    "Coldness",
-    "The Cold"
+    "Le Froid"
    ],
-   "answer": "Cold",
-   "clue": "Hark! What is cooler than being cool?",
+   "answer": "Froid",
+   "clue": "Écoutez ! Qu'y a-t-il de plus frais que la fraîcheur ?",
    "id": "113001",
-   "riddle": "You can catch me but you can’t hold me\nI’m what the top and bottom poles be \nYou can find me when the numbers drop\nAnd what you become when your heart stops\n\nWhat am I?"
+   "riddle": "On peut m’attraper sans jamais me garder,\nC'est surtout aux pôles que je peux régner\nQuand j'arrive, les chiffres vont vers le bas\nEt quand ton cœur s’arrête… je suis déjà là\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Stools"
+    "Selles"
    ],
-   "answer": "Stool",
-   "clue": "Like a chair, but it doesn’t have your back",
+   "answer": "Selle",
+   "clue": "On s’assoit parfois sur moi, on me laisse parfois partir",
    "id": "113021",
-   "riddle": "You’ll always find me at the bar\nGot three legs, but don’t move far\nMade of wood or something smelly\nDoctors test me to check your belly\n\nWhat am I?"
+   "riddle": "Sur le dos d’un roi ou d’un cheval\nOu dans ton corps, je joue mon bal\nJe fais voyager ou je soulage\nSelon le lieu, je change de visage\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Framed",
-    "A Frame",
-    "Framing",
-    "Frames"
+    "Cadré",
+    "Un cadre",
+    "Cadrer",
+    "Cadres"
    ],
-   "answer": "Frame",
-   "clue": "I’m pretty as a picture, which is why people try to hang me.",
+   "answer": "Cadre",
+   "clue": "Je suis belle comme une image, c'est pourquoi les gens essaient de me pendre.",
    "id": "113136",
-   "riddle": "I surround the proof you’ve taken classes\nI’m not a shelf, but I hold your glasses\nI may contain a king, a love or masterpiece\nIf I happen to you, you’re sought by police\n\nWhat am I?"
+   "riddle": "Je ceins la glace ou le tableau ancien,\nOu je soutiens la porte en son écrin.\nJe guide parfois ceux qui dirigent et m’écoutent,\nSans moi, tout s’effondre, les rôles se dégoûtent.\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "Bones",
-    "A Bone"
+    "Un os"
    ],
-   "answer": "Bone",
-   "clue": "This answer tickles the ribs of numbskulls",
+   "answer": "Os",
+   "clue": "Cette réponse chatouille les côtes des imbéciles",
    "id": "113137",
-   "riddle": "Pick me if you have problems, break me to wish\nYou must avoid me when dining with fish \nTwo folks might do me… that’s the rumor\nSome call me funny because of my humer\n\nWhat am I?",
+   "riddle": "Fragile parfois, je cède à la chute,\nJe soutiens le corps et garde sa structure.\nDans la chair ou les restes, je témoigne en silence,\nEt l’on dit que certains n’ont que la peau sur ma substance.\n\nQue suis-je ?",
    "x": false
   },
   {
    "altSpellings": [
-    "Inkwell",
-    "Inking",
-    "Inks"
+    "Encres"
    ],
-   "answer": "Ink",
-   "clue": "I’m commonly black or blue, red means you messed up!",
+   "answer": "Encre",
+   "clue": "Je suis généralement noir ou bleu, rouge signifie que tu as fait une erreur!",
    "id": "113138",
-   "riddle": "I’m loaded in the weapon that’s mightiest\nIf I’m messy, it’s a psyche sight-see test\nCheck my levels to ensure your tints\nCome to my pad if you want the prints\n\nWhat am I?"
+   "riddle": "Je remplis l’arme qui rend le mot puissant\nMes taches révèlent parfois l’âme des gens\nOn me contrôle pour que tes couleurs tiennent longtemps\nEt sur le papier, mes marques restent à tout instant\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "An Arrow",
-    "A Arrow",
-    "Arrows"
+    "Une flèche",
+    "Flèches"
    ],
-   "answer": "Arrow",
+   "answer": "Flèche",
    "clue": "Take a bow... then fire!",
    "id": "113139",
-   "riddle": "I have feathers, but no wings\nI can fly far thanks to a string\nGet gold if my aim is crafted\nBut your target just gets shafted\n\nWhat am I?"
+   "riddle": "J’ai des plumes, mais je ne bats jamais d’ailes,\nJe file loin grâce à la corde fidèle.\nJe coiffe parfois la tour d’un clocher ancien,\nOu guide ton chemin, pointant vers ton destin.\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
-    "A Plate"
+    "Une Plaque"
    ],
-   "answer": "Plate",
+   "answer": "Plaque",
    "clue": "I’m quite a dish",
    "id": "113141",
-   "riddle": "I’m a circle that contains three squares\nI’m home in times both foul and fair\nUnder your feet, I shake when unstable\nWhen under your nose, I’m on a table\n\nWhat am I?"
+   "riddle": "Fine et rigide, je couvre un mur ou un toit,\nJe porte un nom, un numéro, ou la loi.\nSous tes pieds je bouge quand la terre est en trépas\nEt si tu me manques, tu est à côté de celle-là.\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -167,7 +158,7 @@
    "answer": "Horn",
    "clue": "Not just the GOAT, but a bull has two as well",
    "id": "114193",
-   "riddle": "Artists who try me really blew\nThe Greatest Of All Time has two\nA car uses me to call you a nitwit\nBut I have a point, you must admit\n\nWhat am I?"
+   "riddle": "Artists who try me really blew\nThe Greatest Of All Time has two\nA car uses me to call you a nitwit\nBut I have a point, you must admit\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -177,7 +168,7 @@
    "answer": "Tail",
    "clue": "It’s not heads, so it must be...",
    "id": "114194",
-   "riddle": "I follow behind and I never lead\nWhen I’m happy, I pick up speed\nI’m found on cats, cows and change\nWhen I’m tall, my story is strange\n\nWhat am I?"
+   "riddle": "I follow behind and I never lead\nWhen I’m happy, I pick up speed\nI’m found on cats, cows and change\nWhen I’m tall, my story is strange\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -187,7 +178,7 @@
    "answer": "Jacket",
    "clue": "In the first half, I’m a _____ of all trades",
    "id": "114195",
-   "riddle": "I’m the layer books and bullets share\nPut me on when you’re not bare\nI display a letter when you’re great\nCan’t escape me when I’m strait \n\nWhat am I?"
+   "riddle": "I’m the layer books and bullets share\nPut me on when you’re not bare\nI display a letter when you’re great\nCan’t escape me when I’m strait \n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -197,7 +188,7 @@
    "answer": "Bee",
    "clue": "In multiple choice, always pick...",
    "id": "114196",
-   "riddle": "I’m famous for the food I make\nBut I do not chop, steam or bake\nI’m scary if you have an allergy\nAnd I’m loyal to the monarchy\n\nWhat am I?"
+   "riddle": "I’m famous for the food I make\nBut I do not chop, steam or bake\nI’m scary if you have an allergy\nAnd I’m loyal to the monarchy\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -207,7 +198,7 @@
    "answer": "Line",
    "clue": "Draw a straight one to find the simplest answer",
    "id": "114197",
-   "riddle": "Stand in me to ride or use me on a date\nDon’t cut me! Or you’ll inspire a lot of hate\nI dry out hungry fishes and your laundry, too\nI’m also a type of dancing that you can do\n\nWhat am I?"
+   "riddle": "Stand in me to ride or use me on a date\nDon’t cut me! Or you’ll inspire a lot of hate\nI dry out hungry fishes and your laundry, too\nI’m also a type of dancing that you can do\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -219,7 +210,7 @@
    "answer": "Hay/Hey",
    "clue": "____ Ya, _____ Dude or _____ Gabba Gabba.... depending on your generation",
    "id": "114198",
-   "riddle": "I’m basically a whole bunch of little sticks\nWhen I’m stacked, I can hide a little prick\nHorses take me in, greeters spit me out\nWant some attention? Give me a shout!\n\nWhat am I?",
+   "riddle": "I’m basically a whole bunch of little sticks\nWhen I’m stacked, I can hide a little prick\nHorses take me in, greeters spit me out\nWant some attention? Give me a shout!\n\nQue suis-je ?",
    "x": true
   },
   {
@@ -231,7 +222,7 @@
    "answer": "Sugar",
    "clue": "I’m too sweet to be square, but sometimes I’m a cube",
    "id": "114199",
-   "riddle": "As crystals go, I’m small but many\nEqual is an option, if you don’t have any\nFound with cane, then white and new\nI help some swallow a bitter brew\n\nWhat am I?"
+   "riddle": "As crystals go, I’m small but many\nEqual is an option, if you don’t have any\nFound with cane, then white and new\nI help some swallow a bitter brew\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -241,7 +232,7 @@
    "answer": "Ring",
    "clue": "I’m on your finger; and after loud noises, I’m in your ear",
    "id": "114200",
-   "riddle": "I am both the thing that lovers trade\nAnd the place where fights are played\nI’m shared by planets and a bell\nI’ll be with you forever if you swell\n\nWhat am I?"
+   "riddle": "I am both the thing that lovers trade\nAnd the place where fights are played\nI’m shared by planets and a bell\nI’ll be with you forever if you swell\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -256,7 +247,7 @@
    "answer": "Bouquet",
    "clue": "My first syllable is “boo,” but throw me on stage when you mean “yay!”",
    "id": "114201",
-   "riddle": "I’m a dozen corpses wrapped in plastic\nBut as a gift, I’m fantastic\nA welcome sight in sickness or success\nIf you get your hands on me, you’re next!\n\nWhat am I?"
+   "riddle": "I’m a dozen corpses wrapped in plastic\nBut as a gift, I’m fantastic\nA welcome sight in sickness or success\nIf you get your hands on me, you’re next!\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -267,7 +258,7 @@
    "answer": "Firewood",
    "clue": "Water wouldn’t... but I’m the opposite",
    "id": "114202",
-   "riddle": "My purpose is to be destroyed… slowly\nI’m at the feet of those found unholy\nYou can see me in your place or pit\nYou only axe me in after I’ve split\n\nWhat am I?"
+   "riddle": "My purpose is to be destroyed… slowly\nI’m at the feet of those found unholy\nYou can see me in your place or pit\nYou only axe me in after I’ve split\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -277,7 +268,7 @@
    "answer": "Level",
    "clue": "When I’m being a tool, you want my little bubble to be mid",
    "id": "114226",
-   "riddle": "I’m another word for story, but not tale\nIf you’re not on me, your honesty fails\nFound in video games and a tool shack\nSpelled the same forward and back\n\nWhat am I?"
+   "riddle": "I’m another word for story, but not tale\nIf you’re not on me, your honesty fails\nFound in video games and a tool shack\nSpelled the same forward and back\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -287,7 +278,7 @@
    "answer": "Wish",
    "clue": "You can make me on a shooting star, or a loose eyelash",
    "id": "114227",
-   "riddle": "Once a year, you birth me by blowing\nHave a coin? I’m summoned by throwing \nI’m a reward in a bone-breaking duel\nBut keep me secret; that’s the rule\n\nWhat am I?",
+   "riddle": "Once a year, you birth me by blowing\nHave a coin? I’m summoned by throwing \nI’m a reward in a bone-breaking duel\nBut keep me secret; that’s the rule\n\nQue suis-je ?",
    "x": false
   },
   {
@@ -298,7 +289,7 @@
    "answer": "Button",
    "clue": "You ________ up when you’re cold or need to be quiet",
    "id": "114228",
-   "riddle": "If you’re not real, I’ll be your eyes\nI’ll adorn your clothes and supplies\nI hold it together when you’re dressed\nThings get started once I’m pressed\n\nWhat am I?"
+   "riddle": "If you’re not real, I’ll be your eyes\nI’ll adorn your clothes and supplies\nI hold it together when you’re dressed\nThings get started once I’m pressed\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -309,7 +300,7 @@
    "answer": "Riddle",
    "clue": "What are you solving RIGHT NOW?",
    "id": "114229",
-   "riddle": "This is what ravens or bullets may do\nYou’ll question the answer, and if it is “true”\nThey use clever wordplay for playful evasion \nThey can even be meta, on some occasions\n\nWhat is it?"
+   "riddle": "This is what ravens or bullets may do\nYou’ll question the answer, and if it is “true”\nThey use clever wordplay for playful evasion \nThey can even be meta, on some occasions\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -319,7 +310,7 @@
    "answer": "Fork",
    "clue": "You’ll dish out an answer, spooner or later",
    "id": "114230",
-   "riddle": "I create decisions on the road\nVehicle that lifts a heavy load\nHands can be used for a snack\nI prefer a three-pronged attack\n\nWhat am I?"
+   "riddle": "I create decisions on the road\nVehicle that lifts a heavy load\nHands can be used for a snack\nI prefer a three-pronged attack\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -329,7 +320,7 @@
    "answer": "Door",
    "clue": "Don’t have to key to this question? Try knocking!",
    "id": "114231",
-   "riddle": "When I’m chained, I restrain others\nSliding & revolving are my brothers\nI’m made for pets and for cars\nIf I am left open, I can become a jar\n\nWhat am I?"
+   "riddle": "When I’m chained, I restrain others\nSliding & revolving are my brothers\nI’m made for pets and for cars\nIf I am left open, I can become a jar\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -340,7 +331,7 @@
    "answer": "Arms",
    "clue": "An octopus has eight and the law has a long one",
    "id": "114232",
-   "riddle": "Most have a couple, but a soldier has more\nI’m gone when dis-sed and half of me is fore\nWhen my race begins, it may never stop\nThe tips are at the bottom and pit at the top\n\nWhat am I?"
+   "riddle": "Most have a couple, but a soldier has more\nI’m gone when dis-sed and half of me is fore\nWhen my race begins, it may never stop\nThe tips are at the bottom and pit at the top\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -351,7 +342,7 @@
    "answer": "Crab",
    "clue": "I’m a little shellfish, so forgive me for pinching",
    "id": "114233",
-   "riddle": "I’m always armored and always armed\nBut a band keeps you from being harmed\nI’m born in the summer with an attitude\nI’m an apple, a cake and person who’s rude\n\nWhat am I?"
+   "riddle": "I’m always armored and always armed\nBut a band keeps you from being harmed\nI’m born in the summer with an attitude\nI’m an apple, a cake and person who’s rude\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -361,7 +352,7 @@
    "answer": "Space",
    "clue": "I’m known for being dark, even though I’m full of billions of lights",
    "id": "114234",
-   "riddle": "You need tech, training & a ship to enter me\nOr just walk into the next empty room you see\nWhen made with lines, I’m filled by a car\nIf your sentence needs a break, try my bar\n\nWhat am I?"
+   "riddle": "You need tech, training & a ship to enter me\nOr just walk into the next empty room you see\nWhen made with lines, I’m filled by a car\nIf your sentence needs a break, try my bar\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -371,7 +362,7 @@
    "answer": "Club",
    "clue": "Got no Heart? Out of Diamonds? You might have me",
    "id": "114235",
-   "riddle": "In a heated physical fight, use me to win\nBut if you’re not cool, you can’t get in\nI’m a sandwich with a tiny piece of wood\nAnd a group that shares a common good\n\nWhat am I?"
+   "riddle": "In a heated physical fight, use me to win\nBut if you’re not cool, you can’t get in\nI’m a sandwich with a tiny piece of wood\nAnd a group that shares a common good\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -381,7 +372,7 @@
    "answer": "Lemon",
    "clue": "If you’re feeling sour, just say “Yellow!”",
    "id": "114236",
-   "riddle": "I’m a versatile gift given by life\nI’m full of acid, so use a knife\nI’m a vehicle that will not go\nBut I pay out with three in a row\n\nWhat am I?"
+   "riddle": "I’m a versatile gift given by life\nI’m full of acid, so use a knife\nI’m a vehicle that will not go\nBut I pay out with three in a row\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -391,7 +382,7 @@
    "answer": "Joke",
    "clue": "Knock, knock? Who’s there? ...A clue",
    "id": "114237",
-   "riddle": "I’m a tool that’s used to break ice\nIf I’m practical, it’s not very nice\nWhen I’m running, I won’t go away\nOn stage, I either die or slay\n\nWhat am I?"
+   "riddle": "I’m a tool that’s used to break ice\nIf I’m practical, it’s not very nice\nWhen I’m running, I won’t go away\nOn stage, I either die or slay\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -401,7 +392,7 @@
    "answer": "Tank",
    "clue": "Armies have me, but as a top, I have no arms",
    "id": "114277",
-   "riddle": "I’m known for taking lots of hits\nI’m full of soldiers or full of fish\nAs a shirt, it’s a gun show\nIf I’m empty, you won’t go\n\nWhat am I?"
+   "riddle": "I’m known for taking lots of hits\nI’m full of soldiers or full of fish\nAs a shirt, it’s a gun show\nIf I’m empty, you won’t go\n\nQue suis-je ?"
   },
   {
    "altSpellings": [
@@ -410,9 +401,9 @@
     "A Spell"
    ],
    "answer": "Spell",
-   "clue": "“A-B-R-A-C-A-D-A-B-R-A” is an example",
+   "clue": "“A-B-R-A-C-A-D-A-B-R-A” est un exemple",
    "id": "114278",
-   "riddle": "Hold a Bee to see who’s my ruler\nA feat for wizards and grade schoolers\nFound in books or farmer dog song\nIn this sentance, I’m done wrong\n\nWhat am I?"
+   "riddle": "Hold a Bee to see who’s my ruler\nA feat for wizards and grade schoolers\nFound in books or farmer dog song\nIn this sentance, I’m done wrong\n\nQue suis-je ?"
   }
  ]
 }
