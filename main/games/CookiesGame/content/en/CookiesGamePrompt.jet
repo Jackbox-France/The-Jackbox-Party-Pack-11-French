@@ -8,7 +8,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Common Phobias",
+   "text": "Phobies courantes",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -19,7 +19,7 @@
    "id": "111270",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "New Breeds of Birds",
+   "text": "Des nouvelles espèces d'oiseaux",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -31,7 +31,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Sesame Street Characters (Real OR Your Own Creation)",
+   "text": "Personnages de Sesame Street (Réels OU De votre imagination)",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -42,7 +42,7 @@
    "id": "111276",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Un-Adoptable Pets",
+   "text": "Animaux non-adoptables",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -53,7 +53,7 @@
    "id": "111277",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen At A Magic Show",
+   "text": "Choses vus lors d'un spectacle de magie",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -64,7 +64,7 @@
    "id": "111278",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things That Are Extinct",
+   "text": "Choses disparues",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -75,7 +75,7 @@
    "id": "111281",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen On A Beach Day",
+   "text": "Choses vus lors d'une journée à la plage",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -87,7 +87,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things From Italy",
+   "text": "Choses d'Italie",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -99,7 +99,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Very Bad Playground Equipment",
+   "text": "Équipement d'aire de jeu très mauvais",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -110,7 +110,7 @@
    "id": "111284",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Busted Children’s Toys",
+   "text": "Jouets pour enfants cassés",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -121,7 +121,7 @@
    "id": "111285",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Seen On The Set Of A B-Movie",
+   "text": "Vu au plateau d'un film de série B",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -133,7 +133,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Extremely Impractical Shoes",
+   "text": "Chaussures extrêmement pas pratique",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -145,7 +145,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Magical Mystical Creatures",
+   "text": "Créatures mystiques et magiques",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -157,7 +157,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Seen In A Mad Scientist's Lab",
+   "text": "Vu au labo d'un méchant scientifique",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -169,7 +169,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "A Cereal Mascot!",
+   "text": "Une mascotte de céréales !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -181,7 +181,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Paranormal Entities",
+   "text": "Entités paranormales",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -192,7 +192,7 @@
    "id": "111295",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Seen On A Snow Day",
+   "text": "Vu lors d'une journée enneigée",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -203,7 +203,7 @@
    "id": "111296",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Stuff In Your Junk Drawer",
+   "text": "Choses dans votre tiroir rempli de bazar",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -215,7 +215,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Stuff You See At Grandma's House",
+   "text": "Choses visibles chez une grand-mère",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -227,7 +227,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things That Live In Haunted Houses",
+   "text": "Choses vivantes dans les maisons hantées",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -239,7 +239,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Fancy Hats!",
+   "text": "Chapeaux sophistiqués !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -250,7 +250,7 @@
    "id": "111304",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things With Wings",
+   "text": "Choses avec des ailes",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -262,7 +262,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Your Best Self-Portrait",
+   "text": "Votre meilleur auto-portrait",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -274,7 +274,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Found At The Bottom Of A Ball Pit",
+   "text": "Trouvé au fin-fond d'un trou pour balle",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -286,7 +286,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Seen At Area 51",
+   "text": "Choses vus à la zone 51",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -298,7 +298,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Animals Seen In A Bad Zoo",
+   "text": "Animaux vus dans un mauvais zoo",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -309,7 +309,7 @@
    "id": "111460",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Great Gifts For Grandpa",
+   "text": "Bons cadeaux pour grand-père",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -321,7 +321,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Weird Little Bugs",
+   "text": "Des petits insectes bizzares",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -333,7 +333,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Baby Animals!",
+   "text": "Des bébés animaux !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -345,7 +345,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Kids Are Scared Of",
+   "text": "Choses dont les enfants ont peur",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -357,7 +357,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Seen At The Airport",
+   "text": "Choses vus à l'aéroport",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -368,7 +368,7 @@
    "id": "111470",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Stuff You'd Find At The Farm",
+   "text": "Choses qu'on trouve à la ferme",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -379,7 +379,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You See At The Gas Station",
+   "text": "Choses qu'on voit à la station-service",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -389,7 +389,7 @@
    "id": "112122",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Seen At A Bachelor/Bachelorette Party",
+   "text": "Vu lors d'une fête de célibataires",
    "type": "SECOND",
    "weights": "DEFAULT",
    "x": true
@@ -400,7 +400,7 @@
    "id": "112124",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Fetishes!!!",
+   "text": "Des fétiches !!!",
    "type": "SECOND",
    "weights": "DEFAULT",
    "x": true
@@ -412,7 +412,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Uncommon Illnesses",
+   "text": "Des maladies rares",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -422,7 +422,7 @@
    "id": "112126",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Stuff From 1776",
+   "text": "Choses de 1776",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -433,7 +433,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Dolls No One Bought",
+   "text": "Des poupées que personne n'a achetée",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -443,7 +443,7 @@
    "id": "112130",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Stuff You See At Band Camp",
+   "text": "Choses visibles dans un camp musical",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -464,7 +464,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Purchased by the Ultra-Rich",
+   "text": "Choses achetés par l'ultra-riche",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -475,7 +475,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "America's Ugliest Dogs",
+   "text": "Les chiens les plus moches d'Amérique",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -486,7 +486,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Parts of a Car (Probably)",
+   "text": "Parties d'une voiture (probablement)",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -496,7 +496,7 @@
    "id": "112139",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things That Make People Anxious",
+   "text": "Choses qui rendent les gens anxieux",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -507,7 +507,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Awful, Awful Clowns",
+   "text": "Clowns horribles, horribles",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -517,7 +517,7 @@
    "id": "112145",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Seen On Hollywood Boulevard",
+   "text": "Vu au Boulevard Hollywood",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -528,7 +528,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Something From A Video Game",
+   "text": "Quelque chose d'un jeu vidéo",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -538,7 +538,7 @@
    "id": "112147",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen While In A Cave",
+   "text": "Choses visibles en étant dans une cave",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -549,7 +549,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Mermaids, The Wrong Way",
+   "text": "Des sirènes, mais de la mauvaise manière",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -560,7 +560,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "People's Sexiest Men Alive",
+   "text": "L'Homme le plus sexy encore vivant",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -571,7 +571,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things That Are Kissable",
+   "text": "Choses qui peuvent être embrassés",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -581,7 +581,7 @@
    "id": "112154",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Old-Timey Inventions",
+   "text": "Inventions du vieux temps",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -591,7 +591,7 @@
    "id": "112810",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things You'd See In A Beauty Regimen",
+   "text": "Choses visibles lors d'un régime beauté",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -602,7 +602,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "New Types Of Hybrid Animals",
+   "text": "Nouveaux types d'animaux hybrides",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -613,7 +613,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Godzilla Might Fight",
+   "text": "Choses que Godzilla pourrait combattre",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -623,7 +623,7 @@
    "id": "112875",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen At The Dentist",
+   "text": "Choses vus chez le dentiste",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -633,7 +633,7 @@
    "id": "112876",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things You See At The County Fair",
+   "text": "Choses visibles à la foire du comté",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -644,7 +644,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Rejected Pokémon",
+   "text": "Pokémon rejeté",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -655,7 +655,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Cool Space Stuff!",
+   "text": "Choses de l'espace cool !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -665,7 +665,7 @@
    "id": "112881",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Useful During The Apocalypse",
+   "text": "Utile lors d'une apocalypse",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -676,7 +676,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Mascots That Teach Lessons About Puberty",
+   "text": "Mascotes qui enseignent des leçons concernant la puberté",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -686,7 +686,7 @@
    "id": "112883",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things You'd See At The Oscars",
+   "text": "Choses qu'on verrait aux Oscars",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -696,7 +696,7 @@
    "id": "112885",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Teeny-Tiny Things Super Close Up",
+   "text": "Choses minuscules en gros plan",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -706,7 +706,7 @@
    "id": "112886",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things From The Year 3000",
+   "text": "Choses des années 3000",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -716,7 +716,7 @@
    "id": "112887",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things You'd See On A First Date",
+   "text": "Choses qu'on verrait lors d'un premier rendez-vous",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -727,7 +727,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You See At The Mall",
+   "text": "Choses qu'on verrait au centre commercial",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -738,7 +738,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Seen At A Boy Band/K-Pop Concert",
+   "text": "Choses vus lors d'un \"Boys Band\" / Concert de K-Pop",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -749,7 +749,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Big, Elaborate Wigs!",
+   "text": "Grandes perruques élaborés",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -760,7 +760,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Seen At Elementary School Field Day",
+   "text": "Choses vus lors d'un cours de sport en primaire",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -771,7 +771,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things From Fairytales",
+   "text": "Choses des contes de fées",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -781,7 +781,7 @@
    "id": "112978",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Impressive Feats of Architecture",
+   "text": "Incroyables exploits d'architecture",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -792,7 +792,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You See At The Funeral Home",
+   "text": "Choses qu'on verrait à la maison funéraire",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -802,7 +802,7 @@
    "id": "112980",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen At A Middle School",
+   "text": "Choses vus au collège",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -812,7 +812,7 @@
    "id": "112981",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things You See At A Bad Wedding",
+   "text": "Choses qu'on verrait lors d'un mauvais mariage",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -823,7 +823,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You See In An Action Movie!",
+   "text": "Choses qu'on verrait dans un film d'action !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -833,7 +833,7 @@
    "id": "112984",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Unusual Valentine's Day Gifts",
+   "text": "Cadeaux inhabituels pour la Saint-Valentin",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -844,7 +844,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Ingredients In A Witches' Brew",
+   "text": "Ingrédients d'une potion",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -854,7 +854,7 @@
    "id": "113076",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Early Attempts At Inventing The Saxophone",
+   "text": "Premiers essais pour inventer le saxophone",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -865,7 +865,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Recalled Food Products",
+   "text": "Produits alimentaires rappelés",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -875,7 +875,7 @@
    "id": "113080",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Unique Exercise Equipment",
+   "text": "Équipement d'exercice unique",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -885,7 +885,7 @@
    "id": "113085",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Seen At A Big Music Festival",
+   "text": "Vu lors d'un grand festival de musique",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -896,7 +896,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Unsettling Puppets",
+   "text": "Des marionnettes perturbantes",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -906,7 +906,7 @@
    "id": "113089",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Big, Strange Sandwiches",
+   "text": "Des grands et étranges sandwichs",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -916,7 +916,7 @@
    "id": "113117",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen At An Office Potluck",
+   "text": "Choses vus lors d'un repas-partage au bureau",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -927,7 +927,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things Seen On Broadway!",
+   "text": "Choses vus sur Broadway !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -937,7 +937,7 @@
    "id": "113120",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things You'd See In Ancient Rome",
+   "text": "Choses qu'on verrait à l'ancien Rome",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -947,7 +947,7 @@
    "id": "113123",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "The Wonders of the Circus!",
+   "text": "L'émerveillement du Cirque !",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -958,7 +958,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things That Will Be Very Valuable One Day",
+   "text": "Choses qui, un jour, deviendra de valeur",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -968,7 +968,7 @@
    "id": "113128",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things In A Child’s Dream House",
+   "text": "Choses dans la maison de rêve d'un enfant",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -979,7 +979,7 @@
    "id": "113129",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen While On Public Transit",
+   "text": "Choses vus en étant en transports publics",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -990,7 +990,7 @@
    "id": "113131",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Rejected Slipknot Masks",
+   "text": "Masques à nœud coulant rejetés",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1001,7 +1001,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "VERY Carnivorous Plants",
+   "text": "Plantes TRÈS carnivores",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1011,7 +1011,7 @@
    "id": "113201",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Olympic High Divers, Mid-Jump",
+   "text": "Plongeurs olympiques, en plein saut",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1022,7 +1022,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Cursed Stuffed Animals",
+   "text": "Animaux empaillés maudits",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1036,7 +1036,7 @@
    "shapes": "NUGGETS",
    "sprinkleTypes": "NUGGETS",
    "starterContent": false,
-   "text": "A Fast Food Mascot",
+   "text": "Une mascotte de Fast-Food",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1049,7 +1049,7 @@
    "id": "113350",
    "shapes": "NUGGETS",
    "sprinkleTypes": "NUGGETS",
-   "text": "A Dog Named Nugget",
+   "text": "Un chien nommé Nugget",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1062,7 +1062,7 @@
    "id": "113351",
    "shapes": "NUGGETS",
    "sprinkleTypes": "NUGGETS",
-   "text": "Your Self-Portrait, On A Nugget",
+   "text": "Votre auto-portrait, sur un nugget",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1075,7 +1075,7 @@
    "id": "113352",
    "shapes": "NUGGETS",
    "sprinkleTypes": "NUGGETS",
-   "text": "A Chicken. On A Nugget.",
+   "text": "Un poulet. sur un nugget.",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1088,7 +1088,7 @@
    "id": "113353",
    "shapes": "NUGGETS",
    "sprinkleTypes": "NUGGETS",
-   "text": "A Chicken Nugget That's Come To Life",
+   "text": "Un nugget de poulet qui revit",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1098,7 +1098,7 @@
    "id": "113391",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Annoying Li'l Demons",
+   "text": "Des petits démons relou",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1108,7 +1108,7 @@
    "id": "113392",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things That Are Noisy",
+   "text": "Choses qui sont bruyants",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1119,7 +1119,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You See In Nightmares",
+   "text": "Choses qu'on voit dans des cauchemars",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1130,7 +1130,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Newly-Discovered Dinosaurs",
+   "text": "Des nouveaux dinosaures découverts",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1141,7 +1141,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You'd See At A High School Play",
+   "text": "Choses qu'on verrait dans une pièce de théâtre au lycée",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1151,7 +1151,7 @@
    "id": "113397",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things Seen At A Bad Home Renovation",
+   "text": "Choses vus lors d'une mauvaise rénovation de maison",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1162,7 +1162,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Extremely Uncomfortable Furniture",
+   "text": "Meubles extrêmement inconfortables",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1173,7 +1173,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Seen In Medieval Times (Or AT Medieval Times!)",
+   "text": "Vu au Moyen-Âge",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1184,7 +1184,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Cool Stuff from The 2000s",
+   "text": "Choses cool des années 2000",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1195,7 +1195,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You'd See In A Museum",
+   "text": "Choses qu'on verrait dans un musée",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1206,7 +1206,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You'd See In The Amazon Rainforest",
+   "text": "Choses qu'on verrait dans la forêt amazonienne",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1216,7 +1216,7 @@
    "id": "113406",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Stuff You'd See At Comic-Con",
+   "text": "Choses qu'on verrait à la Comic-Con",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1227,7 +1227,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Things You See At Prom",
+   "text": "Choses qu'on verrait au bal de promo",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1237,7 +1237,7 @@
    "id": "113624",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things People Need To Live",
+   "text": "Choses qu'on a besoin pour vivre",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1248,7 +1248,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Seen While On A Road Trip",
+   "text": "Vu en étant en road trip",
    "type": "SECOND",
    "weights": "DEFAULT"
   },
@@ -1259,7 +1259,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "Off-Brand Theme Park Characters",
+   "text": "Personnage de parc d'attractions, hors-marque",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
@@ -1273,7 +1273,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Ew, a {{BLANK}}! Yuck!\"",
+   "text": "\"Beurk, un {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1286,7 +1286,7 @@
    "id": "113759",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Gasp! Your {{BLANK}} is so beautiful!\"",
+   "text": "\"Oh ! Votre {{BLANK}} est trop beau !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1300,7 +1300,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Aww! What a cute li'l {{BLANK}}.\"",
+   "text": "\"Oh ! Quel petit {{BLANK}} trop mignon.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1314,7 +1314,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Shoo! Get that {{BLANK}} out of here!\"",
+   "text": "\"Ouste ! Sortez ce {{BLANK}} d'ici !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1327,7 +1327,7 @@
    "id": "113762",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Ouchie! This {{BLANK}} hurts!\"",
+   "text": "\"Aïe ! Ce {{BLANK}} fait mal !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1340,7 +1340,7 @@
    "id": "113763",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"It's like they say: don't get mad, get {{BLANK}}\"",
+   "text": "\"C'est comme s'il disent: ne soyez pas furieux, soyez {{BLANK}}\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1354,7 +1354,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Woah...I didn't know {{BLANK}} was so x-treme!\"",
+   "text": "\"Woah... je ne savais pas que {{BLANK}} était tellement extrême !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1367,7 +1367,7 @@
    "id": "113765",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Bravo! Bravo! Applaud the {{BLANK}}!\"",
+   "text": "\"Bravo ! Bravo ! Applaudissez le {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1380,7 +1380,7 @@
    "id": "113767",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Wow! You made this {{BLANK}} yourself?\"",
+   "text": "\"Wow ! Vous avez créé ce {{BLANK}} vous-même?\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1394,7 +1394,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Eeeeek! A {{BLANK}}! Eeeeek!!!\"",
+   "text": "\"Argh ! Un {{BLANK}} ! Argh !!!\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1408,7 +1408,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Look, everyone! It's {{BLANK}}!\"",
+   "text": "\"Regardez, tout le monde ! C'est {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1422,7 +1422,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Yeesh. This {{BLANK}} sure is ugly.\"",
+   "text": "\"Ouais. Ce {{BLANK}} est vraiment moche.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1435,7 +1435,7 @@
    "id": "113776",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Ahhh, a nice, relaxing {{BLANK}}.\"",
+   "text": "\"Ahhh, une bonne et relaxante {{BLANK}}.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1448,7 +1448,7 @@
    "id": "113777",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"This {{BLANK}} is huge, and impressive!\"",
+   "text": "\"Ce {{BLANK}} est immense et impressionant !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1462,7 +1462,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Ooh! Yummy yummy {{BLANK}}!\"",
+   "text": "\"Ooh ! Miam miam {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1476,7 +1476,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Darling, I got this {{BLANK}} just for you.\"",
+   "text": "\"Chéri, j'ai ce {{BLANK}} juste pour toi.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1490,7 +1490,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Zounds! It's a mythical {{BLANK}}!\"",
+   "text": "\"Morbleu ! C'est un mythique {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1503,7 +1503,7 @@
    "id": "113782",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Awww. What a handsome little {{BLANK}}.\"",
+   "text": "\"Oh. Quel joli petit {{BLANK}}.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1516,7 +1516,7 @@
    "id": "113783",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Can you go grab {{BLANK}} from the attic?\"",
+   "text": "\"Pouvez-vous me ramener {{BLANK}} du grenier ?\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1529,7 +1529,7 @@
    "id": "113785",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Gasp! A {{BLANK}}? Get it out of my sight!!\"",
+   "text": "\"Oh ! Un {{BLANK}} ? Hors de ma vue !!\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1543,7 +1543,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"I brought a {{BLANK}} for Show and Tell!\"",
+   "text": "\"J'ai acheté un {{BLANK}} pour un montre-et-raconte !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1556,7 +1556,7 @@
    "id": "113835",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Nice! Just scored a super-cheap {{BLANK}}!\"",
+   "text": "\"Super ! Je viens d'avoir un {{BLANK}} bon marché !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1569,7 +1569,7 @@
    "id": "113836",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"I'm sorry to interrupt, but are you {{BLANK}}?\"",
+   "text": "\"Désolé de vous interrompre, mais êtes vous {{BLANK}} ?\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1583,7 +1583,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Look! I've got a pocketful of {{BLANK}}!\"",
+   "text": "\"Regarde ! J'ai une poche pleine de {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1597,7 +1597,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Ugh. {{BLANK}} is here.\"",
+   "text": "\"Argh. {{BLANK}} est là.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1610,7 +1610,7 @@
    "id": "113839",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"Wow! This {{BLANK}} is so majestic!\"",
+   "text": "\"Wow ! Ce {{BLANK}} est tellement majestueux !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1624,7 +1624,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Everyone falls in love with {{BLANK}}!\"",
+   "text": "\"Tout le monde tombe amoureux avec {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1637,7 +1637,7 @@
    "id": "113842",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "\"I don't know, this {{BLANK}} really weirds me out.\"",
+   "text": "\"Je ne sais pas, ce {{BLANK}} me fait vraiment bizzare.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1651,7 +1651,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Begone, evil {{BLANK}}! Begone!!\"",
+   "text": "\"Partez, méchant {{BLANK}}! Partez !!\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1665,7 +1665,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Oh my. What a gorgeous {{BLANK}}.\"",
+   "text": "\"Oh mon dieu. Quel splendide {{BLANK}}.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1679,7 +1679,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Stop! Don't let {{BLANK}} inside!\"",
+   "text": "\"Stop ! Ne laissez pas {{BLANK}} à l'intérieur !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1693,7 +1693,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Wow. That {{BLANK}} is ANGRY.\"",
+   "text": "\"Wow. Ce {{BLANK}} est ÉNERVÉ.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1706,7 +1706,7 @@
    "id": "113848",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Things {{PLAYER}} Hates",
+   "text": "Choses que {{PLAYER}} déteste",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1719,7 +1719,7 @@
    "id": "113849",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "{{PLAYER}}'s Favorite Things",
+   "text": "Choses préférés de {{PLAYER}}",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1732,7 +1732,7 @@
    "id": "113850",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Hey {{PLAYER}}! I Made This For You!",
+   "text": "Hé {{PLAYER}} ! J'ai fait ça pour toi !",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1745,7 +1745,7 @@
    "id": "113851",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Items From {{PLAYER}}'s Past",
+   "text": "Objets du passé de {{PLAYER}}",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1758,7 +1758,7 @@
    "id": "113852",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Seen In {{PLAYER}}'s Imagination",
+   "text": "Vu dans l'imagination de {{PLAYER}}",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1771,7 +1771,7 @@
    "id": "113896",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Candy...But SCARY",
+   "text": "Des bonbons... mais EFFRAYANT",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1784,7 +1784,7 @@
    "id": "113897",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Pets, But Like, EVIL Pets",
+   "text": "Des animaux de compagnie, mais vraiment très MALÉFIQUES",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1797,7 +1797,7 @@
    "id": "113898",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Super Scary Graveyard Stuff",
+   "text": "Choses de cimetière très flippantes",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1810,7 +1810,7 @@
    "id": "113899",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Emo Animals",
+   "text": "Animaux émotifs",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1823,7 +1823,7 @@
    "id": "113900",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "Birds, But Goth",
+   "text": "Oiseaux gothiques",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1836,7 +1836,7 @@
    "id": "113955",
    "shapes": "GINGERBREAD",
    "sprinkleTypes": "GINGERBREAD",
-   "text": "The Perfect Dad",
+   "text": "Le père parfait",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1849,7 +1849,7 @@
    "id": "113956",
    "shapes": "GINGERBREAD",
    "sprinkleTypes": "GINGERBREAD",
-   "text": "A Son! A Gingerbread Son!",
+   "text": "Un fils ! Un fils en pain d'épice !",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1862,7 +1862,7 @@
    "id": "113958",
    "shapes": "GINGERBREAD",
    "sprinkleTypes": "GINGERBREAD",
-   "text": "A Daughter! A Gingerbread Daughter!",
+   "text": "Une fille ! Une fille en pain d'épice !",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1875,7 +1875,7 @@
    "id": "113959",
    "shapes": "GINGERBREAD",
    "sprinkleTypes": "GINGERBREAD",
-   "text": "A Delightfully Wacky Aunt",
+   "text": "Une tante délicieusement folle",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1888,7 +1888,7 @@
    "id": "113960",
    "shapes": "GINGERBREAD",
    "sprinkleTypes": "GINGERBREAD",
-   "text": "A Member Of A Friend Group Called \"The Fellas\"",
+   "text": "Un membre d'un groupe d'ami nommé \"Les Mecs\"",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -1902,7 +1902,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“I had that nightmare about {{BLANK}} again...”",
+   "text": "“J'ai encore eu ce cauchemar concernant {{BLANK}}...”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1915,7 +1915,7 @@
    "id": "114091",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Wow, I’ve never seen a real-life {{BLANK}} before!”",
+   "text": "“Wow, je n'ai jamais vu {{BLANK}} dans la vraie vie avant !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1928,7 +1928,7 @@
    "id": "114096",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Careful! This is a very rare {{BLANK}}.”",
+   "text": "“Attention ! C'est un {{BLANK}} très rare.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1941,7 +1941,7 @@
    "id": "114098",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Ooh! Look at this saucy {{BLANK}}!”",
+   "text": "“Ooh! Regardez ce {{BLANK}} coquin !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1955,7 +1955,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“Say hello to your blind date: {{BLANK}}!”",
+   "text": "“Dites bonjour à votre rendez-vous à l'aveugle : {{BLANK}} !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1969,7 +1969,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“Gone, but not forgotten. RIP {{BLANK}}.”",
+   "text": "“Parti, mais pas oublié. RIP {{BLANK}}.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1982,7 +1982,7 @@
    "id": "114106",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Always the bridesmaid, never the {{BLANK}}.”",
+   "text": "“Toujours la demoiselle d'honneur, jamais le {{BLANK}}.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -1995,7 +1995,7 @@
    "id": "114107",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Ahh, nothing beats a refreshing {{BLANK}}.”",
+   "text": "“Ahh, rien ne bat un {{BLANK}} rafraîchissant.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2008,7 +2008,7 @@
    "id": "114109",
    "shapes": "THREE",
    "sprinkleTypes": "THREE",
-   "text": "New, Rare Animals",
+   "text": "Des nouveaux animaux rares",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -2021,7 +2021,7 @@
    "id": "114110",
    "shapes": "THREE",
    "sprinkleTypes": "THREE",
-   "text": "Cool New Toys",
+   "text": "Des nouveaux jouets cools",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -2034,7 +2034,7 @@
    "id": "114111",
    "shapes": "THREE",
    "sprinkleTypes": "THREE",
-   "text": "Stuff From The Circus",
+   "text": "Choses du cirque",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -2047,7 +2047,7 @@
    "id": "114112",
    "shapes": "THREE",
    "sprinkleTypes": "THREE",
-   "text": "Stuff You See In Dreams",
+   "text": "Choses qu'on voit dans les rêves",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -2060,7 +2060,7 @@
    "id": "114113",
    "shapes": "THREE",
    "sprinkleTypes": "THREE",
-   "text": "A New Type Of Cryptid or Monster",
+   "text": "Un nouveau type de cryptide, ou de monstre",
    "type": "SPECIAL",
    "weights": "DEFAULT"
   },
@@ -2073,7 +2073,7 @@
    "id": "114129",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“A {{BLANK}}? Ew. How embarrassing...”",
+   "text": "“Un {{BLANK}} ? Beurk. Comme c'est gênant...”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2087,7 +2087,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“Please don’t tell anyone about my awful {{BLANK}}.”",
+   "text": "“S'il te plaît, ne parle à personne concernant mon horrible {{BLANK}}.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2100,7 +2100,7 @@
    "id": "114131",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Wow! These {{BLANK}} are flying off the shelves!”",
+   "text": "“Wow ! Ces {{BLANK}} s'envolent hors de l'étagère !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2114,7 +2114,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“Wow. I wish I was as cool as {{BLANK}}.”",
+   "text": "“Wow. Si seulement j'étais aussi cool que {{BLANK}}.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2128,7 +2128,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Ooh, look at this flirty little {{BLANK}}.\"",
+   "text": "\"Ooh, regardez ce petit {{BLANK}} attirant.\"",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2141,7 +2141,7 @@
    "id": "114141",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Ooooh, look at that bougie {{BLANK}}!”",
+   "text": "“Ooooh, regardez cette bougie {{BLANK}} !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2154,7 +2154,7 @@
    "id": "114142",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Ahhh!!! A {{BLANK}}! Ahhhhh!”",
+   "text": "“Ahhh !!! Un {{BLANK}} ! Ahhhhh !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2168,7 +2168,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "“I am captivated by this gorgeous {{BLANK}}!”",
+   "text": "“Je suis captivé par ce splendide {{BLANK}} !”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2181,7 +2181,7 @@
    "id": "114148",
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
-   "text": "“Whenever I see {{BLANK}} it makes me sentimental.”",
+   "text": "“A chaque fois que je vois {{BLANK}} ça me rend sentimental.”",
    "type": "UGC",
    "weights": "DEFAULT"
   },
@@ -2195,7 +2195,7 @@
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "starterContent": false,
-   "text": "\"Gen Z LOVES {{BLANK}}!\"",
+   "text": "\"La génération Z ADORE {{BLANK}} !\"",
    "type": "UGC",
    "weights": "DEFAULT"
   }
