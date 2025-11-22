@@ -49,9 +49,9 @@
       "SKIP_TUTORIAL": "Passer les tutoriels",
       "SKIP_TUTORIAL_DESCRIPTION": "Passer les sections de tutoriel du jeu.",
       "POST_GAME_CHOICE_TITLE": "Rejouer ?",
-      "TO_START": "pour démarrer",
-      "TO_START_GAME": "pour démarrer",
-      "TO_CANCEL_GAME": "pour annuler",
+      "TO_START": "Démarrer la partie",
+      "TO_START_GAME": "Démarrer la partie",
+      "TO_CANCEL_GAME": "Annuler",
       "PRELOADING_ON_SCREEN_PROMPT": "Chargement...",
       "WAITING_ON_MODERATION": "En attente de la modération...",
       "GLOBAL_ROOM_CODE_LABEL": "Code de salle",
@@ -123,7 +123,8 @@
       "CREDITS_LYRIC_20": "Top them with sprinkles and don’t be outdone",
       "CREDITS_LYRIC_21": "Eat them by handfuls or one-by-one",
       "CREDITS_LYRIC_22": "Welcome to Cookie Haus!",
-      "CREDITS_LYRIC_23": " "
+      "CREDITS_LYRIC_23": " ",
+      "SCORE_WEEKLY": "Bonus Hebdomadaire !"
     },
     "priority": 4,
     "id": "109548"

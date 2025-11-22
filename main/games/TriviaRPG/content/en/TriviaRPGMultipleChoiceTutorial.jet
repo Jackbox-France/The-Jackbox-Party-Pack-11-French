@@ -5,25 +5,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Hostile editorials"
+     "text": "des éditoriaux hostiles"
     },
     {
      "correct": false,
-     "text": "Expired food"
+     "text": "des aliments périmés"
     },
     {
      "correct": true,
-     "text": "Trivia"
+     "text": "du trivia"
     },
     {
      "correct": false,
-     "text": "Small nuclear arms"
+     "text": "des petites armes nucléaires"
     }
    ],
-   "clue": "This game is called Legends of...",
+   "clue": "Ce jeu s'appelle Legends of...",
    "id": "114180",
    "isEasy": false,
-   "question": "Monsters in this realm attack using...",
+   "question": "Les monstres de ce royaume attaquent en utilisant...",
    "theme": "FOREST"
   },
   {
@@ -31,25 +31,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Cardio"
+     "text": "du cardio"
     },
     {
      "correct": true,
-     "text": "Teamwork"
+     "text": "du travail d'équipe"
     },
     {
      "correct": false,
-     "text": "Perfect pitch"
+     "text": "une oreille absolue"
     },
     {
      "correct": false,
-     "text": "Proficiency with Microsoft Excel"
+     "text": "une maîtrise de Microsoft Excel"
     }
    ],
-   "clue": "THIS is a TEAM game",
+   "clue": "CECI est un jeu D'ÉQUIPE",
    "id": "114181",
    "isEasy": false,
-   "question": "This game requires trivia skills and...",
+   "question": "Ce jeu nécessite des connaissances générales et...",
    "theme": "FOREST"
   },
   {
@@ -57,25 +57,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Bearer bonds"
+     "text": "de Bons de caisse"
     },
     {
      "correct": false,
-     "text": "Rare stamps"
+     "text": "de Timbres rares"
     },
     {
      "correct": true,
-     "text": "Gold"
+     "text": "d'Or"
     },
     {
      "correct": false,
-     "text": "Treasured family photos"
+     "text": "de Photos de famille précieuses"
     }
    ],
-   "clue": "You’ll love how it glitters",
+   "clue": "Vous allez adorer son reflet scintillant",
    "id": "114182",
    "isEasy": false,
-   "question": "Both your personal and team scores are based on collecting...",
+   "question": "Vos scores personnels et ceux de votre équipe sont basés sur la collecte...",
    "theme": "FOREST"
   },
   {
@@ -83,25 +83,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Using the MIND CRYSTAL"
+     "text": "Utilisant le CRISTAL DE L'ESPRIT"
     },
     {
      "correct": true,
-     "text": "TALKING with your team"
+     "text": "PARLANT avec votre équipe"
     },
     {
      "correct": false,
-     "text": "WISHING very hard"
+     "text": "SOUHAITANT très fort"
     },
     {
      "correct": false,
-     "text": "UPLOADING BRAIN to AI"
+     "text": "CONNECTANT VOTRE CERVEAU vers l'IA"
     }
    ],
-   "clue": "Communication is key!",
+   "clue": "La communication est la clé !",
    "id": "114192",
    "isEasy": false,
-   "question": "You can share your thoughts during each question by...",
+   "question": "Vous pouvez partager vos réflexions à chaque question en...",
    "theme": "MOUNTAIN"
   },
   {
@@ -109,25 +109,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "Answering trivia"
+     "text": "Répondant à des questions de culture générale"
     },
     {
      "correct": false,
-     "text": "Filing HR complaints"
+     "text": "Déposant une plainte au RH"
     },
     {
      "correct": false,
-     "text": "Performing diss tracks"
+     "text": "Les défiant à un Rap Contenders"
     },
     {
      "correct": false,
-     "text": "Ignoring them"
+     "text": "Les ignorant"
     }
    ],
-   "clue": "Do you need a clue for this TRIVIA?",
+   "clue": "Avez-vous besoin d'un indice pour cette QUESTION ?",
    "id": "114211",
    "isEasy": false,
-   "question": "You can hurt monsters by...",
+   "question": "Vous pouvez blesser les monstres en...",
    "theme": "FOREST"
   }
  ]
