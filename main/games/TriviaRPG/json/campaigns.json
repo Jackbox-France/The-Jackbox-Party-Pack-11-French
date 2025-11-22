@@ -1,0 +1,866 @@
+{
+    "payload": [
+        {
+            "campaignID": "ForestCampaignStart0",
+            "campaignName": "Début de la forêt",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "campaignIDs": [
+                        "ForestCampaignPath0",
+                        "ForestCampaignPath1"
+                    ],
+                    "doIntro": true,
+                    "doOutroRun": true
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath0",
+            "campaignName": "Le Chemin Facile du Lapin",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Goobicle",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Sneaklops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "campaignIDs": [
+                        "ForestCampaignPath2",
+                        "ForestCampaignPath3"
+                    ],
+                    "doOutro": true
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath1",
+            "campaignName": "Le Chemin du Guerrier",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Bushclops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": false,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "world1TestAttackPotion",
+                        "hintPotion"
+                    ],
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath4",
+                        "ForestCampaignPath5"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath2",
+            "campaignName": "Le Chemin du Porte-Monnaie",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "world1TestAttackPotion",
+                        "defendPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Greedy Joe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath3",
+            "campaignName": "Le Chemin du Péril",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "world1TestAttackPotion",
+                        "world1TestSelfHealPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Big Stick Joe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Mega-Sneaklops",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath4",
+            "campaignName": "La Route au Précieux Trésor",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Bushclops",
+                    "doIntro": true,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Greedy Joe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath5",
+            "campaignName": "Le Défi du Travail D'Équipe",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Big Stick Joe",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Mega-Sneaklops",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "ForestCampaignPath6",
+                        "ForestCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath6",
+            "campaignName": "Dépenser Avant D'Être Dépensé",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "useSpecialBackground": true,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "hintPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Me The Ogre",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "ForestCampaignPath7",
+            "campaignName": "Une Pause Avant D'Être Détruit",
+            "worldIndex": 1,
+            "encounters": [
+                {
+                    "triviaType": "HealingRiddle",
+                    "monsterConfigID": "RiddleRaven",
+                    "useSpecialBackground": true,
+                    "doIntro": true,
+                    "doOutro": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Me The Ogre",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignStart0",
+            "campaignName": "Début du désert",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "campaignIDs": [
+                        "DesertCampaignPath0",
+                        "DesertCampaignPath1"
+                    ],
+                    "doIntro": true,
+                    "doOutroRun": true
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath0",
+            "campaignName": "La Randonnée Très Chaude",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Spikeclops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath2",
+                        "DesertCampaignPath3"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath1",
+            "campaignName": "Un Chemin Aride de Base",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Dry Sneaklops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "defendPotion",
+                        "world1TestAttackPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath4",
+                        "DesertCampaignPath5"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath2",
+            "campaignName": "Les Dunes du Danger",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Spikeclops",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": false
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Image",
+                    "monsterConfigID": "Hiss'o'Miss",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath3",
+            "campaignName": "Le Mirage Monétaire",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Spikeclops",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Image",
+                    "monsterConfigID": "Hiss'o'Miss",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath4",
+            "campaignName": "Un Carré de Cactus Épineux",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Mega-Spikeclops",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "defendPotion",
+                        "autoRevivePotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Image",
+                    "monsterConfigID": "Hiss'o'Miss",
+                    "doIntro": false,
+                    "doOutro": false,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath5",
+            "campaignName": "L'Arrière-Pays des Blessures",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Mega-Spikeclops",
+                    "doIntro": true,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Image",
+                    "monsterConfigID": "Hiss'o'Miss",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "DesertCampaignPath6",
+                        "DesertCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath6",
+            "campaignName": "Des Affaires Chaudes Avant la Mort",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "useSpecialBackground": true,
+                    "itemIDs": [
+                        "world1TestSelfHealPotion",
+                        "hintPotion",
+                        "defendPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Bomb Mirage",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "DesertCampaignPath7",
+            "campaignName": "Une Pause Avant Votre “R.I.P”",
+            "worldIndex": 2,
+            "encounters": [
+                {
+                    "triviaType": "HealingRiddle",
+                    "monsterConfigID": "RiddleRaven",
+                    "useSpecialBackground": true,
+                    "doIntro": true,
+                    "doOutro": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Bomb Mirage",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignStart0",
+            "campaignName": "Début du pic",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "campaignIDs": [
+                        "PeakCampaignPath0",
+                        "PeakCampaignPath1"
+                    ],
+                    "doIntro": true,
+                    "doOutroRun": true
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath0",
+            "campaignName": "Le Sommet des Perplexes",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Brainclops",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "MultiSelectionChoice",
+                    "monsterConfigID": "Brainclops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath2",
+                        "PeakCampaignPath3"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath1",
+            "campaignName": "Une Gentille Ascension",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "ReverseMultipleChoice",
+                    "monsterConfigID": "Psycheclops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Brainclops",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath4",
+                        "PeakCampaignPath5"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath2",
+            "campaignName": "Regardez la Richesse Tomber",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Image",
+                    "monsterConfigID": "Minerallax",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutro": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath3",
+            "campaignName": "Une Montée Raide",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Minerallax",
+                    "doIntro": false,
+                    "doOutroRun": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath4",
+            "campaignName": "Augmentation des Prix en Vue",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "world1TestAttackPotion"
+                    ]
+                },
+                {
+                    "triviaType": "Image",
+                    "monsterConfigID": "Minerallax",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath5",
+            "campaignName": "Croissance des Intérêts",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutroRun": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "ListIt",
+                    "monsterConfigID": "ListItTreasure",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "MultipleChoice",
+                    "monsterConfigID": "Minerallax",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "doScoreboard": true
+                },
+                {
+                    "triviaType": "Map",
+                    "monsterConfigID": "Map",
+                    "doIntro": false,
+                    "doOutroRun": true,
+                    "campaignIDs": [
+                        "PeakCampaignPath6",
+                        "PeakCampaignPath7"
+                    ]
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath6",
+            "campaignName": "Affaires de Dernière Chance Avant les Derniers Rites",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "Shop",
+                    "monsterConfigID": "Shop",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "useSpecialBackground": true,
+                    "itemIDs": [
+                        "autoRevivePotion",
+                        "defendPotion",
+                        "hintPotion"
+                    ]
+                },
+                {
+                    "triviaType": "MultiTrivia",
+                    "monsterConfigID": "Bookwyrm",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        },
+        {
+            "campaignID": "PeakCampaignPath7",
+            "campaignName": "Une Pause Avant le Plus Grand Test",
+            "worldIndex": 5,
+            "encounters": [
+                {
+                    "triviaType": "HealingRiddle",
+                    "monsterConfigID": "RiddleRaven",
+                    "useSpecialBackground": true,
+                    "doIntro": true,
+                    "doOutro": true
+                },
+                {
+                    "triviaType": "MultiTrivia",
+                    "monsterConfigID": "Bookwyrm",
+                    "doIntro": true,
+                    "doOutro": true,
+                    "doScoreboard": true
+                }
+            ]
+        }
+    ]
+}
