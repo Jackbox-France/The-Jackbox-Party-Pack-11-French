@@ -23,7 +23,8 @@ jobs:
     - run: |
           VERSION=${{fromJson(steps.set_var.outputs.packageJson).buildVersion}}
           echo "VERSION=${VERSION}" >> $GITHUB_ENV
-      name: Retrieve Release Version         
+      name: Retrieve Release Version
+    - run: rm -r ./main/games/TriviaRPG
     - run: mkdir -p outputs
     - run: echo "${VERSION}"
     - name: Zipping windows release

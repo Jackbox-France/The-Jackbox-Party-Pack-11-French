@@ -86,8 +86,8 @@
       "AUDIO_MIX_STEREO": "Stéréo",
       "AUDIO_MIX_MONO": "Mono",
       "AUDIO_MIX_DESCRIPTION": "Le paramètre de mixage audio permet de choisir entre l’audio au format surround, stéréo ou mono.",
-      "TO_START": "POUR DÉMARRER",
-      "TO_CANCEL": "POUR ANNULER"
+      "TO_START": "Démarrer la partie",
+      "TO_CANCEL": "Annuler"
    },
     "priority": 3,
     "id": "106736"
