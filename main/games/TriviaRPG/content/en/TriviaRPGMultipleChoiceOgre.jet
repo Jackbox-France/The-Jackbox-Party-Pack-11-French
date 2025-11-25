@@ -1,2044 +1,2044 @@
 {
  "content": [
   {
-   "category": "Scary Movies",
+   "category": "Films d’horreur",
    "choices": [
     {
      "correct": true,
-     "text": "[i]A Nightmare on Elm Street[/i]"
+     "text": "[i]Les Griffes de la nuit[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Nightmare on Elm Street[/i]"
+     "text": "[i]Les Griffes dans la nuit[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Nightmares on Elm Street[/i]"
+     "text": "[i]Des Griffes dans la nuit[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Nightmare on Elm Street[/i]"
+     "text": "[i]Une Griffe de la nuit[/i]"
     }
    ],
-   "clue": "A-plus answer!",
+   "clue": "Bonne réponse, petit malin !",
    "id": "106881",
    "isEasy": false,
-   "question": "AHHH! Me no like SCARY DREAMS! Because in 1984 I saw SCARY DREAM MAN in...",
+   "question": "AAAH ! Moi pas aimer rêves qui font peur ! Parce qu’en 1984 moi voir HOMME RÊVE QUI FAIT TRÈS PEUR dans...",
    "theme": "CASTLE"
   },
-  {
-   "category": "Impressionists",
-   "choices": [
-    {
-     "correct": true,
-     "text": "The Starry Night guy"
-    },
-    {
-     "correct": false,
-     "text": "The Sistine Chapel guy"
-    },
-    {
-     "correct": false,
-     "text": "The melting clock guy"
-    },
-    {
-     "correct": false,
-     "text": "The lady with the monkey"
-    }
-   ],
-   "clue": "Blurry flowers, blurry stars",
-   "id": "108025",
-   "isEasy": false,
-   "question": "Me love pretty pictures SUNFLOWERS! WHO is famous for PAINTING pretty pictures SUNFLOWERS?!?!",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Sports Names",
-   "choices": [
-    {
-     "correct": false,
-     "text": "The Kansas City Chiefs"
-    },
-    {
-     "correct": false,
-     "text": "The Indianapolis Colts"
-    },
-    {
-     "correct": false,
-     "text": "The Green Bay Packers"
-    },
-    {
-     "correct": true,
-     "text": "The Chicago Bears"
-    }
-   ],
-   "clue": "They play in my kind of town",
-   "countrySpecific": true,
-   "id": "108045",
-   "isEasy": false,
-   "question": "ME a MONSTER of  PATHWAY! But What NFL TEAM called “The Monsters of the MIDWAY”?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Biblical Knowledge",
-   "choices": [
-    {
-     "correct": true,
-     "text": "The one with the flood"
-    },
-    {
-     "correct": false,
-     "text": "The one with the Commandments"
-    },
-    {
-     "correct": false,
-     "text": "The one with the 7-headed beast"
-    },
-    {
-     "correct": false,
-     "text": "The one where David fought a big guy"
-    }
-   ],
-   "clue": "The answer is all wet",
-   "id": "109726",
-   "isEasy": false,
-   "question": "Human RIBS are delicious! WHICH BOOK of Bible was Eve created from tasty ribs?",
-   "theme": "CASTLE",
-   "x": true
-  },
-  {
-   "category": "Comic Movies",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Um... the one Tom Hardy played"
-    },
-    {
-     "correct": false,
-     "text": "I think... the one Paul Dano played"
-    },
-    {
-     "correct": false,
-     "text": "Maybe... the one Heath Ledger played"
-    },
-    {
-     "correct": false,
-     "text": "All of the above"
-    }
-   ],
-   "clue": "Is this one Hard?",
-   "id": "109742",
-   "isEasy": false,
-   "question": "Franchises too long! Me like TRILOGIES!! Who is bad guy in 2012’s [i]The Dark Knight Rises[/i]?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Constellations",
-   "choices": [
-    {
-     "correct": false,
-     "text": "The one that looks like a hunter"
-    },
-    {
-     "correct": true,
-     "text": "The one that looks like a “W”"
-    },
-    {
-     "correct": false,
-     "text": "The one that looks like a bear"
-    },
-    {
-     "correct": false,
-     "text": "The one that looks like an “R”"
-    }
-   ],
-   "clue": "It’s one of the letters",
-   "id": "111870",
-   "isEasy": false,
-   "question": "Stars so pretty... Casseroles so delicious. Which constellation is Cassiopeia?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Modern Movies",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Um... [i]Jurassic Kingdom[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "Maybe... [i]The Lego Movie 2[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "Is it [i]Guardians of the Galaxy 2[/i]?"
-    },
-    {
-     "correct": true,
-     "text": "[i]The Super Mario Bros. Movie[/i]?"
-    }
-   ],
-   "clue": "Come on, Bro!",
-   "id": "112591",
-   "isEasy": false,
-   "question": "What that one movie me love? Big monster... Chris Pratt... a talking animal... 2023?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Cuisine",
-   "choices": [
-    {
-     "correct": false,
-     "text": "If you like PITA, then probably!"
-    },
-    {
-     "correct": false,
-     "text": "If you like BABA GANOUSH, you do!"
-    },
-    {
-     "correct": true,
-     "text": "If you like HUMMUS, then yes!"
-    },
-    {
-     "correct": false,
-     "text": "If you like TZATZIKI, yeah, dude!"
-    }
-   ],
-   "clue": "Just a hum a tune",
-   "id": "112592",
-   "isEasy": false,
-   "question": "Do me like chickpeas? Me feel like me like chickpeas.",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Skeletal System",
-   "choices": [
-    {
-     "correct": true,
-     "text": "The MAXILLA?"
-    },
-    {
-     "correct": false,
-     "text": "The CLAVICLE?"
-    },
-    {
-     "correct": false,
-     "text": "The COCCYX?"
-    },
-    {
-     "correct": false,
-     "text": "The ULNA?"
-    }
-   ],
-   "clue": "Cousin to Godzilla",
-   "id": "112593",
-   "isEasy": false,
-   "question": "ME MAD! ME BREAK YOUR... YOUR... um, that bone... right below your nose... you know?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Cooking Lesson",
-   "choices": [
-    {
-     "correct": false,
-     "text": "115 to 125 F"
-    },
-    {
-     "correct": true,
-     "text": "130 to 140 F"
-    },
-    {
-     "correct": false,
-     "text": "145 to 155 F"
-    },
-    {
-     "correct": false,
-     "text": "155 to 160 F"
-    }
-   ],
-   "clue": "Lucky number 13",
-   "id": "112594",
-   "isEasy": false,
-   "question": "ME WILL EAT YOUR FLESH!!! MEDIUM RARE LIKE A STEAK!!! AND... and... what temperature should me cook you to?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Why is this Popular",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Yeah... Bad Toilets fights Good Cameramen?"
-    },
-    {
-     "correct": false,
-     "text": "Um... Good Toilets fights Bad Lizardmen?"
-    },
-    {
-     "correct": false,
-     "text": "I think... Bad Toilets fights Good Candymen?"
-    },
-    {
-     "correct": false,
-     "text": "It’s Good Toilets vs Dirty Underwear, right?"
-    }
-   ],
-   "clue": "Also TVs and speakers.",
-   "id": "112595",
-   "isEasy": false,
-   "question": "HAHAHAHAHAHAHA! ME SAW SKIBIDI TOILET TODAY! YOU KNOW THAT?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Vacation Spots",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Relax. It’s near NAPLES"
-    },
-    {
-     "correct": false,
-     "text": "You’re good. Just go to NICE"
-    },
-    {
-     "correct": false,
-     "text": "No biggie. It’s right next to ATHENS"
-    },
-    {
-     "correct": false,
-     "text": "Easy big guy. It’s close to BARCELONA"
-    }
-   ],
-   "clue": "Sleep on it. Take a nap.",
-   "id": "112596",
-   "isEasy": false,
-   "question": "Me EXCITED. Vacation next month. Amalfi Coast. BUT ME NOT KNOW WHERE THAT IS!!!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Universities",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s a university in Atlanta"
-    },
-    {
-     "correct": false,
-     "text": "It’s a university in Nashville"
-    },
-    {
-     "correct": false,
-     "text": "It’s a university in Tallahassee"
-    },
-    {
-     "correct": true,
-     "text": "It’s a university in Houston"
-    }
-   ],
-   "clue": "Every university is bigger in Texas",
-   "countrySpecific": true,
-   "id": "112631",
-   "isEasy": false,
-   "question": "Last week me stomp this guy who said “Me went to Rice!!!” That silly!!! Rice is food!!! What he mean?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Song of Summer",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Maybe “YOU BELONG WITH ME”?"
-    },
-    {
-     "correct": false,
-     "text": "It could be “ROLLING IN THE DEEP,” I guess"
-    },
-    {
-     "correct": true,
-     "text": "Are you talking about “UPTOWN FUNK”?"
-    },
-    {
-     "correct": false,
-     "text": "Is it “GET LUCKY”?"
-    }
-   ],
-   "clue": "You won’t find it downtown",
-   "id": "112636",
-   "isEasy": false,
-   "question": "What that one song? It goes: “Doh, doh, doh... Michelle Pfeiffer... doh doh doh... fresh jar of Skippy?” You know it?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Medical Issues",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Relax. It’s an INGROWN TOENAIL"
-    },
-    {
-     "correct": false,
-     "text": "It’s okay. It’s just BAD BREATH"
-    },
-    {
-     "correct": false,
-     "text": "You’ll be fine. It’s TOO MUCH EARWAX"
-    },
-    {
-     "correct": false,
-     "text": "Just chill. It means HAY FEVER"
-    }
-   ],
-   "clue": "Having a hard time nailing down an answer?",
-   "id": "112639",
-   "isEasy": false,
-   "question": "Oh no! Me doctor says I have ONYCHOCRYPTOSIS!!! What me do?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Kid Music",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s COCOMELON. Just breathe."
-    },
-    {
-     "correct": false,
-     "text": "That’s a BLIPPI song. Relax."
-    },
-    {
-     "correct": true,
-     "text": "It’s on PINKFONG, buddy"
-    },
-    {
-     "correct": false,
-     "text": "Check RYAN’S WORLD?"
-    }
-   ],
-   "clue": "Tickled pink by this song",
-   "id": "112678",
-   "isEasy": false,
-   "question": "AH!!! ME TOO ANGRY!!! NEED CALM DOWN! NEED “BABY SHARK”!!! THE VERY POPULAR ONE. WHERE FIND THAT?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Disney Shows",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Is it [i]Only Murders In The Building[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "Do you mean [i]iCarly[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "Are you talking about [i]Lizzie McGuire[/i]?"
-    },
-    {
-     "correct": true,
-     "text": "Maybe [i]Wizards of Waverly Place[/i]?"
-    }
-   ],
-   "clue": "It’s got two “W”s",
-   "id": "112680",
-   "isEasy": false,
-   "question": "What that show me watch? It have um, Selena Gomez... in NEW YORK... but DISNEY CHANNEL? You know that?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Historical TV",
-   "choices": [
-    {
-     "correct": true,
-     "text": "It was in what’s now Ukraine"
-    },
-    {
-     "correct": false,
-     "text": "It was in what’s now Belarus"
-    },
-    {
-     "correct": false,
-     "text": "It was in what’s now Moldova"
-    },
-    {
-     "correct": false,
-     "text": "It was in what’s now Estonia"
-    }
-   ],
-   "clue": "The answer is up to U",
-   "id": "112681",
-   "isEasy": false,
-   "question": "You watch show [i]Chernobyl[/i]? That wild stuff. Where that happen?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Pop Music",
-   "choices": [
-    {
-     "correct": false,
-     "text": "“Birds of a Feather” by Billie Eilish?"
-    },
-    {
-     "correct": true,
-     "text": "“Kill Bill” by SZA?"
-    },
-    {
-     "correct": false,
-     "text": "“Diet Pepsi” by Addison Rae?"
-    },
-    {
-     "correct": false,
-     "text": "“Pink Pony Club” by Chappell Roan?"
-    }
-   ],
-   "clue": "Directed by Quentin Tarantino",
-   "id": "112682",
-   "isEasy": false,
-   "question": "What that one song? It go: “Me so mature... Me so mature...” I forget rest!",
-   "theme": "FOREST",
-   "x": true
-  },
-  {
-   "category": "Flying",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Kepler’s law"
-    },
-    {
-     "correct": false,
-     "text": "Archimedes’ principles"
-    },
-    {
-     "correct": false,
-     "text": "Newton’s fourth law"
-    },
-    {
-     "correct": true,
-     "text": "Bernoulli’s principle"
-    }
-   ],
-   "clue": "Just one principle at flight school",
-   "id": "112683",
-   "isEasy": false,
-   "question": "Settle bet for us! Me donkey say airplanes fly by magic. Me say pressure difference cause lift, aka...",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Cartoon Species",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Funny Heelers"
-    },
-    {
-     "correct": false,
-     "text": "Funny Beagles"
-    },
-    {
-     "correct": false,
-     "text": "Funny Retrievers"
-    },
-    {
-     "correct": false,
-     "text": "Funny Bulldogs"
-    }
-   ],
-   "clue": "Those Brisbane kids always have a g’day",
-   "id": "112684",
-   "isEasy": false,
-   "question": "Me want to meet [i]Bluey[/i] and Bingo! They are funny dogs!!! Specifically they are...",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Mythic Dating",
-   "choices": [
-    {
-     "correct": true,
-     "text": "They have an EAGLE’S HEAD & WINGS and a LION’S BODY"
-    },
-    {
-     "correct": false,
-     "text": "They have a HUMAN TORSO and a HORSE’S LEGS"
-    },
-    {
-     "correct": false,
-     "text": "They have a DRAGON’S BODY and WOLF’S HEAD"
-    },
-    {
-     "correct": false,
-     "text": "They have a WOLF’S HEAD and a SNAKE’S BODY"
-    }
-   ],
-   "clue": "This troll would eat the lion’s share of spicy wings",
-   "id": "112686",
-   "isEasy": false,
-   "question": "Me match on dating app with a GRIFFIN but they no put picture up!!! What they look like?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Actors",
-   "choices": [
-    {
-     "correct": false,
-     "text": "The guy who gets big and small"
-    },
-    {
-     "correct": true,
-     "text": "The magic guy who does portals"
-    },
-    {
-     "correct": false,
-     "text": "The tree with the space people"
-    },
-    {
-     "correct": false,
-     "text": "The cat… Ya know, the cat suit guy!"
-    }
-   ],
-   "clue": "Which actor was faking an American accent?",
-   "id": "112757",
-   "isEasy": false,
-   "question": "Acting so CONFUSING! Which SUPERHERO MARVEL HERO also smart DETECTIVE HOLMES in BBC series?!",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Tiny Stuff",
-   "choices": [
-    {
-     "correct": false,
-     "text": "An isotope"
-    },
-    {
-     "correct": false,
-     "text": "A lanthanide"
-    },
-    {
-     "correct": false,
-     "text": "An ion"
-    },
-    {
-     "correct": true,
-     "text": "A lepton"
-    }
-   ],
-   "clue": "There’s no “i” in “correct”",
-   "id": "112901",
-   "isEasy": false,
-   "question": "Me going to smash you to LITTLE PIECES!! Smaller than MOLECULE or ATOM!!! Um, what smaller than that?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Parody Songs",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Word Crimes[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]I Love Rocky Road[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Albuquerque[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Lasagna[/i]"
-    }
-   ],
-   "clue": "Be allergic to food",
-   "id": "112902",
-   "isEasy": false,
-   "question": "Me LOVE “Weird Al” but it MEAN when he MAKE FUN of other songs. What song not mean?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Brain Science",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s your MEDULA OBLONGATA!"
-    },
-    {
-     "correct": true,
-     "text": "It’s your AMYGDALA!"
-    },
-    {
-     "correct": false,
-     "text": "It’s your OCCIPITAL LOBE!"
-    },
-    {
-     "correct": false,
-     "text": "It’s your THALAMUS!!!"
-    }
-   ],
-   "clue": "When in doubt, pick a short one",
-   "id": "112903",
-   "isEasy": false,
-   "question": "ME SO ANGRY!!! WHAT PART OF ME BRAIN MAKE ANGER?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Animal Husbandry",
-   "choices": [
-    {
-     "correct": true,
-     "text": "With a MALE DONKEY and a FEMALE HORSE"
-    },
-    {
-     "correct": false,
-     "text": "With a MALE HORSE and a FEMALE BURRO"
-    },
-    {
-     "correct": false,
-     "text": "With a MALE HORSE and a FEMALE DONKEY"
-    },
-    {
-     "correct": false,
-     "text": "With a MALE DONKEY and a FEMALE BURRO"
-    }
-   ],
-   "clue": "It helps to have a little horseplay",
-   "id": "112904",
-   "isEasy": false,
-   "question": "Me and donkey argue. He say people make MULES... they hybrids. How you make mule?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Ancient History",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Alexander the Great?"
-    },
-    {
-     "correct": false,
-     "text": "King Tut?"
-    },
-    {
-     "correct": false,
-     "text": "Genghis Khan?"
-    },
-    {
-     "correct": true,
-     "text": "Charlemagne?"
-    }
-   ],
-   "clue": "This question’s a royal pain",
-   "id": "112905",
-   "isEasy": false,
-   "question": "Me a proud Millennial!!! Me born in the FIRST MILLENIUM A.D.!!! Who else Millennial like me?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Oldies",
-   "choices": [
-    {
-     "correct": false,
-     "text": "The Northern girls"
-    },
-    {
-     "correct": true,
-     "text": "The Midwest farmers’ daughters"
-    },
-    {
-     "correct": false,
-     "text": "The East Coast girls"
-    },
-    {
-     "correct": false,
-     "text": "The Southern girls"
-    }
-   ],
-   "clue": "This question is particularly corny",
-   "id": "112906",
-   "isEasy": false,
-   "question": "Me keep forgetting words to [i]California Girls[/i]...the BEACH BOYS ONE!!! What girls make you “feel alright?”",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Human Anatomy",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s on the UPPER RIGHT side of my abdomen"
-    },
-    {
-     "correct": true,
-     "text": "Bite the LOWER RIGHT side"
-    },
-    {
-     "correct": false,
-     "text": "You gotta go for the LOWER LEFT"
-    },
-    {
-     "correct": false,
-     "text": "The UPPER LEFT side is “Appendix City”"
-    }
-   ],
-   "clue": "The right side is right!",
-   "id": "113249",
-   "isEasy": false,
-   "question": "Me eat your appendix as AMUSE-BOUCHE! But... where me bite your abdomen to find it?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Personality Tests",
-   "choices": [
-    {
-     "correct": true,
-     "text": "It’s a Myers-Briggs test"
-    },
-    {
-     "correct": false,
-     "text": "That’s an enneagram test"
-    },
-    {
-     "correct": false,
-     "text": "You took the DiSC test, big fella"
-    },
-    {
-     "correct": false,
-     "text": "You took the SATs?!"
-    }
-   ],
-   "clue": "The test with NINE possible results is INCORRECT.",
-   "id": "113252",
-   "isEasy": false,
-   "question": "Me recently took hard test and learned me TOTAL INFP! Test was called… uh…",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Disney Animals",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Robin Hood[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "[i]Pinocchio[/i]?"
-    },
-    {
-     "correct": true,
-     "text": "[i]Pocahontas[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "[i]Zootopia[/i]?"
-    }
-   ],
-   "clue": "Try painting with all the colors of the wind",
-   "id": "113295",
-   "isEasy": false,
-   "question": "Grrr, me HATE foxes! Me want Disney movie with NO FOXES!!",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Cave Geography",
-   "choices": [
-    {
-     "correct": false,
-     "text": "You could live in France"
-    },
-    {
-     "correct": false,
-     "text": "You could live in Mexico"
-    },
-    {
-     "correct": true,
-     "text": "You could live in the United States"
-    },
-    {
-     "correct": false,
-     "text": "You could live in China"
-    }
-   ],
-   "clue": "It’s Mammoth Cave, so mammoths lived there",
-   "id": "113296",
-   "isEasy": false,
-   "question": "SIGH. Me just want to run away and live in country with WORLD’S LONGEST CAVE!",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Weapon Types",
-   "choices": [
-    {
-     "correct": false,
-     "text": "That’s a dao"
-    },
-    {
-     "correct": true,
-     "text": "That’s a katana"
-    },
-    {
-     "correct": false,
-     "text": "That’s a jian"
-    },
-    {
-     "correct": false,
-     "text": "That’s a shotel"
-    }
-   ],
-   "clue": "The word ends in a vowel.",
-   "id": "113298",
-   "isEasy": false,
-   "question": "Hm... What THIS in my barf? Look like... CURVED SWORD? from Japan?!?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Fashion Houses",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Cool GUCCI pants!"
-    },
-    {
-     "correct": false,
-     "text": "Gorgeous DIOR pants!"
-    },
-    {
-     "correct": false,
-     "text": "Cute DOLCE & GABBANA pants!"
-    },
-    {
-     "correct": false,
-     "text": "Sick PRADA pants!"
-    }
-   ],
-   "clue": "Get me two CCs of fashion!",
-   "id": "113299",
-   "isEasy": false,
-   "question": "No compliment me cool Ogre pants?! But they made by big fashion company from Florence!!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Animal Abilities",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Right, the BARN OWL can’t either"
-    },
-    {
-     "correct": false,
-     "text": "Yeah, the BELUGA WHALE can’t either"
-    },
-    {
-     "correct": false,
-     "text": "Yup, the LONG-EARED BAT can’t either"
-    },
-    {
-     "correct": false,
-     "text": "Sure, the SPINNER DOLPHIN can’t either"
-    }
-   ],
-   "clue": "A feathered creature",
-   "id": "113300",
-   "isEasy": false,
-   "question": "OKAY, so me DON’T use echolocation to hunt. SO?! Me not only one!",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Pop Music",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Yeah, it’s a One Direction song"
-    },
-    {
-     "correct": false,
-     "text": "Yep, it’s a Jonas Brothers song"
-    },
-    {
-     "correct": true,
-     "text": "Uh huh, it’s a BTS song"
-    },
-    {
-     "correct": false,
-     "text": "Relax, it’s a Sabrina Carpenter song"
-    }
-   ],
-   "clue": "Wash your butter down with some K-pop.",
-   "id": "113301",
-   "isEasy": false,
-   "question": "Me confused! Me know butter come from Cow! But some say “Butter” made by Bard?!?!",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Sports Teams",
-   "choices": [
-    {
-     "correct": false,
-     "text": "They moved there from New York!"
-    },
-    {
-     "correct": true,
-     "text": "They moved there from New Orleans!"
-    },
-    {
-     "correct": false,
-     "text": "They moved there from Seattle!"
-    },
-    {
-     "correct": false,
-     "text": "They moved there from Atlanta!"
-    }
-   ],
-   "clue": "It’s not the Big Apple.",
-   "countrySpecific": true,
-   "id": "113302",
-   "isEasy": false,
-   "question": "Why Utah NBA team called the “Jazz”? Utah NOT KNOWN FOR JAZZ!!!",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Basketball History",
-   "choices": [
-    {
-     "correct": false,
-     "text": "You mean Shaquille O’Neal?"
-    },
-    {
-     "correct": false,
-     "text": "You mean Steph Curry?"
-    },
-    {
-     "correct": false,
-     "text": "You mean Domantas Sabonis?"
-    },
-    {
-     "correct": true,
-     "text": "You mean LeBron James?"
-    }
-   ],
-   "clue": "He previously played in Cleveland.",
-   "countrySpecific": true,
-   "id": "113303",
-   "isEasy": false,
-   "question": "Me can’t remember! Which basketball man announced he would “take his talents to South Beach”?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Food History",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s a layer of STRAWBERRIES"
-    },
-    {
-     "correct": false,
-     "text": "It’s a layer of PINEAPPLE"
-    },
-    {
-     "correct": false,
-     "text": "It’s a bunch of APPLE SLICES"
-    },
-    {
-     "correct": true,
-     "text": "It’s COCONUT, SHREDDED COCONUT"
-    }
-   ],
-   "clue": "It actually has two kinds of “nuts”",
-   "id": "113305",
-   "isEasy": false,
-   "question": "Me love German chocolate cake... but it doesn’t taste like Germans! BECAUSE WHAT THAT FRUIT ON TOP!?!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "French New Wave",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Ooh, Agnès Varda!"
-    },
-    {
-     "correct": false,
-     "text": "That’s Jacques Cousteau!"
-    },
-    {
-     "correct": false,
-     "text": "You’re thinking of Denis Villeneuve!"
-    },
-    {
-     "correct": false,
-     "text": "Love that you’re a Jane Campion fan."
-    }
-   ],
-   "clue": "C’est une femme!",
-   "id": "113307",
-   "isEasy": false,
-   "question": "Me admire rejection of conventional cinematic techniques by FRENCH NEW WAVE. Especially from director... name was... uh...",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Dental Diagnoses",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Halitosis. You have halitosis."
-    },
-    {
-     "correct": false,
-     "text": "It’s periodontitis, my friend."
-    },
-    {
-     "correct": false,
-     "text": "Hyperdontia means “bad breath.”"
-    },
-    {
-     "correct": false,
-     "text": "That’s bruxism!"
-    }
-   ],
-   "clue": "“Hyperdontia” means too many teeth!",
-   "id": "113310",
-   "isEasy": false,
-   "question": "Me recently informed me breath smell “BAD.” But dentist used smart word for it... word was... urghhh...",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Early ’00s Pop",
-   "choices": [
-    {
-     "correct": false,
-     "text": "“No Rain” by Blind Melon. Solid pick."
-    },
-    {
-     "correct": false,
-     "text": "“Bubbly” by Colbie Callait!"
-    },
-    {
-     "correct": true,
-     "text": "“Unwritten “by Natasha Bedingfield!"
-    },
-    {
-     "correct": false,
-     "text": "“Soak Up The Sun” by Sheryl Crow! A classic!"
-    }
-   ],
-   "clue": "It’s not “No Rain,” and it doesn’t have “Sun” in it either!",
-   "id": "113428",
-   "isEasy": false,
-   "question": "In me go-to karaoke song, me angrily bellow “FEEL ME RAIN ON ME SKIN!!” What song name again?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Car Parts",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Cools your car’s engine"
-    },
-    {
-     "correct": true,
-     "text": "Reduces your car’s toxic emissions"
-    },
-    {
-     "correct": false,
-     "text": "Stores your car’s brake fluid"
-    },
-    {
-     "correct": false,
-     "text": "Converts chemical energy into electrical energy"
-    }
-   ],
-   "clue": "Thanks to this, your car will not get canceled.",
-   "countrySpecific": false,
-   "id": "113452",
-   "isEasy": false,
-   "question": "Once, royal knight sent on quest to steal my CATALYTIC CONVERTER! GRAH! But... what it even do??",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Couples Classes",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Childbirth... congrats!"
-    },
-    {
-     "correct": false,
-     "text": "Couples yoga... way to go!"
-    },
-    {
-     "correct": false,
-     "text": "Ballroom dancing... very fancy!"
-    },
-    {
-     "correct": false,
-     "text": "Combining finances as a couple... smart!"
-    }
-   ],
-   "clue": "It’s not dancing or financing!",
-   "id": "113456",
-   "isEasy": false,
-   "question": "Me wife and me recently signed up for LAMAZE CLASS! We learning... uh... what we learning...?",
-   "theme": "CASTLE",
-   "x": true
-  },
-  {
-   "category": "Where’s The Beef",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Wagyu is from Japan."
-    },
-    {
-     "correct": false,
-     "text": "Wagyu’s from China!"
-    },
-    {
-     "correct": false,
-     "text": "Wagyu comes from Korea."
-    },
-    {
-     "correct": false,
-     "text": "Wagyu is beef from Thailand!"
-    }
-   ],
-   "clue": "The correct country’s flag has a circle on it!",
-   "id": "113464",
-   "isEasy": false,
-   "question": "Me favorite meats are HUMAN and WAGYU! About to have human... but where can me get wagyu?",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Jazzy Nicknames",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Miles Davis!"
-    },
-    {
-     "correct": false,
-     "text": "Bill Evans!"
-    },
-    {
-     "correct": true,
-     "text": "Charlie Parker!"
-    },
-    {
-     "correct": false,
-     "text": "John Coltrane!"
-    }
-   ],
-   "clue": "You find birds at the park",
-   "id": "113465",
-   "isEasy": false,
-   "question": "Me eat birds and me eat JAZZ MUSICIANS! Wha—you know JAZZ MUSICIAN nicknamed BIRD?! WHO!?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Historical Greats",
-   "choices": [
-    {
-     "correct": false,
-     "text": "She ruled Sweden"
-    },
-    {
-     "correct": false,
-     "text": "She ruled France"
-    },
-    {
-     "correct": true,
-     "text": "She ruled Russia"
-    },
-    {
-     "correct": false,
-     "text": "She ruled the British Empire"
-    }
-   ],
-   "clue": "She was born in Germany, but ruled to the east of her hometown",
-   "id": "113478",
-   "isEasy": false,
-   "question": "Honestly, me GOOD troll, not great! But why was Catherine the Great SOOOOO Great?!?!",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Style Colors",
-   "choices": [
-    {
-     "correct": false,
-     "text": "You’re a SPRING"
-    },
-    {
-     "correct": false,
-     "text": "You’re a SUMMER"
-    },
-    {
-     "correct": true,
-     "text": "You’re an AUTUMN"
-    },
-    {
-     "correct": false,
-     "text": "You’re a WINTER"
-    }
-   ],
-   "clue": "Don’t fall into our style trap",
-   "id": "113510",
-   "isEasy": false,
-   "question": "My donkey is FASHION GURU & STYLE ICON! They say my features are warm, muted AND have low contrast... WHAT DOES THIS MEAN?!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Science",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Vitamin A"
-    },
     {
-     "correct": false,
-     "text": "Vitamin B"
-    },
-    {
-     "correct": true,
-     "text": "Vitamin D"
-    },
-    {
-     "correct": false,
-     "text": "Vitamin K"
-    }
-   ],
-   "clue": "Of course you know this, don’t B ridiculous",
-   "id": "113531",
-   "isEasy": false,
-   "question": "Sun so HOT! But me need its VITAMIN! Which vitamin!?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Nautical Terms",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Yes, it’s called a “galley”"
-    },
-    {
-     "correct": false,
-     "text": "Sure, it’s called a “berth”"
-    },
-    {
-     "correct": false,
-     "text": "It’s usually called a “gangway”"
-    },
-    {
-     "correct": false,
-     "text": "Sailors call it the “poop deck”"
-    }
-   ],
-   "clue": "Starts with a “G”",
-   "id": "113532",
-   "isEasy": false,
-   "question": "Ocean make me HUNGRY! If me take cruise, will boat have a kitchen?!?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Greek Mythology",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Yes, Zeus’s dad was Poseidon."
-    },
-    {
-     "correct": true,
-     "text": "Sure, Zeus’s dad was Cronus."
-    },
-    {
-     "correct": false,
-     "text": "Yep, Zeus’s dad was Uranus."
-    },
-    {
-     "correct": false,
-     "text": "You got it, Zeus’s dad was Gaea."
-    }
-   ],
-   "clue": "Poseidon was his brother",
-   "id": "113533",
-   "isEasy": false,
-   "question": "Zeus DADDY of Greek Gods! But Zeus also had DADDY?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Health Food",
-   "choices": [
-    {
-     "correct": false,
-     "text": "I think... in pasta?"
-    },
-    {
-     "correct": false,
-     "text": "I think... in deer meat?"
-    },
-    {
-     "correct": false,
-     "text": "I think... in seafood?"
-    },
-    {
-     "correct": true,
-     "text": "I think... in yogurt?"
-    }
-   ],
-   "clue": "The helpful bacteria comes from fermentation",
-   "id": "113575",
-   "isEasy": false,
-   "question": "Troll Doctor say me should eat Lactobacillus for good tummy. WHERE FIND THAT?!",
-   "theme": ""
-  },
-  {
-   "category": "Painters",
-   "choices": [
-    {
-     "correct": false,
-     "text": "You mean da Vinci?"
-    },
-    {
-     "correct": false,
-     "text": "You mean Dalí?"
-    },
-    {
-     "correct": false,
-     "text": "You mean Rembrandt?"
-    },
-    {
-     "correct": true,
-     "text": "You mean van Gogh?"
-    }
-   ],
-   "clue": "The winning combo is two ears and a two-part name",
-   "id": "113576",
-   "isEasy": false,
-   "question": "Me hates my UGLY EARS! Just like DUTCH PAINTER who cut off his ear!",
-   "theme": ""
-  },
-  {
-   "category": "Food Physics",
-   "choices": [
-    {
-     "correct": true,
-     "text": "You can crack a Macadamia nut?"
-    },
-    {
-     "correct": false,
-     "text": "You can crack a hazelnut?"
-    },
-    {
-     "correct": false,
-     "text": "You can crack an almond?"
-    },
-    {
-     "correct": false,
-     "text": "You can crack a walnut?"
-    }
-   ],
-   "clue": "Not the Nutella one.",
-   "id": "113585",
-   "isEasy": false,
-   "question": "Me SO strong, me can even crack edible nut with HARDEST shell between me toes!!!",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Print Magazines",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Us Weekly[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Time[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]People[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Cosmopolitan[/i]"
-    }
-   ],
-   "clue": "Remember the blue logo font?",
-   "id": "113587",
-   "isEasy": false,
-   "question": "So there “Sexiest Man Alive,” but no “Sexiest Ogre Alive”?! Me DESTROY that magazine! ...uh...",
-   "theme": "CASTLE",
-   "x": true
-  },
-  {
-   "category": "Philosophical Musings",
-   "choices": [
-    {
-     "correct": true,
-     "text": "That’s... almost a DESCARTES quote!"
-    },
-    {
-     "correct": false,
-     "text": "You’re thinking of KANT!"
-    },
-    {
-     "correct": false,
-     "text": "I believe... that’s ARISTOTLE!"
-    },
-    {
-     "correct": false,
-     "text": "That’s basically a Plato quote!"
-    }
-   ],
-   "clue": "This philosopher ISN’T Greek!",
-   "id": "113796",
-   "isEasy": false,
-   "question": "Me favorite philosopher always say “ME THINK, THEREFORE ME AM.” He was... urgh... who he?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Physics Unit",
-   "choices": [
-    {
-     "correct": false,
-     "text": "It’s a microscopic unit of length!"
-    },
-    {
-     "correct": false,
-     "text": "It’s a unit of time!"
-    },
-    {
-     "correct": false,
-     "text": "Ergs are measures of weight!"
-    },
-    {
-     "correct": true,
-     "text": "Erg is a unit of energy!"
-    }
-   ],
-   "clue": "This time, it’s not “time”",
-   "id": "113798",
-   "isEasy": false,
-   "question": "Me favorite unit of measure “ERG.” Easy to say! But erg measure... erg....",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Famous Cyclops",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Sure do, that’s Theseus."
-    },
-    {
-     "correct": false,
-     "text": "Your cousin was tricked by Perseus."
-    },
-    {
-     "correct": true,
-     "text": "That’s gotta be Odysseus."
-    },
-    {
-     "correct": false,
-     "text": "Oh, that’s actually Hercules."
-    }
-   ],
-   "clue": "This hero met the cyclops on a looonnggg journey home.",
-   "id": "113801",
-   "isEasy": false,
-   "question": "Me cousin, big cyclops, great guy, hurt by Greek hero named NOBODY. Do you know NOBODY?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Cartoon Characters",
-   "choices": [
-    {
-     "correct": true,
-     "text": "You’d love Fred Flintstone."
-    },
-    {
-     "correct": false,
-     "text": "You’d love Popeye."
-    },
-    {
-     "correct": false,
-     "text": "You’d love SpongeBob."
-    },
-    {
-     "correct": false,
-     "text": "You’d love Betty Boop."
-    }
-   ],
-   "clue": "It was pre-industrial times, after all.",
-   "id": "113854",
-   "isEasy": false,
-   "question": "Me hate wearing shoes! Ogre like BARE FEET!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Music Intros",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Play The Killers’ “Somebody Told Me”!"
-    },
-    {
-     "correct": false,
-     "text": "Listen to Guns N’ Roses’ “Sweet Child O’ Mine”!"
-    },
-    {
-     "correct": false,
-     "text": "Queue up R.E.M.’s “Losing My Religion”!"
-    },
-    {
-     "correct": true,
-     "text": "Get rolled by Rick Astley’s “Never Gonna Give You Up”!"
-    }
-   ],
-   "clue": "Not to troll you, but...",
-   "id": "113855",
-   "isEasy": false,
-   "question": "Ba dum dum dum, me wanna hear drums!!! Greatest songs START with drum solo!",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Italian Cuisine",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Yes, that’s called spaghetti."
-    },
-    {
-     "correct": false,
-     "text": "Right, that’s called angel hair."
-    },
-    {
-     "correct": false,
-     "text": "Yep, that’s called linguini."
-    },
-    {
-     "correct": true,
-     "text": "Sure, that’s called bucatini."
-    }
-   ],
-   "clue": "Angel hair would be a bit too thin.",
-   "id": "113862",
-   "isEasy": false,
-   "question": "Me ate noodle with sauce INSIDE! It hollow like straw!!!",
-   "theme": "DESERT"
-  },
-  {
-   "category": "Poultry",
-   "choices": [
-    {
-     "correct": false,
-     "text": "There’s no CHICKEN in turducken"
-    },
-    {
-     "correct": true,
-     "text": "There’s no GOOSE in turducken"
-    },
-    {
-     "correct": false,
-     "text": "There’s no DUCK in turducken"
-    },
-    {
-     "correct": false,
-     "text": "There’s no TURKEY in turducken"
-    }
-   ],
-   "clue": "The “tur” stands for “turkey.”",
-   "countrySpecific": true,
-   "id": "113863",
-   "isEasy": false,
-   "question": "Me checking for allergies! What bird NOT in turducken?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Sports Equipment",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Yeah, a “birdie” is used in bocce."
-    },
-    {
-     "correct": false,
-     "text": "Yeah, a “birdie” is used in table tennis."
-    },
-    {
-     "correct": true,
-     "text": "Yeah, a “birdie” is used in badminton."
-    },
-    {
-     "correct": false,
-     "text": "Yeah, a “birdie” is used in darts."
-    }
-   ],
-   "clue": "It’s called a birdie because it soars back and forth through the air.",
-   "countrySpecific": true,
-   "id": "113865",
-   "isEasy": false,
-   "question": "Me like pretty birdies, but me hear they also used in sports?!?",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Bar Menu",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Calm down, that’s called a NEGRONI!"
-    },
-    {
-     "correct": false,
-     "text": "Chill, that’s called a SEA BREEZE!"
-    },
-    {
-     "correct": false,
-     "text": "Shhhh, that’s called a MANHATTAN!"
-    },
-    {
-     "correct": true,
-     "text": "Relax, that’s called a BOILERMAKER!"
-    }
-   ],
-   "clue": "It’s not the name of a borough!",
-   "id": "113866",
-   "isEasy": false,
-   "question": "Ahhhh! Me drop shot of whiskey in beer! What is this?!?",
-   "theme": "CASTLE",
-   "x": true
-  },
-  {
-   "category": "Musical Notation",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Crank that bard up to FORTE, baby!"
-    },
-    {
-     "correct": true,
-     "text": "FORTISSISSIMO is the loudest!"
-    },
-    {
-     "correct": false,
-     "text": "Play that lute in MEZZO PIANO!"
-    },
-    {
-     "correct": false,
-     "text": "They’ll hear it two fiefs away if it’s FORTISSIMO!"
-    }
-   ],
-   "clue": "The correct answer has double letters in it!",
-   "id": "113872",
-   "isEasy": false,
-   "question": "ME LOUD, and me like music LOUD. Me turn bard WAY UP. But... what music word LOUDEST?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Rocket Science",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Ernst Mach was a rocket scientist!"
-    },
-    {
-     "correct": false,
-     "text": "Dmitri Mendeleev was into rockets."
-    },
-    {
-     "correct": false,
-     "text": "Christian Doppler was a big rocket guy."
-    },
-    {
-     "correct": true,
-     "text": "Please do not crush Robert Goddard’s skull."
-    }
-   ],
-   "clue": "Mach studied shock waves, but not rockets!",
-   "id": "113874",
-   "isEasy": false,
-   "question": "Crushing skulls EASY! It not ROCKET SCIENCE! Not like field studied by... er... aghhh...",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Ear Anatomy",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Ouch, my cornea!"
-    },
-    {
-     "correct": true,
-     "text": "No, not my cochlea!"
-    },
-    {
-     "correct": false,
-     "text": "Eek, my clavicle!"
-    },
-    {
-     "correct": false,
-     "text": "Oof, my coccyx!"
-    }
-   ],
-   "clue": "Your cornea is in your eye",
-   "id": "113891",
-   "isEasy": false,
-   "question": "RAAAAR. Me yell so loud, me destroy part of YOUR EAR that let you HEAR!",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Pet Origins",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Originally, JAPAN"
-    },
-    {
-     "correct": false,
-     "text": "They started in INDIA"
-    },
-    {
-     "correct": true,
-     "text": "They were bred in CHINA"
-    },
-    {
-     "correct": false,
-     "text": "I think the CARIBBEAN somewhere?"
-    }
-   ],
-   "clue": "First recorded appearance was in the Song Dynasty",
-   "id": "113978",
-   "isEasy": false,
-   "question": "ME want goldfish! But no GOLDEN fish in treasure? WHERE GOLDFISH COME FROM?!?",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Spooky Media",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]IT[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "[i]The Turning[/i]?"
-    },
-    {
-     "correct": false,
-     "text": "[i]Stranger Things[/i]?"
-    },
-    {
-     "correct": true,
-     "text": "[i]Ghostbusters: Afterlife[/i]?"
-    }
-   ],
-   "clue": "It’s the 4th movie",
-   "id": "114161",
-   "isEasy": false,
-   "question": "Me hate SPOOKY STUFF. Me OK with FINN WOLFHARD. Where can me watch FINN fight SPOOKY STUFF in OKLAHOMA?",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Psychological Classification",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Yes, you’re NATURALISTIC"
-    },
-    {
-     "correct": false,
-     "text": "You are indeed MUSICAL"
-    },
-    {
-     "correct": true,
-     "text": "I sense you’re COSMOLOGICAL"
-    },
-    {
-     "correct": false,
-     "text": "You’re very LOGICAL-MATHEMATICAL"
-    }
-   ],
-   "clue": "That’s a Cos-No",
-   "id": "114162",
-   "isEasy": false,
-   "question": "Me not very LINGUISTIC, but me SMART. ME have all of Howard Gardner’s other INTELLIGENCES... except this FAKE one!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Music Videos",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Eats at Tim Horton’s"
-    },
-    {
-     "correct": true,
-     "text": "Drives a zamboni"
-    },
-    {
-     "correct": false,
-     "text": "Pours gravy on fries"
-    },
-    {
-     "correct": false,
-     "text": "Dresses like Wolverine"
-    }
-   ],
-   "clue": "It’s not poutine or Wolverine!",
-   "id": "114163",
-   "isEasy": false,
-   "question": "OGRE HATE STEREOTYPES!!! ...But me did know Tate McRae was Canadian, because in music video for “Greedy,” she...",
-   "theme": "CASTLE"
-  },
-  {
-   "category": "Geology Rocks",
-   "choices": [
-    {
-     "correct": false,
-     "text": "MARBLE doesn’t move!"
-    },
-    {
-     "correct": true,
-     "text": "LIMESTONE doesn’t move!"
-    },
-    {
-     "correct": false,
-     "text": "GRANITE doesn’t move!"
-    },
-    {
-     "correct": false,
-     "text": "OBSIDIAN doesn’t move!"
-    }
-   ],
-   "clue": "The one that’s got “stone” in its name",
-   "id": "114164",
-   "isEasy": false,
-   "question": "If ME not ride my Donkey, me be SEDENTARY! Not SEDIMENTARY! This ROCK is SEDIMENTARY!!! (And sedentary, me guess.)",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Cartoon Ghosts",
-   "choices": [
-    {
-     "correct": false,
-     "text": "A creepy [i]Kim Possible[/i]"
-    },
-    {
-     "correct": false,
-     "text": "A terryfing [i]Teen Titans[/i]"
-    },
-    {
-     "correct": true,
-     "text": "A scary [i]SpongeBob Squarepants[/i]"
-    },
-    {
-     "correct": false,
-     "text": "A frightening [i]Fairly OddParents[/i]"
-    }
-   ],
-   "clue": "The Flying Dutchman sails on the sea... who lives under the sea?",
-   "id": "114173",
-   "isEasy": false,
-   "question": "ME see a GHOST! A green GHOST called THE FLYING DUTCHMAN! What was I WATCHING?!?!",
-   "theme": "CEMETERY"
-  },
-  {
-   "category": "Continental Geography",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Um... ASIA"
-    },
-    {
-     "correct": false,
-     "text": "I think... EUROPE"
-    },
-    {
-     "correct": false,
-     "text": "Mostly EUROPE, but some in ASIA"
-    },
-    {
-     "correct": true,
-     "text": "Mostly ASIA, but a bit in EUROPE"
-    }
-   ],
-   "clue": "Just over 3/4 of it is in Asia",
-   "id": "114174",
-   "isEasy": false,
-   "question": "WHERE IS RUSSIA?!??! ANSWER ME?!?!",
-   "theme": "MOUNTAIN"
-  },
-  {
-   "category": "Historical Cameos",
-   "choices": [
-    {
-     "correct": true,
-     "text": "Napoleon Bonaparte"
-    },
-    {
-     "correct": false,
-     "text": "Mary, Queen of Scots"
-    },
-    {
-     "correct": false,
-     "text": "Vladimir Lenin"
-    },
-    {
-     "correct": false,
-     "text": "Jack the Ripper"
-    }
-   ],
-   "clue": "The answer isn’t complex... but it does have a complex.",
-   "id": "114176",
-   "isEasy": false,
-   "question": "Wait! The MINIONS not real! But they minion for REAL PERSON?!?! Which real person do they minion for in [i]Minions[/i] movie?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Prolific Authors",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Agatha Christie"
-    },
-    {
-     "correct": true,
-     "text": "Isaac Asimov"
-    },
-    {
-     "correct": false,
-     "text": "Toni Morrison"
-    },
-    {
-     "correct": false,
-     "text": "Michael Crichton"
-    }
-   ],
-   "clue": "It’s one of the sci-fi authors",
-   "id": "114178",
-   "isEasy": false,
-   "question": "ME well read! Me read the MOST BOOKS!!! But which of these people have WROTE the MOST BOOKS?",
-   "theme": "FOREST"
-  },
-  {
-   "category": "Owl Facts",
-   "choices": [
-    {
-     "correct": false,
-     "text": "They’re assembling a nest"
-    },
-    {
-     "correct": false,
-     "text": "They’re laying multiple eggs"
-    },
-    {
-     "correct": false,
-     "text": "They’re hunting during the day"
-    },
-    {
-     "correct": true,
-     "text": "They’re keeping young warm with feathers"
-    }
-   ],
-   "clue": "If you’re thinking it’s the nest, you’re getting colder; try the other direction.",
-   "id": "114191",
-   "isEasy": false,
-   "question": "When Me BROODING, me being SAD! But when my NEIGHBOR — WHO IS OWL — is BROODING, what they DOING?!?!?",
-   "theme": "FOREST"
-  }
- ]
+      "category": "Impressionnistes",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Le gars des Nuits étoilées"
+        },
+        {
+          "correct": false,
+          "text": "Le gars de la Chapelle Sixtine"
+        },
+        {
+          "correct": false,
+          "text": "Le gars des montres qui fondent"
+        },
+        {
+          "correct": false,
+          "text": "La dame avec le singe"
+        }
+      ],
+      "clue": "Fleurs floues, étoiles floues",
+      "id": "108025",
+      "isEasy": false,
+      "question": "Moi aimer belles peintures TOURNESOLS ! QUI célèbre pour PEINDRE belles peintures TOURNESOLS, hein ?!?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Noms de sports",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Les Kansas City Chiefs"
+        },
+        {
+          "correct": false,
+          "text": "Les Indianapolis Colts"
+        },
+        {
+          "correct": false,
+          "text": "Les Green Bay Packers"
+        },
+        {
+          "correct": true,
+          "text": "Les Chicago Bears"
+        }
+      ],
+      "clue": "Ils jouent dans une ville que j’aime bien, moi !",
+      "countrySpecific": true,
+      "id": "108045",
+      "isEasy": false,
+      "question": "MOI monstre du CHEMIN ! Mais quelle équipe NFL on appelle “Les monstres du CHEMIN DU MILIEU”, hein ?!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Connaissances bibliques",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Celle avec le déluge"
+        },
+        {
+          "correct": false,
+          "text": "Celle avec les Commandements"
+        },
+        {
+          "correct": false,
+          "text": "Celle avec la bête à sept têtes"
+        },
+        {
+          "correct": false,
+          "text": "Celle où David combat un grand costaud"
+        }
+      ],
+      "clue": "La réponse est trempée !",
+      "id": "109726",
+      "isEasy": false,
+      "question": "CÔTES HUMAINES, miam miam ! DANS QUEL LIVRE de la Bible Ève sortie des côtes bien tendres ?",
+      "theme": "CASTLE",
+      "x": true
+    },
+    {
+      "category": "Films de comics",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Euh... celui que Tom Hardy a joué"
+        },
+        {
+          "correct": false,
+          "text": "Je crois... celui que Paul Dano a joué"
+        },
+        {
+          "correct": false,
+          "text": "Peut-être... celui que Heath Ledger a joué"
+        },
+        {
+          "correct": false,
+          "text": "Tous les précédents"
+        }
+      ],
+      "clue": "Celui-là est... dur ?",
+      "id": "109742",
+      "isEasy": false,
+      "question": "Séries trop longues ! Moi aimer TRILOGIES !! Qui méchant dans film [i]The Dark Knight Rises[/i] de 2012 ?!",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Constellations",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Celle qui ressemble à un chasseur"
+        },
+        {
+          "correct": true,
+          "text": "Celle qui ressemble à un “W”"
+        },
+        {
+          "correct": false,
+          "text": "Celle qui ressemble à un ours"
+        },
+        {
+          "correct": false,
+          "text": "Celle qui ressemble à un “R”"
+        }
+      ],
+      "clue": "C’est une des lettres",
+      "id": "111870",
+      "isEasy": false,
+      "question": "Étoiles si jolies... casseroles si bonnes. Quelle constellation est Cassiopée, hein ?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Films modernes",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Euh... [i]Jurassic Kingdom[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "Peut-être... [i]La Grande Aventure Lego 2[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "C’est [i]Les Gardiens de la Galaxie 2[/i] ?"
+        },
+        {
+          "correct": true,
+          "text": "[i]Super Mario Bros. le film[/i] ?"
+        }
+      ],
+      "clue": "Allez, frérot !",
+      "id": "112591",
+      "isEasy": false,
+      "question": "Quel film moi aimer beaucoup ? Gros monstre... Chris Pratt... animal qui parle... 2023 ? Hein ?",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Cuisine",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Si tu aimes le pain pita, alors sûrement !"
+        },
+        {
+          "correct": false,
+          "text": "Si tu aimes le baba ganoush, bien sûr !"
+        },
+        {
+          "correct": true,
+          "text": "Si tu aimes le houmous, alors oui !"
+        },
+        {
+          "correct": false,
+          "text": "Si tu aimes le tzatziki, ouais, mec !"
+        }
+      ],
+      "clue": "Faut fredonner un peu",
+      "id": "112592",
+      "isEasy": false,
+      "question": "Moi aimer pois chiches ? Moi sentir que moi aimer pois chiches...",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Système squelettique",
+      "choices": [
+        {
+          "correct": true,
+          "text": "La MAXILLA ?"
+        },
+        {
+          "correct": false,
+          "text": "La CLAVICULE ?"
+        },
+        {
+          "correct": false,
+          "text": "Le COCCYX ?"
+        },
+        {
+          "correct": false,
+          "text": "Le CUBITUS ?"
+        }
+      ],
+      "clue": "Cousine de Godzilla",
+      "id": "112593",
+      "isEasy": false,
+      "question": "MOI FÂCHÉ ! MOI CASSER TON... TON... euh... cet os... juste sous nez... tu sais ?",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Leçon de cuisine",
+      "choices": [
+        {
+          "correct": false,
+          "text": "46 à 52 °C"
+        },
+        {
+          "correct": true,
+          "text": "54 à 60 °C"
+        },
+        {
+          "correct": false,
+          "text": "63 à 68 °C"
+        },
+        {
+          "correct": false,
+          "text": "68 à 71 °C"
+        }
+      ],
+      "clue": "Nombre porte-bonheur : 13",
+      "id": "112594",
+      "isEasy": false,
+      "question": "MOI VA MANGER TA CHAIR !!! À POINT COMME STEAK !!! Et... et... quelle température faut cuire toi ?",
+      "theme": "CASTLE"
+    },
+  {
+      "category": "Pourquoi c’est populaire",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Ouais... Mauvaises Toilettes contre Gentils Caméramans ?"
+        },
+        {
+          "correct": false,
+          "text": "Euh... Bonnes Toilettes contre Méchants Hommes-Lézards ?"
+        },
+        {
+          "correct": false,
+          "text": "Je crois... Mauvaises Toilettes contre Gentils Hommes-Bonbons ?"
+        },
+        {
+          "correct": false,
+          "text": "C’est Bonnes Toilettes contre Sous-vêtements sales, non ?"
+        }
+      ],
+      "clue": "Y a aussi des télés et des enceintes.",
+      "id": "112595",
+      "isEasy": false,
+      "question": "HAHAHAHAHAHAHA ! Moi voir SKIBIDI TOILET aujourd’hui ! TOI CONNAÎTRE ÇA ?!",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Endroits de vacances",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Détends-toi. C’est près de NAPLES"
+        },
+        {
+          "correct": false,
+          "text": "C’est bon. Va juste à NICE"
+        },
+        {
+          "correct": false,
+          "text": "T’inquiète. C’est à côté d’ATHÈNES"
+        },
+        {
+          "correct": false,
+          "text": "Tranquille gros. C’est pas loin de BARCELONE"
+        }
+      ],
+      "clue": "Dors un peu dessus. Fais une sieste.",
+      "id": "112596",
+      "isEasy": false,
+      "question": "MOI TROP CONTENT ! Vacances mois prochain ! Côte Amalfitaine ! MAIS MOI PAS SAVOIR OÙ ÇA EST !!!",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Universités",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est une université à Atlanta"
+        },
+        {
+          "correct": false,
+          "text": "C’est une université à Nashville"
+        },
+        {
+          "correct": false,
+          "text": "C’est une université à Tallahassee"
+        },
+        {
+          "correct": true,
+          "text": "C’est une université à Houston"
+        }
+      ],
+      "clue": "Toutes les universités sont plus grandes au Texas",
+      "countrySpecific": true,
+      "id": "112631",
+      "isEasy": false,
+      "question": "Semaine dernière moi écraser gars dire “Moi allé à Rice !!!” HAHA idiot ! Du Riz c’est à manger !!! Quoi il veut dire ?!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Chanson de l’été",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Peut-être “YOU BELONG WITH ME” ?"
+        },
+        {
+          "correct": false,
+          "text": "C’est peut-être “ROLLING IN THE DEEP”, je crois"
+        },
+        {
+          "correct": true,
+          "text": "Tu parles de “UPTOWN FUNK” ?"
+        },
+        {
+          "correct": false,
+          "text": "C’est “GET LUCKY” ?"
+        }
+      ],
+      "clue": "Pas la peine de chercher en centre-ville",
+      "id": "112636",
+      "isEasy": false,
+      "question": "Quelle chanson ça ? Ça fait : “Dou, dou, dou... Michelle Pfeiffer... dou dou dou... pot de Skippy ?” Toi savoir ?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Problèmes médicaux",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Respire. C’est juste un ONGLE INCARNÉ"
+        },
+        {
+          "correct": false,
+          "text": "Ça va. C’est juste MAUVAISE HALEINE"
+        },
+        {
+          "correct": false,
+          "text": "Tout ira bien. Trop de CÉRUMEN"
+        },
+        {
+          "correct": false,
+          "text": "T’inquiète. C’est juste le RHUME DES FOINS"
+        }
+      ],
+      "clue": "Difficile de mettre le doigt dessus ?",
+      "id": "112639",
+      "isEasy": false,
+      "question": "OH NON ! Docteur dire moi avoir ONYCHO... ONYCHOCRO... ONYCHOCRYPTOSE !!! Que moi faire ?!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Musique pour enfants",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est COCOMELON. Respire un bon coup."
+        },
+        {
+          "correct": false,
+          "text": "C’est une chanson de BLIPPI. Calme-toi."
+        },
+        {
+          "correct": true,
+          "text": "C’est sur PINKFONG, mon pote"
+        },
+        {
+          "correct": false,
+          "text": "Va voir RYAN’S WORLD ?"
+        }
+      ],
+      "clue": "Chanson rose bonbon",
+      "id": "112678",
+      "isEasy": false,
+      "question": "AH !!! MOI TROP EN COLÈRE !!! DOIT CALMER MOI !!! BESOIN “BABY SHARK” !!! TRÈS POPULAIRE !!! OÙ TROUVER ÇA ?!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Séries Disney",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est [i]Only Murders In The Building[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu veux dire [i]iCarly[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu parles de [i]Lizzie McGuire[/i] ?"
+        },
+        {
+          "correct": true,
+          "text": "Peut-être [i]Les Sorciers de Waverly Place[/i] ?"
+        }
+      ],
+      "clue": "Y a deux ‘W’ dedans",
+      "id": "112680",
+      "isEasy": false,
+      "question": "Quelle émission moi regarder ? Avec... Selena Gomez... à NEW YORK... mais sur DISNEY CHANNEL ? Toi savoir ?",
+      "theme": "CEMETERY"
+    },
+  {
+      "category": "Séries historiques",
+      "choices": [
+        {
+          "correct": true,
+          "text": "C’était dans ce qui est aujourd’hui l’Ukraine"
+        },
+        {
+          "correct": false,
+          "text": "C’était dans ce qui est aujourd’hui la Biélorussie"
+        },
+        {
+          "correct": false,
+          "text": "C’était dans ce qui est aujourd’hui la Moldavie"
+        },
+        {
+          "correct": false,
+          "text": "C’était dans ce qui est aujourd’hui l’Estonie"
+        }
+      ],
+      "clue": "La réponse dépend du U",
+      "id": "112681",
+      "isEasy": false,
+      "question": "Toi regarder [i]Chernobyl[/i]? Ça fou. Où ça arrivé, hein ?",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Musique pop",
+      "choices": [
+        {
+          "correct": false,
+          "text": "“Birds of a Feather” de Billie Eilish ?"
+        },
+        {
+          "correct": true,
+          "text": "“Kill Bill” de SZA ?"
+        },
+        {
+          "correct": false,
+          "text": "“Diet Pepsi” d’Addison Rae ?"
+        },
+        {
+          "correct": false,
+          "text": "“Pink Pony Club” de Chappell Roan ?"
+        }
+      ],
+      "clue": "Réalisé par Quentin Tarantino",
+      "id": "112682",
+      "isEasy": false,
+      "question": "Quelle chanson ça ? Ça va : “Me so mature... Me so mature...” Moi oublier la suite !",
+      "theme": "FOREST",
+      "x": true
+    },
+    {
+      "category": "Vol",
+      "choices": [
+        {
+          "correct": false,
+          "text": "La loi de Kepler"
+        },
+        {
+          "correct": false,
+          "text": "Les principes d’Archimède"
+        },
+        {
+          "correct": false,
+          "text": "La quatrième loi de Newton"
+        },
+        {
+          "correct": true,
+          "text": "Le principe de Bernoulli"
+        }
+      ],
+      "clue": "Juste un principe à l’école de pilotage",
+      "id": "112683",
+      "isEasy": false,
+      "question": "Régler pari pour nous ! Mon âne dit avions volent par magie. Moi dire différence de pression cause portance, aka...",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Espèces de dessin animé",
+      "choices": [
+        {
+          "correct": true,
+          "text": "des Heeler rigolos"
+        },
+        {
+          "correct": false,
+          "text": "des Beagles rigolos"
+        },
+        {
+          "correct": false,
+          "text": "des Retrievers rigolos"
+        },
+        {
+          "correct": false,
+          "text": "des Bouledogues rigolos"
+        }
+      ],
+      "clue": "Ces gosses de Brisbane disent toujours “g’day”",
+      "id": "112684",
+      "isEasy": false,
+      "question": "Moi vouloir rencontrer [i]Bluey[/i] et Bingo ! Ils chiens drôles !!! Spécifiquement ils sont...",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Rencontres mythiques",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Ils ont une TÊTE & DES AILES D’AIGLE et un CORPS DE LION"
+        },
+        {
+          "correct": false,
+          "text": "Ils ont un TORSE HUMAIN et des JAMBES DE CHEVAL"
+        },
+        {
+          "correct": false,
+          "text": "Ils ont un CORPS DE DRAGON et une TÊTE DE LOUP"
+        },
+        {
+          "correct": false,
+          "text": "Ils ont une TÊTE DE LOUP et un CORPS DE SERPENT"
+        }
+      ],
+      "clue": "Ce troll mangerait la part du lion des ailes piquantes",
+      "id": "112686",
+      "isEasy": false,
+      "question": "Moi match sur appli avec GRIFFON mais pas de photo !!! Ils ressemblent comment ?",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Acteurs",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Le gars qui devient grand et petit"
+        },
+        {
+          "correct": true,
+          "text": "Le magicien qui ouvre des portails"
+        },
+        {
+          "correct": false,
+          "text": "L’arbre avec des gens de l’espace"
+        },
+        {
+          "correct": false,
+          "text": "Le chat... tu sais, le gars en costume de chat !"
+        }
+      ],
+      "clue": "Quel acteur imitait un accent américain ?",
+      "id": "112757",
+      "isEasy": false,
+      "question": "Acter si CONFUS ! Quel HÉROS MARVEL aussi détective HOLMES dans série BBC ?",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Tout petit",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Un isotope"
+        },
+        {
+          "correct": false,
+          "text": "Un lanthanide"
+        },
+        {
+          "correct": false,
+          "text": "Un ion"
+        },
+        {
+          "correct": true,
+          "text": "Un lepton"
+        }
+      ],
+      "clue": "Il n’y a pas de “i” dans “correct”",
+      "id": "112901",
+      "isEasy": false,
+      "question": "Moi va t’écraser en PETITS MORCEAUX !! Plus petit que MOLÉCULE ou ATOME !!! Euh, quoi plus petit que ça ?",
+      "theme": "CASTLE"
+},
+  {
+      "category": "Parody Songs",
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Word Crimes[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]I Love Rocky Road[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]Albuquerque[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Lasagna[/i]"
+        }
+      ],
+      "clue": "Soyez allergique à la nourriture",
+      "id": "112902",
+      "isEasy": false,
+      "question": "Moi AIMER “Weird Al” mais MÉCHANT quand il se MOQUE d’autres chansons. Quelle chanson pas méchante ?",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Brain Science",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est ton MÉDULLA OBLONGATA !"
+        },
+        {
+          "correct": true,
+          "text": "C’est ton AMYGDALE !"
+        },
+        {
+          "correct": false,
+          "text": "C’est ton LOBA OCCIPITAL !"
+        },
+        {
+          "correct": false,
+          "text": "C’est ton THALAMUS !!!"
+        }
+      ],
+      "clue": "Quand tu doutes, choisis le court",
+      "id": "112903",
+      "isEasy": false,
+      "question": "MOI SI FÂCHÉ !!! QUELLE PARTIE CERVEAU FAIT COLÈRE ?!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Animal Husbandry",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Avec un ÂNE MÂLE et une JUMENT"
+        },
+        {
+          "correct": false,
+          "text": "Avec un CHEVAL MÂLE et une ÂNESSE"
+        },
+        {
+          "correct": false,
+          "text": "Avec un CHEVAL MÂLE et un ÂNE FEMELLE"
+        },
+        {
+          "correct": false,
+          "text": "Avec un ÂNE MÂLE et un BURRO FEMELLE"
+        }
+      ],
+      "clue": "Un peu de jeu de mots sur les chevaux aide",
+      "id": "112904",
+      "isEasy": false,
+      "question": "Moi et âne on dispute. Il dit humains font MULES... hybrides. Comment on fait mule ?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Ancient History",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Alexandre le Grand ?"
+        },
+        {
+          "correct": false,
+          "text": "Toutânkhamon ?"
+        },
+        {
+          "correct": false,
+          "text": "Gengis Khan ?"
+        },
+        {
+          "correct": true,
+          "text": "Charlemagne ?"
+        }
+      ],
+      "clue": "Cette question royale est une vraie plaie",
+      "id": "112905",
+      "isEasy": false,
+      "question": "Moi fier Millennial !!! Moi né dans le PREMIER MILLÉNAIRE A.D. !!! Qui d’autre Millennial comme moi ?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Oldies",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Les filles du Nord"
+        },
+        {
+          "correct": true,
+          "text": "Les filles des fermiers du Midwest"
+        },
+        {
+          "correct": false,
+          "text": "Les filles de la côte Est"
+        },
+        {
+          "correct": false,
+          "text": "Les filles du Sud"
+        }
+      ],
+      "clue": "Cette question est particulièrement corny",
+      "id": "112906",
+      "isEasy": false,
+      "question": "Moi oublier paroles de [i]California Girls[/i]... celle des BEACH BOYS !!! Quelles filles te font “sentir bien” ?",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Human Anatomy",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est sur le CÔTÉ SUPÉRIEUR DROIT de mon abdomen"
+        },
+        {
+          "correct": true,
+          "text": "Mords le CÔTÉ INFÉRIEUR DROIT"
+        },
+        {
+          "correct": false,
+          "text": "Faut aller du côté INFÉRIEUR GAUCHE"
+        },
+        {
+          "correct": false,
+          "text": "Le côté SUPÉRIEUR GAUCHE, c’est la “ville de l’appendice”"
+        }
+      ],
+      "clue": "Le bon côté, c’est le droit !",
+      "id": "113249",
+      "isEasy": false,
+      "question": "Moi manger ton appendice comme AMUSE-BOUCHE ! Mais... où moi mordre ton ventre pour le trouver ?",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Personality Tests",
+      "choices": [
+        {
+          "correct": true,
+          "text": "C’est un test Myers-Briggs"
+        },
+        {
+          "correct": false,
+          "text": "C’est un test de l’ennéagramme"
+        },
+        {
+          "correct": false,
+          "text": "Tu as passé le test DiSC, grand gaillard"
+        },
+        {
+          "correct": false,
+          "text": "Tu as passé le SAT ?!"
+        }
+      ],
+      "clue": "Le test avec NEUF résultats possibles est FAUX.",
+      "id": "113252",
+      "isEasy": false,
+      "question": "Moi récemment faire test difficile et apprendre moi être TOTAL INFP ! Test s’appelait... euh...",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Disney Animals",
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Robin des Bois[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "[i]Pinocchio[/i] ?"
+        },
+        {
+          "correct": true,
+          "text": "[i]Pocahontas[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "[i]Zootopie[/i] ?"
+        }
+      ],
+      "clue": "Essaie de peindre avec toutes les couleurs du vent",
+      "id": "113295",
+      "isEasy": false,
+      "question": "Grrr, moi DÉTESTER renards ! Moi vouloir film Disney avec AUCUN RENARD !!",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Cave Geography",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tu pourrais vivre en France"
+        },
+        {
+          "correct": false,
+          "text": "Tu pourrais vivre au Mexique"
+        },
+        {
+          "correct": true,
+          "text": "Tu pourrais vivre aux États-Unis"
+        },
+        {
+          "correct": false,
+          "text": "Tu pourrais vivre en Chine"
+        }
+      ],
+      "clue": "C’est la grotte Mammoth, donc les mammouths y vivaient",
+      "id": "113296",
+      "isEasy": false,
+      "question": "SOUPIR. Moi juste vouloir fuir et vivre dans pays avec PLUS LONGUE GROTTE DU MONDE !",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Weapon Types",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est un dao"
+        },
+        {
+          "correct": true,
+          "text": "C’est un katana"
+        },
+        {
+          "correct": false,
+          "text": "C’est un jian"
+        },
+        {
+          "correct": false,
+          "text": "C’est un shotel"
+        }
+      ],
+      "clue": "Le mot finit par une voyelle.",
+      "id": "113298",
+      "isEasy": false,
+      "question": "Hmm... C’est quoi ÇA dans vomi ? On dirait... ÉPÉE COURBÉE ? du Japon ?!?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Fashion Houses",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Super pantalon GUCCI !"
+        },
+        {
+          "correct": false,
+          "text": "Magnifique pantalon DIOR !"
+        },
+        {
+          "correct": false,
+          "text": "Joli pantalon DOLCE & GABBANA !"
+        },
+        {
+          "correct": false,
+          "text": "Sacré pantalon PRADA !"
+        }
+      ],
+      "clue": "Donne-moi deux CC de mode !",
+      "id": "113299",
+      "isEasy": false,
+      "question": "Pourquoi pas complimenter pantalons d’Ogre stylés ?! Ils viennent grande maison mode de Florence !!",
+      "theme": "CASTLE"
+    },
+  {
+      "category": "Animal Abilities",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Oui, la CHOUETTE EFFRAIE ne peut pas non plus"
+        },
+        {
+          "correct": false,
+          "text": "Oui, la BALEINE BELUGA ne peut pas non plus"
+        },
+        {
+          "correct": false,
+          "text": "Oui, la CHAUVE-SOURIS À GRANDES OREILLES ne peut pas non plus"
+        },
+        {
+          "correct": false,
+          "text": "Oui, le DAUPHIN TOURNANT ne peut pas non plus"
+        }
+      ],
+      "clue": "Une créature à plumes",
+      "id": "113300",
+      "isEasy": false,
+      "question": "OK, donc moi PAS utiliser écholocation pour chasser. ET ALORS ?! Moi pas le seul !",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Pop Music",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oui, c’est une chanson de One Direction"
+        },
+        {
+          "correct": false,
+          "text": "Oui, c’est une chanson des Jonas Brothers"
+        },
+        {
+          "correct": true,
+          "text": "Oui, c’est une chanson de BTS"
+        },
+        {
+          "correct": false,
+          "text": "Détends-toi, c’est une chanson de Sabrina Carpenter"
+        }
+      ],
+      "clue": "Fais passer ton beurre avec un peu de K-pop.",
+      "id": "113301",
+      "isEasy": false,
+      "question": "Moi confus ! Moi savoir que beurre vient de vache ! Mais certains disent “Butter” fait par Barde ?!?!",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Sports Teams",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ils ont déménagé là depuis New York !"
+        },
+        {
+          "correct": true,
+          "text": "Ils ont déménagé là depuis La Nouvelle-Orléans !"
+        },
+        {
+          "correct": false,
+          "text": "Ils ont déménagé là depuis Seattle !"
+        },
+        {
+          "correct": false,
+          "text": "Ils ont déménagé là depuis Atlanta !"
+        }
+      ],
+      "clue": "Ce n’est pas la Grosse Pomme.",
+      "countrySpecific": true,
+      "id": "113302",
+      "isEasy": false,
+      "question": "Pourquoi équipe NBA Utah s’appelle “Jazz” ? Utah PAS CONNU POUR JAZZ !!!",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Basketball History",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tu veux dire Shaquille O’Neal ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu veux dire Steph Curry ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu veux dire Domantas Sabonis ?"
+        },
+        {
+          "correct": true,
+          "text": "Tu veux dire LeBron James ?"
+        }
+      ],
+      "clue": "Il a déjà joué à Cleveland.",
+      "countrySpecific": true,
+      "id": "113303",
+      "isEasy": false,
+      "question": "Moi pas me souvenir ! Quel joueur basket dit qu’il allait “prendre ses talents à South Beach” ?",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Food History",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est une couche de FRAISES"
+        },
+        {
+          "correct": false,
+          "text": "C’est une couche d’ANANAS"
+        },
+        {
+          "correct": false,
+          "text": "C’est plein de TRANCHES DE POMME"
+        },
+        {
+          "correct": true,
+          "text": "C’est de la NOIX DE COCO, râpée"
+        }
+      ],
+      "clue": "Il contient en fait deux sortes de “noix”",
+      "id": "113305",
+      "isEasy": false,
+      "question": "Moi adorer gâteau chocolat allemand... mais PAS GOÛT Allemands ! PARCE QUE QUEL FRUIT SUR DESSUS ?!?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "French New Wave",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Ooh, Agnès Varda !"
+        },
+        {
+          "correct": false,
+          "text": "C’est Jacques Cousteau !"
+        },
+        {
+          "correct": false,
+          "text": "Tu penses à Denis Villeneuve !"
+        },
+        {
+          "correct": false,
+          "text": "J’adore que tu sois fan de Jane Campion."
+        }
+      ],
+      "clue": "C’est une femme !",
+      "id": "113307",
+      "isEasy": false,
+      "question": "Moi admirer rejet des techniques cinématographiques classiques par NOUVELLE VAGUE FRANÇAISE. Surtout du réalisateur... nom était... euh...",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Dental Diagnoses",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Halitose. Tu as une halitose."
+        },
+        {
+          "correct": false,
+          "text": "C’est une parodontite, mon ami."
+        },
+        {
+          "correct": false,
+          "text": "L’hyperdontie veut dire “mauvaise haleine.”"
+        },
+        {
+          "correct": false,
+          "text": "C’est du bruxisme !"
+        }
+      ],
+      "clue": "“Hyperdontie” veut dire trop de dents !",
+      "id": "113310",
+      "isEasy": false,
+      "question": "Moi récemment appris que haleine sent “MAUVAIS.” Mais dentiste utiliser mot intelligent pour ça... mot était... urghhh...",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Early ’00s Pop",
+      "choices": [
+        {
+          "correct": false,
+          "text": "“No Rain” de Blind Melon. Bon choix."
+        },
+        {
+          "correct": false,
+          "text": "“Bubbly” de Colbie Callait !"
+        },
+        {
+          "correct": true,
+          "text": "“Unwritten” de Natasha Bedingfield !"
+        },
+        {
+          "correct": false,
+          "text": "“Soak Up The Sun” de Sheryl Crow ! Un classique !"
+        }
+      ],
+      "clue": "Ce n’est pas “No Rain”, et il n’y a pas “Sun” dedans non plus !",
+      "id": "113428",
+      "isEasy": false,
+      "question": "Dans chanson karaoké préférée, moi hurle “FEEL ME RAIN ON ME SKIN!!” C’était quoi titre déjà ?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Car Parts",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ça refroidit le moteur de ta voiture"
+        },
+        {
+          "correct": true,
+          "text": "Ça réduit les émissions toxiques de ta voiture"
+        },
+        {
+          "correct": false,
+          "text": "Ça stocke le liquide de frein de ta voiture"
+        },
+        {
+          "correct": false,
+          "text": "Ça convertit l’énergie chimique en énergie électrique"
+        }
+      ],
+      "clue": "Grâce à ça, ta voiture ne sera pas annulée.",
+      "countrySpecific": false,
+      "id": "113452",
+      "isEasy": false,
+      "question": "Une fois, chevalier royal envoyé en quête pour voler mon CONVERTISSEUR CATALYTIQUE ! GRAH ! Mais... ça fait quoi en fait ??",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Couples Classes",
+      "choices": [
+        {
+          "correct": true,
+          "text": "L'accouchement... félicitations !"
+        },
+        {
+          "correct": false,
+          "text": "Le yoga en couple... super !"
+        },
+        {
+          "correct": false,
+          "text": "La danse de salon... très chic !"
+        },
+        {
+          "correct": false,
+          "text": "Les finances en couple... intelligent !"
+        }
+      ],
+      "clue": "Ce n’est ni la danse ni la finance !",
+      "id": "113456",
+      "isEasy": false,
+      "question": "Moi et femme récemment inscrits à COURS LAMAZE ! On apprend... euh... quoi déjà...?",
+      "theme": "CASTLE",
+      "x": true
+    },
+    {
+      "category": "Where’s The Beef",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Le Wagyu vient du Japon."
+        },
+        {
+          "correct": false,
+          "text": "Le Wagyu vient de Chine !"
+        },
+        {
+          "correct": false,
+          "text": "Le Wagyu vient de Corée."
+        },
+        {
+          "correct": false,
+          "text": "Le Wagyu est du bœuf de Thaïlande !"
+        }
+      ],
+      "clue": "Le drapeau du bon pays a un cercle dessus !",
+      "id": "113464",
+      "isEasy": false,
+      "question": "Viandes préférées de moi sont HUMAIN et WAGYU ! Moi sur le point de manger humain... mais où trouver wagyu ?",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Jazzy Nicknames",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Miles Davis !"
+        },
+        {
+          "correct": false,
+          "text": "Bill Evans !"
+        },
+        {
+          "correct": true,
+          "text": "Charlie Parker !"
+        },
+        {
+          "correct": false,
+          "text": "John Coltrane !"
+        }
+      ],
+      "clue": "On trouve des oiseaux au parc",
+      "id": "113465",
+      "isEasy": false,
+      "question": "Moi manger oiseaux et moi manger MUSICIENS DE JAZZ ! Tu sais MUSICIEN DE JAZZ surnommé BIRD ?! QUI ?!",
+      "theme": "FOREST"
+    },
+  {
+      "category": "Historical Greats",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Elle a régné sur la Suède"
+        },
+        {
+          "correct": false,
+          "text": "Elle a régné sur la France"
+        },
+        {
+          "correct": true,
+          "text": "Elle a régné sur la Russie"
+        },
+        {
+          "correct": false,
+          "text": "Elle a régné sur l’Empire britannique"
+        }
+      ],
+      "clue": "Elle est née en Allemagne, mais a régné à l’est de sa ville natale",
+      "id": "113478",
+      "isEasy": false,
+      "question": "Honnêtement, moi BON troll, pas grand ! Mais pourquoi Catherine la Grande était SI-SI-SI GRANDE ?!?!",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Style Colors",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tu es un PRINTEMPS"
+        },
+        {
+          "correct": false,
+          "text": "Tu es un ÉTÉ"
+        },
+        {
+          "correct": true,
+          "text": "Tu es un AUTOMNE"
+        },
+        {
+          "correct": false,
+          "text": "Tu es un HIVER"
+        }
+      ],
+      "clue": "Ne tombe pas dans notre piège de style",
+      "id": "113510",
+      "isEasy": false,
+      "question": "Mon âne GOUROU DE MODE ! Il dit moi avoir traits chauds, doux et faible contraste... QU’ÇA VOULOIR DIRE ÇA ?!",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Science",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Vitamine A"
+        },
+        {
+          "correct": false,
+          "text": "Vitamine B"
+        },
+        {
+          "correct": true,
+          "text": "Vitamine D"
+        },
+        {
+          "correct": false,
+          "text": "Vitamine K"
+        }
+      ],
+      "clue": "Évidemment que tu sais, ne sois pas B-bête",
+      "id": "113531",
+      "isEasy": false,
+      "question": "Soleil TROP CHAUD ! Mais moi besoin de sa VITAMINE ! Quelle vitamine ?!?",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Nautical Terms",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Oui, ça s’appelle une “cambuse”"
+        },
+        {
+          "correct": false,
+          "text": "Oui, ça s’appelle une “couchette”"
+        },
+        {
+          "correct": false,
+          "text": "Souvent appelée une “passerelle”"
+        },
+        {
+          "correct": false,
+          "text": "Les marins appellent ça le “pont arrière”"
+        }
+      ],
+      "clue": "Ça commence par un “C” en français, mais par un “G” en anglais",
+      "id": "113532",
+      "isEasy": false,
+      "question": "Océan donner faim à moi ! Si moi prendre bateau géant, y aura cuisine dessus ?!",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Greek Mythology",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oui, le papa de Zeus était Poséidon."
+        },
+        {
+          "correct": true,
+          "text": "Oui, le papa de Zeus était Cronos."
+        },
+        {
+          "correct": false,
+          "text": "Oui, le papa de Zeus était Ouranos."
+        },
+        {
+          "correct": false,
+          "text": "Oui, le papa de Zeus était Gaïa."
+        }
+      ],
+      "clue": "Poséidon était son frère",
+      "id": "113533",
+      "isEasy": false,
+      "question": "Zeus GRAND PAPA des dieux grecs ! Mais Zeus lui aussi avait papa ?!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Health Food",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Je crois... dans les pâtes ?"
+        },
+        {
+          "correct": false,
+          "text": "Je crois... dans la viande de cerf ?"
+        },
+        {
+          "correct": false,
+          "text": "Je crois... dans les fruits de mer ?"
+        },
+        {
+          "correct": true,
+          "text": "Je crois... dans le yaourt ?"
+        }
+      ],
+      "clue": "Les bonnes bactéries viennent de la fermentation",
+      "id": "113575",
+      "isEasy": false,
+      "question": "Docteur troll dire moi manger Lactobacillus pour bon ventre. Où trouver ça ?!",
+      "theme": ""
+    },
+    {
+      "category": "Painters",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Tu veux dire Léonard de Vinci ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu veux dire Dalí ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu veux dire Rembrandt ?"
+        },
+        {
+          "correct": true,
+          "text": "Tu veux dire Van Gogh ?"
+        }
+      ],
+      "clue": "La bonne réponse a deux oreilles... enfin presque",
+      "id": "113576",
+      "isEasy": false,
+      "question": "Moi déteste mes oreilles MOCHES ! Comme peintre hollandais qui a coupé la sienne !",
+      "theme": ""
+    },
+    {
+      "category": "Food Physics",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Tu peux casser une noix de macadamia ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu peux casser une noisette ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu peux casser une amande ?"
+        },
+        {
+          "correct": false,
+          "text": "Tu peux casser une noix ?"
+        }
+      ],
+      "clue": "Pas celle qu’on met dans le Nutella",
+      "id": "113585",
+      "isEasy": false,
+      "question": "Moi SI fort, moi casser noix comestible avec COQUE LA PLUS DURE juste entre orteils !!",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Print Magazines",
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Us Weekly[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Time[/i]"
+        },
+        {
+          "correct": true,
+          "text": "[i]People[/i]"
+        },
+        {
+          "correct": false,
+          "text": "[i]Cosmopolitan[/i]"
+        }
+      ],
+      "clue": "Tu te souviens de la police bleue du logo ?",
+      "id": "113587",
+      "isEasy": false,
+      "question": "Ils ont “Homme le plus sexy du monde”, mais pas “Ogre le plus sexy du monde” ?! Moi DÉTRUIRE ce magazine ! ...euh...",
+      "theme": "CASTLE",
+      "x": true
+    },
+    {
+      "category": "Philosophical Musings",
+      "choices": [
+        {
+          "correct": true,
+          "text": "C’est... presque une citation de DESCARTES !"
+        },
+        {
+          "correct": false,
+          "text": "Tu penses à KANT !"
+        },
+        {
+          "correct": false,
+          "text": "Je crois... que c’est ARISTOTE !"
+        },
+        {
+          "correct": false,
+          "text": "C’est plutôt une citation de Platon !"
+        }
+      ],
+      "clue": "Ce philosophe n’est PAS grec !",
+      "id": "113796",
+      "isEasy": false,
+      "question": "Philosophe préféré de moi toujours dire “MOI PENSER, DONC MOI ÊTRE.” Lui s’appelait... urgh... qui encore ?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Physics Unit",
+      "choices": [
+        {
+          "correct": false,
+          "text": "C’est une unité microscopique de longueur !"
+        },
+        {
+          "correct": false,
+          "text": "C’est une unité de temps !"
+        },
+        {
+          "correct": false,
+          "text": "Les ergs mesurent le poids !"
+        },
+        {
+          "correct": true,
+          "text": "Un erg est une unité d’énergie !"
+        }
+      ],
+      "clue": "Cette fois, ce n’est pas du “temps”",
+      "id": "113798",
+      "isEasy": false,
+      "question": "Unité préférée de moi s’appelle “ERG.” Facile à dire ! Mais erg mesurer quoi déjà... erg...",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Famous Cyclops",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oui, ça c’était Thésée."
+        },
+        {
+          "correct": false,
+          "text": "Ton cousin a été trompé par Persée."
+        },
+        {
+          "correct": true,
+          "text": "C’était Ulysse, forcément."
+        },
+        {
+          "correct": false,
+          "text": "Oh, en fait c’était Hercule."
+        }
+      ],
+      "clue": "Ce héros a rencontré le cyclope en rentrant d’un très looonnng voyage.",
+      "id": "113801",
+      "isEasy": false,
+      "question": "Mon cousin, grand cyclope gentil, blessé par héros grec appelé PERSONNE. Toi connaître PERSONNE ?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Cartoon Characters",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Tu adorerais Fred Pierrafeu."
+        },
+        {
+          "correct": false,
+          "text": "Tu adorerais Popeye."
+        },
+        {
+          "correct": false,
+          "text": "Tu adorerais Bob l’Éponge."
+        },
+        {
+          "correct": false,
+          "text": "Tu adorerais Betty Boop."
+        }
+      ],
+      "clue": "C’était avant l’ère industrielle, après tout.",
+      "id": "113854",
+      "isEasy": false,
+      "question": "Moi déteste porter chaussures ! Ogre aimer marcher pieds nus !",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Music Intros",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Joue “Somebody Told Me” des Killers !"
+        },
+        {
+          "correct": false,
+          "text": "Écoute “Sweet Child O’ Mine” de Guns N’ Roses !"
+        },
+        {
+          "correct": false,
+          "text": "Mets “Losing My Religion” de R.E.M. !"
+        },
+        {
+          "correct": true,
+          "text": "Fais-toi piéger avec “Never Gonna Give You Up” de Rick Astley !"
+        }
+      ],
+      "clue": "Pas pour te troller, mais...",
+      "id": "113855",
+      "isEasy": false,
+      "question": "Ba dum dum dum, moi vouloir entendre tambours !!! Meilleurs chansons COMMENCENT avec solo de batterie !",
+      "theme": "CASTLE"
+    },
+  {
+      "category": "Cuisine italienne",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oui, ça s’appelle des spaghetti."
+        },
+        {
+          "correct": false,
+          "text": "Exact, ça s’appelle des cheveux d’ange."
+        },
+        {
+          "correct": false,
+          "text": "Oui, ça s’appelle des linguine."
+        },
+        {
+          "correct": true,
+          "text": "Oui, ça s’appelle des bucatini."
+        }
+      ],
+      "clue": "Les cheveux d’ange seraient un peu trop fins.",
+      "id": "113862",
+      "isEasy": false,
+      "question": "Moi manger pâte avec SAUCE DEDANS ! Elle est vide comme paille !!!",
+      "theme": "DESERT"
+    },
+    {
+      "category": "Volaille",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Y a pas de POULET dans le turducken"
+        },
+        {
+          "correct": true,
+          "text": "Y a pas d’OIE dans le turducken"
+        },
+        {
+          "correct": false,
+          "text": "Y a pas de CANARD dans le turducken"
+        },
+        {
+          "correct": false,
+          "text": "Y a pas de DINDE dans le turducken"
+        }
+      ],
+      "clue": "Le “tur” veut dire “turkey” — dinde !",
+      "countrySpecific": true,
+      "id": "113863",
+      "isEasy": false,
+      "question": "Moi vérifier allergies ! Quel oiseau PAS dans turducken ?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Équipement de sport",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oui, on utilise un ‘volant’ en bocce."
+        },
+        {
+          "correct": false,
+          "text": "Oui, on utilise un ‘volant’ en tennis de table."
+        },
+        {
+          "correct": true,
+          "text": "Oui, on utilise un ‘volant’ au badminton."
+        },
+        {
+          "correct": false,
+          "text": "Oui, on utilise un ‘volant’ aux fléchettes."
+        }
+      ],
+      "clue": "On l’appelle comme ça parce qu’il vole dans les airs.",
+      "countrySpecific": true,
+      "id": "113865",
+      "isEasy": false,
+      "question": "Moi aimer volants jolis, mais moi entendre qu’on les utilise dans sport ?!?",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Menu du bar",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Calme-toi, ça s’appelle un NEGRONI !"
+        },
+        {
+          "correct": false,
+          "text": "Détends-toi, ça s’appelle un SEA BREEZE !"
+        },
+        {
+          "correct": false,
+          "text": "Chut, ça s’appelle un MANHATTAN !"
+        },
+        {
+          "correct": true,
+          "text": "Relax, ça s’appelle un CHAUDRONNIER !"
+        }
+      ],
+      "clue": "Ce n’est pas le nom d’un quartier !",
+      "id": "113866",
+      "isEasy": false,
+      "question": "Ahhhh ! Moi faire tomber shot de whisky dans bière ! C’est quoi ce TRUC ?!",
+      "theme": "CASTLE",
+      "x": true
+    },
+    {
+      "category": "Notation musicale",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Monte le barde jusqu’à FORTE, bébé !"
+        },
+        {
+          "correct": true,
+          "text": "FORTISSISSIMO, c’est le plus fort !"
+        },
+        {
+          "correct": false,
+          "text": "Joue du luth en MEZZO PIANO !"
+        },
+        {
+          "correct": false,
+          "text": "On t’entendra à deux villages si c’est FORTISSIMO !"
+        }
+      ],
+      "clue": "La bonne réponse a des lettres doubles !",
+      "id": "113872",
+      "isEasy": false,
+      "question": "MOI FORT ! Moi aimer musique FORT ! Moi tourne barde à FOND ! Mais mot musique pour TRÈS TRÈS FORT, c’est quoi ?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Science des fusées",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ernst Mach était un scientifique des fusées !"
+        },
+        {
+          "correct": false,
+          "text": "Dmitri Mendeleïev aimait les fusées."
+        },
+        {
+          "correct": false,
+          "text": "Christian Doppler, grand fan de fusées."
+        },
+        {
+          "correct": true,
+          "text": "N'écrase pas le crâne de Robert Goddard, s’il te plaît."
+        }
+      ],
+      "clue": "Mach a étudié les ondes de choc, pas les fusées !",
+      "id": "113874",
+      "isEasy": false,
+      "question": "Écraser crânes FACILE ! Mais pas comme SCIENCE DES FUSÉES ! Champ étudié par... euh... argh...",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Anatomie de l’oreille",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Aïe, ma cornée !"
+        },
+        {
+          "correct": true,
+          "text": "Non, pas ma cochlée !"
+        },
+        {
+          "correct": false,
+          "text": "Ouille, ma clavicule !"
+        },
+        {
+          "correct": false,
+          "text": "Ouf, mon coccyx !"
+        }
+      ],
+      "clue": "Ta cornée est dans ton œil.",
+      "id": "113891",
+      "isEasy": false,
+      "question": "RAAAAR ! Moi crier SI fort, moi casser partie de ton OREILLE qui sert à ENTENDRE !!!",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Origine des animaux domestiques",
+      "choices": [
+        {
+          "correct": false,
+          "text": "À l’origine, du JAPON"
+        },
+        {
+          "correct": false,
+          "text": "Ils viennent d’INDE"
+        },
+        {
+          "correct": true,
+          "text": "Ils ont été élevés en CHINE"
+        },
+        {
+          "correct": false,
+          "text": "Euh... quelque part dans les CARAÏBES ?"
+        }
+      ],
+      "clue": "Première apparition enregistrée sous la dynastie Song.",
+      "id": "113978",
+      "isEasy": false,
+      "question": "MOI vouloir poisson rouge ! Mais pas de vin dedans ! D’OÙ VIENT POISSON ROUGE ?!?",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Médias effrayants",
+      "choices": [
+        {
+          "correct": false,
+          "text": "[i]Ça[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "[i]The Turning[/i] ?"
+        },
+        {
+          "correct": false,
+          "text": "[i]Stranger Things[/i] ?"
+        },
+        {
+          "correct": true,
+          "text": "[i]S.O.S. Fantômes : L’Héritage[/i] ?"
+        }
+      ],
+      "clue": "C’est le 4ᵉ film de la série.",
+      "id": "114161",
+      "isEasy": false,
+      "question": "Moi déteste CHOSES QUI FONT PEUR. Moi OK avec FINN WOLFHARD. Où moi peut voir FINN se battre contre choses bizarres en OKLAHOMA ?",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Classification psychologique",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Oui, tu es NATUREL"
+        },
+        {
+          "correct": false,
+          "text": "Tu es MUSICAL"
+        },
+        {
+          "correct": true,
+          "text": "Tu es COSMOLOGIQUE"
+        },
+        {
+          "correct": false,
+          "text": "Tu es LOGICO-MATHÉMATIQUE"
+        }
+      ],
+      "clue": "C’est un “Cos-NON”.",
+      "id": "114162",
+      "isEasy": false,
+      "question": "Moi pas très LINGUISTIQUE, mais moi INTELLIGENT. Moi avoir toutes intelligences de Howard Gardner... sauf cette FAUSSE là !",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Clips musicaux",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Elle mange chez Tim Hortons"
+        },
+        {
+          "correct": true,
+          "text": "Elle conduit une zamboni"
+        },
+        {
+          "correct": false,
+          "text": "Elle verse de la sauce sur des frites"
+        },
+        {
+          "correct": false,
+          "text": "Elle s’habille comme Wolverine"
+        }
+      ],
+      "clue": "Ce n’est ni la poutine, ni Wolverine !",
+      "id": "114163",
+      "isEasy": false,
+      "question": "OGRE DÉTESTE STÉRÉOTYPES !!! ...Mais moi savoir que Tate McRae est canadienne, parce que dans clip de “Greedy”, elle...",
+      "theme": "CASTLE"
+    },
+    {
+      "category": "Roches géologiques",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Le MARBRE ne bouge pas !"
+        },
+        {
+          "correct": true,
+          "text": "Le CALCAIRE ne bouge pas !"
+        },
+        {
+          "correct": false,
+          "text": "Le GRANIT ne bouge pas !"
+        },
+        {
+          "correct": false,
+          "text": "L’OBSIDIENNE ne bouge pas !"
+        }
+      ],
+      "clue": "Celle qui a ‘stone’ (pierre) dans son nom.",
+      "id": "114164",
+      "isEasy": false,
+      "question": "Si moi pas monter sur âne, moi SÉDENTAIRE ! Pas SÉDIMENTAIRE ! Cette roche, elle SÉDIMENTAIRE !!! (Et sédentaire, moi imaginer.)",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Fantômes de dessin animé",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Un effrayant [i]Kim Possible[/i]"
+        },
+        {
+          "correct": false,
+          "text": "Un terrifiant [i]Teen Titans[/i]"
+        },
+        {
+          "correct": true,
+          "text": "Un fantôme de [i]Bob l’Éponge[/i]"
+        },
+        {
+          "correct": false,
+          "text": "Un fantôme de [i]Mes parrains sont magiques[/i]"
+        }
+      ],
+      "clue": "Le Hollandais volant navigue sur la mer... qui vit sous la mer ?",
+      "id": "114173",
+      "isEasy": false,
+      "question": "MOI voir FANTÔME ! Grand fantôme vert appelé HOLLANDAIS VOLANT ! Moi regardais QUOI ?!?!",
+      "theme": "CEMETERY"
+    },
+    {
+      "category": "Géographie des continents",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Euh... ASIE"
+        },
+        {
+          "correct": false,
+          "text": "Je crois... EUROPE"
+        },
+        {
+          "correct": false,
+          "text": "Surtout EUROPE, un peu ASIE"
+        },
+        {
+          "correct": true,
+          "text": "Surtout ASIE, un peu EUROPE"
+        }
+      ],
+      "clue": "Un peu plus des 3/4 sont en Asie.",
+      "id": "114174",
+      "isEasy": false,
+      "question": "OÙ EST RUSSIE ?!?!? RÉPONDS À MOI !!!",
+      "theme": "MOUNTAIN"
+    },
+    {
+      "category": "Caméos historiques",
+      "choices": [
+        {
+          "correct": true,
+          "text": "Napoléon Bonaparte"
+        },
+        {
+          "correct": false,
+          "text": "Marie Stuart"
+        },
+        {
+          "correct": false,
+          "text": "Vladimir Lénine"
+        },
+        {
+          "correct": false,
+          "text": "Jack l’Éventreur"
+        }
+      ],
+      "clue": "La réponse n’est pas complexe… mais elle a un complexe.",
+      "id": "114176",
+      "isEasy": false,
+      "question": "Attends ! Les MINIONS pas vrais ! Mais ils servent VRAI HUMAIN dans film [i]Les Minions[/i] ?! Qui ça ?!",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Auteurs prolifiques",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Agatha Christie"
+        },
+        {
+          "correct": true,
+          "text": "Isaac Asimov"
+        },
+        {
+          "correct": false,
+          "text": "Toni Morrison"
+        },
+        {
+          "correct": false,
+          "text": "Michael Crichton"
+        }
+      ],
+      "clue": "C’est un auteur de science-fiction.",
+      "id": "114178",
+      "isEasy": false,
+      "question": "MOI grand lecteur ! Moi lire BEAUCOUP ! Mais qui a ÉCRIT PLUS de livres ?",
+      "theme": "FOREST"
+    },
+    {
+      "category": "Faits sur les hiboux",
+      "choices": [
+        {
+          "correct": false,
+          "text": "Ils construisent un nid"
+        },
+        {
+          "correct": false,
+          "text": "Ils pondent plusieurs œufs"
+        },
+        {
+          "correct": false,
+          "text": "Ils chassent pendant la journée"
+        },
+        {
+          "correct": true,
+          "text": "Ils gardent leurs petits au chaud sous leurs plumes"
+        }
+      ],
+      "clue": "Si tu pensais au nid, tu refroidis — cherche l’inverse.",
+      "id": "114191",
+      "isEasy": false,
+      "question": "Quand moi BROYER du noir, moi TRISTE ! Mais quand VOISIN HIBOU BROUDE, il fait QUOI LUI ?!?",
+      "theme": "FOREST"
+    }
+  ]
 }
