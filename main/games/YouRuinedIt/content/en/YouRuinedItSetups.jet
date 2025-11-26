@@ -2187,7 +2187,7 @@
     "you are 45 years old",
     "m.o.m. = mutant ostrich master"
    ],
-   "setup": "un mot de maman dans ton déjeuner",
+   "setup": "un mot de maman dans votre déjeuner",
    "type": "GOOD"
   },
   {
@@ -2198,7 +2198,7 @@
     "a photo of them with their new partner",
     "and your crush is former secretary of labor Robert Reich"
    ],
-   "setup": "recevoir un SMS de la personne qui te plaît",
+   "setup": "recevoir un SMS de la personne qui vous plaît",
    "type": "GOOD"
   },
   {
@@ -3620,7 +3620,7 @@
     "it never sells",
     "just a fatty slice of baloney between two bland pieces of bread"
    ],
-   "setup": "un sandwich qui porte ton nom",
+   "setup": "un sandwich qui porte votre nom",
    "type": "GOOD"
   },
   {
@@ -5443,6 +5443,1059 @@
     "and the presidents are all singing a cappella"
    ],
    "setup": "Le Mont Rushmore",
+   "type": "GOOD"
+  },
+  {
+   "id": "106620",
+   "punchlines": [
+    "covered in Dr. Hog’s barbecue sauce",
+    "who will kill and kill again",
+    "not enough ham for Easter"
+   ],
+   "setup": "un micro-cochon",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "106657",
+   "punchlines": [
+    "who means to betray you the first chance they get",
+    "to Mordor",
+    "who reeks like BO and asparagus"
+   ],
+   "setup": "une longue promenade avec un ami",
+   "type": "GOOD"
+  },
+  {
+   "id": "106678",
+   "punchlines": [
+    "in a jar in your kitchen",
+    "on a face that already has sixteen eyes",
+    "on your lover, who is leaving you for someone else"
+   ],
+   "setup": "une paire de beaux yeux",
+   "type": "GOOD"
+  },
+  {
+   "id": "106679",
+   "punchlines": [
+    "by a boa constrictor",
+    "by the the living mannequin who’s been chasing you",
+    "even though you know you’re mediocre at best"
+   ],
+   "setup": "être qualifié de grand câlineur",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "106694",
+   "punchlines": [
+    "because of Air Bud, again",
+    "ugh, but now you have to call your dad",
+    "post-apocalypse"
+   ],
+   "setup": "votre équipe gagne la Coupe du Monde",
+   "type": "GOOD"
+  },
+  {
+   "id": "106705",
+   "punchlines": [
+    "and you absorb the masseuse into your tissue",
+    "on the dinner table",
+    "that ends in a deep tissue fight"
+   ],
+   "setup": "un massage des tissus profonds",
+   "type": "GOOD"
+  },
+  {
+   "id": "106708",
+   "punchlines": [
+    "and none of them can sing",
+    "like the literal sound of music? that stuff is awesome",
+    "uh oh the bad guys win"
+   ],
+   "setup": "La Mélodie du bonheur",
+   "type": "GOOD"
+  },
+  {
+   "id": "106715",
+   "punchlines": [
+    "about your recent anime-related purchases",
+    "with the police",
+    "in front of the whole school"
+   ],
+   "setup": "une conversation intime",
+   "type": "GOOD"
+  },
+  {
+   "id": "106723",
+   "punchlines": [
+    "hates your boyfriend",
+    "is a volleyball",
+    "but they’re not fun outside of the Cheesecake Factory"
+   ],
+   "setup": "votre meilleur collègue de travail",
+   "type": "GOOD"
+  },
+  {
+   "id": "106726",
+   "punchlines": [
+    "by auctioning off your celebrity toenail collection",
+    "of boxes and boxes of garbage",
+    "made to the Ruin the Great Lakes Foundation"
+   ],
+   "setup": "un don caritatif considérable",
+   "type": "GOOD"
+  },
+  {
+   "id": "106733",
+   "punchlines": [
+    "but it’s all crowd work, just a guy talking to people in a dark room",
+    "in your bedroom while you’re trying to sleep",
+    "to a one-person audience"
+   ],
+   "setup": "de l'humour stand-up",
+   "type": "GOOD"
+  },
+  {
+   "id": "106734",
+   "punchlines": [
+    "and that dad was Attila the Hun",
+    "told after your captors explained their strict “no more puns” rule.",
+    "but your dad is unclear on what “a joke” is"
+   ],
+   "setup": "une blague de papa",
+   "type": "GOOD"
+  },
+  {
+   "id": "106971",
+   "punchlines": [
+    "your favorite meal is hot wet topsoil cause you a worm",
+    "that “someone” is Zombie Julia Child",
+    "there’s a lot of hair in it"
+   ],
+   "setup": "quelqu'un prépare votre plat préféré",
+   "type": "GOOD"
+  },
+  {
+   "id": "107387",
+   "punchlines": [
+    "in the gutter",
+    "for a day of court-mandated community service",
+    "but you were driving the school bus!!!"
+   ],
+   "setup": "se réveiller bien reposé",
+   "type": "GOOD"
+  },
+  {
+   "id": "107419",
+   "punchlines": [
+    "the camel falls in love with you",
+    "you contract Mad Camel Disease",
+    "the camel starts mansplaining crypto"
+   ],
+   "setup": "monter à dos de chameau dans le désert du Sahara",
+   "type": "GOOD"
+  },
+  {
+   "id": "107490",
+   "punchlines": [
+    "because the real teacher can’t be found",
+    "now you’ll never know fractions",
+    "mandatory presentation on home refinancing"
+   ],
+   "setup": "une journée avec un prof remplaçant",
+   "type": "GOOD"
+  },
+  {
+   "id": "107520",
+   "punchlines": [
+    "that grows into a bear man",
+    "eats 200 pounds of meat a day",
+    "who won’t stay out of your picnic basket"
+   ],
+   "setup": "un ourson domestique",
+   "type": "GOOD"
+  },
+  {
+   "id": "107533",
+   "punchlines": [
+    "but you’re definitely still hungover",
+    "but you were so zen you peed your pants",
+    "and everyone around you has exploded somehow"
+   ],
+   "setup": "un guide de méditation",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107542",
+   "punchlines": [
+    "and the liquid is refrigerated spit",
+    "which makes the Gremlins multiply",
+    "but the water pressure’s just a li’l drip"
+   ],
+   "setup": "une douche froide pendant un jour d'été",
+   "type": "GOOD"
+  },
+  {
+   "id": "107776",
+   "punchlines": [
+    "run by the [i]Saw[/i] movie guy",
+    "where each toy costs your soul",
+    "where every toy’s been sneezed on"
+   ],
+   "setup": "une virée shopping dans un magasin de jouets",
+   "type": "GOOD"
+  },
+  {
+   "id": "107803",
+   "punchlines": [
+    "to cover the stinking pus boils",
+    "on the world’s most insecure man",
+    "broke in some luggage and now this airport terminal reeks"
+   ],
+   "setup": "l'eau de Cologne la plus virile au monde",
+   "type": "GOOD"
+  },
+  {
+   "id": "107804",
+   "punchlines": [
+    "who you’ll have to testify against in five years",
+    "but basically you have to do all the actual work",
+    "who cries a lot for some reason"
+   ],
+   "setup": "un patron cool et décontracté",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "107805",
+   "punchlines": [
+    "in June",
+    "getting frostbite of the butt",
+    "but you take a hockey puck to the tonsils"
+   ],
+   "setup": "une journée de patinage sur glace",
+   "type": "GOOD"
+  },
+  {
+   "id": "107811",
+   "punchlines": [
+    "it’s all bad a cappella covers",
+    "all the songs are about the importance of dental hygiene",
+    "titled “Now That’s What I Call Car Accidents”"
+   ],
+   "setup": "votre crush vous fait une playlist",
+   "type": "GOOD"
+  },
+  {
+   "id": "107812",
+   "punchlines": [
+    "with a move called “The Backbreaker”",
+    "but shattering every bone in my body doing it",
+    "tearing my ACL in the process"
+   ],
+   "setup": "battre son ennemi juré lors d'un concours de danse",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "107814",
+   "punchlines": [
+    "accidentally calling her Shakira",
+    "but you’re wearing Minion make-up",
+    "and instantly vaporizing as if you met a Greek god"
+   ],
+   "setup": "rencontrer Rihanna",
+   "type": "GOOD"
+  },
+  {
+   "id": "107815",
+   "punchlines": [
+    "human arms",
+    "it’s poison sumac",
+    "a pimple"
+   ],
+   "setup": "votre plante d'intérieur pousse",
+   "type": "GOOD"
+  },
+  {
+   "id": "107817",
+   "punchlines": [
+    "and now you have two giraffes",
+    "at the Coffin Depot",
+    "which is convenient for you and the evil spirit haunting you"
+   ],
+   "setup": "une promotion “un acheté, un offert”",
+   "type": "GOOD"
+  },
+  {
+   "id": "107818",
+   "punchlines": [
+    "because you’re in the world’s first experimental shriek-rock band",
+    "after you pushed the lead singer down some stairs",
+    "because your mom’s dating the record producer"
+   ],
+   "setup": "décrocher un contrat d'enregistrement",
+   "type": "GOOD"
+  },
+  {
+   "id": "107823",
+   "punchlines": [
+    "with urine",
+    "from a fire hose",
+    "with a big glass of formaldehyde"
+   ],
+   "setup": "s'hydrater",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "107828",
+   "punchlines": [
+    "using tubes of toothpaste",
+    "Cookie Haus undo button is broken",
+    "with your feet"
+   ],
+   "setup": "décorer des cookies",
+   "type": "GOOD"
+  },
+  {
+   "id": "107845",
+   "punchlines": [
+    "you will never see again after tonight",
+    "oops, actually it’s a slime booth",
+    "your friends are hippos"
+   ],
+   "setup": "un photomaton avec des amis",
+   "type": "GOOD"
+  },
+  {
+   "id": "107879",
+   "punchlines": [
+    "the flavor is clam",
+    "but you’re still so so so so so so sad",
+    "way too thick for some reason"
+   ],
+   "setup": "du sirop aromatisé pour votre café",
+   "type": "GOOD"
+  },
+  {
+   "id": "107898",
+   "punchlines": [
+    "squashed on a windshield",
+    "working at the DMV",
+    "eaten by a house cat"
+   ],
+   "setup": "une fée",
+   "type": "GOOD"
+  },
+  {
+   "id": "107905",
+   "punchlines": [
+    "now with MS-DOS!",
+    "that has learned to hate",
+    "thrown through the window of your room"
+   ],
+   "setup": "un ordinateur flambant neuf",
+   "type": "GOOD"
+  },
+  {
+   "id": "107906",
+   "punchlines": [
+    "smashing their yum yum on the pummel horse",
+    "forced to retire at 13",
+    "but their floor routine is just three minutes of the worm"
+   ],
+   "setup": "un gymnaste professionnel",
+   "type": "GOOD"
+  },
+  {
+   "id": "107909",
+   "punchlines": [
+    "it’s a special news report on the locusts disaster",
+    "everything is scary cause you’re delirious",
+    "hallucinating dreams about Jerry Springer"
+   ],
+   "setup": "regarder la télé à la maison pendant la journée",
+   "type": "GOOD"
+  },
+  {
+   "id": "107910",
+   "punchlines": [
+    "in your bed",
+    "under your floorboards",
+    "eaten and thrown up and then eaten again"
+   ],
+   "setup": "des fruits de mer délicieux",
+   "type": "GOOD"
+  },
+  {
+   "id": "107940",
+   "punchlines": [
+    "why no MARS DAY, HUH?",
+    "commemorated with treacly Instagram post from Exxon Mobil",
+    "you feel even worse about starting that forest fire"
+   ],
+   "setup": "célébrer le Jour de la Terre",
+   "type": "GOOD"
+  },
+  {
+   "id": "107972",
+   "punchlines": [
+    "saying mean things behind your back",
+    "cutting me off in traffic",
+    "explaining why they’re firing you"
+   ],
+   "setup": "des loutres de mer",
+   "type": "GOOD"
+  },
+  {
+   "id": "107973",
+   "punchlines": [
+    "introducing you to THEIR best friend",
+    "reaching out to sell you life insurance",
+    "trying to get you to join their cult"
+   ],
+   "setup": "votre meilleur ami",
+   "type": "GOOD"
+  },
+  {
+   "id": "107982",
+   "punchlines": [
+    "and the final screen says ”you need friends”",
+    "and then having nothing else in your life",
+    "by selling the kingdom to a corporation"
+   ],
+   "setup": "gagner un jeu vidéo",
+   "type": "GOOD"
+  },
+  {
+   "id": "107986",
+   "punchlines": [
+    "but the only food is mayo and cough drops",
+    "that your dog both ate and vomited up",
+    "out on Mosquito Hill"
+   ],
+   "setup": "un pique-nique estival",
+   "type": "GOOD"
+  },
+  {
+   "id": "107987",
+   "punchlines": [
+    "as you race to get all your hurricane prep done",
+    "the “storm” is your kids fighting",
+    "cause there’s no TV"
+   ],
+   "setup": "regarder une tempête arriver",
+   "type": "GOOD"
+  },
+  {
+   "id": "107996",
+   "punchlines": [
+    "of the off-brand Pokémon “PockeBeasts”",
+    "filled completely by a 45-year-old man",
+    "the only book you’ve ever read"
+   ],
+   "setup": "un livre de coloriage",
+   "type": "GOOD"
+  },
+  {
+   "id": "108079",
+   "punchlines": [
+    "with ride speed set to “face ripper”",
+    "where you’re having your annual performance review",
+    "filled with the sound of mean teenagers"
+   ],
+   "setup": "traverser le “Tunnel de l'amour”",
+   "type": "GOOD",
+   "x": false
+  },
+  {
+   "id": "108199",
+   "punchlines": [
+    "for infectious diseases",
+    "where the 100-person human pyramid collapses",
+    "where someone double backhand springs into traffic"
+   ],
+   "setup": "une chorégraphie de pom-pom girls",
+   "type": "GOOD"
+  },
+  {
+   "id": "108200",
+   "punchlines": [
+    "lasers have been set to Kill",
+    "against top Navy SEAL marksmen",
+    "but a second-grader pistols whips you unconscious"
+   ],
+   "setup": "a rousing game of laser tag",
+   "type": "GOOD"
+  },
+  {
+   "id": "108212",
+   "punchlines": [
+    "says you’re not worthy to ride it",
+    "bucking around your Fabergé eggs",
+    "stuck at a boring desk job"
+   ],
+   "setup": "un étalon sauvage",
+   "type": "GOOD"
+  },
+  {
+   "id": "108213",
+   "punchlines": [
+    "refusing to sell your solo album",
+    "being torn down for a big box store",
+    "sells medical records, sorry"
+   ],
+   "setup": "un magasin de disques d'occasion sympa",
+   "type": "GOOD"
+  },
+  {
+   "id": "108315",
+   "punchlines": [
+    "who makes terrible chili",
+    "tiny hands and dirty fingernails",
+    "who is scared of fire"
+   ],
+   "setup": "un pompier séduisant",
+   "type": "GOOD"
+  },
+  {
+   "id": "108360",
+   "punchlines": [
+    "oh no everyone still has feelings",
+    "but you can’t get a date",
+    "they start dating Adam Driver, who you can’t hate! Cause he’s nice!"
+   ],
+   "setup": "Essayer une relation ouverte",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108394",
+   "punchlines": [
+    "but you can’t pry it away from your toddler",
+    "loaded with cans of dog food",
+    "shooting Abba t-shirts at a Kid Rock concert"
+   ],
+   "setup": "un canon à t-shirts",
+   "type": "GOOD"
+  },
+  {
+   "id": "108556",
+   "punchlines": [
+    "but they’re meaner cause they don’t forgive you",
+    "to your mom’s house",
+    "your ex was a wolverine with nineteen wolverine pups"
+   ],
+   "setup": "votre ex vous reprend",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108611",
+   "punchlines": [
+    "but some kid ate your potato battery",
+    "but it wasn’t you",
+    "your project’s titled “Rotten Eggs: What’s That Stink?”"
+   ],
+   "setup": "une première place au concours scientifique",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "108633",
+   "punchlines": [
+    "you’re his neighbor, he does this every night",
+    "shouting to everyone about a weird dream he had",
+    "riding his horse directly off a cliff"
+   ],
+   "setup": "La Joconde",
+   "type": "GOOD"
+  },
+  {
+   "id": "108634",
+   "punchlines": [
+    "at the Blippi show",
+    "in the expensive antiques store",
+    "you’re protecting a chicken egg for a school project"
+   ],
+   "setup": "une fosse de concert",
+   "type": "GOOD"
+  },
+  {
+   "id": "108676",
+   "punchlines": [
+    "It’s a Picasso that’s made of vomit",
+    "but you paid $20,000 for a jar of Ben Affleck’s hair",
+    "for a date with Tuna Tim"
+   ],
+   "setup": "remporter une enchère",
+   "type": "GOOD"
+  },
+  {
+   "id": "108679",
+   "punchlines": [
+    "because you were fired as their teacher",
+    "in a gym hot tub",
+    "ope they’re little sharks"
+   ],
+   "setup": "une plongée sous-marine au milieu d'un banc de poissons",
+   "type": "GOOD"
+  },
+  {
+   "id": "108683",
+   "punchlines": [
+    "but now you must tell everyone about your crime",
+    "but your dare is “leave the party”",
+    "now you have to admit you’re sentient potatoes"
+   ],
+   "setup": "une partie d'Action ou Vérité",
+   "type": "GOOD"
+  },
+  {
+   "id": "108695",
+   "punchlines": [
+    "as your one birthday gift",
+    "too little, too late",
+    "that can’t get wet"
+   ],
+   "setup": "un spray détachant",
+   "type": "GOOD"
+  },
+  {
+   "id": "108697",
+   "punchlines": [
+    "glued into a grade-schooler’s diorama",
+    "but your stepson doesn’t care",
+    "discontinued due to toxic materials"
+   ],
+   "setup": "une figurine en édition limitée",
+   "type": "GOOD"
+  },
+  {
+   "id": "108700",
+   "punchlines": [
+    "getting beat up because of their colorful costume",
+    "only stopping boring white-collar crimes",
+    "just trying to get through a meal without having to stop a thief"
+   ],
+   "setup": "un combattant du crime",
+   "type": "GOOD"
+  },
+  {
+   "id": "108967",
+   "punchlines": [
+    "swallowed whole",
+    "with a hidden camera inside",
+    "that screams “Get back to work!”"
+   ],
+   "setup": "un cactus décoratif joyeux",
+   "type": "GOOD"
+  },
+  {
+   "id": "108969",
+   "punchlines": [
+    "it’s Mom Cooking For 20 Simulator",
+    "that makes you feel truly ancient",
+    "it’s the little known Pong sequel, Dong"
+   ],
+   "setup": "jouer à un jeu vidéo rétro",
+   "type": "GOOD"
+  },
+  {
+   "id": "108971",
+   "punchlines": [
+    "the Shadow Man is... in all of them?",
+    "when Grandma married Steve Buscemi",
+    "sticky for some reason"
+   ],
+   "setup": "de vieilles photos de mariage",
+   "type": "GOOD"
+  },
+  {
+   "id": "108972",
+   "punchlines": [
+    "with a license plate saying “LOS3R”",
+    "parked in your spot",
+    "driving through your kitchen"
+   ],
+   "setup": "une moto flambant neuve",
+   "type": "GOOD"
+  },
+  {
+   "id": "108974",
+   "punchlines": [
+    "but your friends are poker cheats",
+    "but your poker face is really unattractive",
+    "you’ve lost once a week all year"
+   ],
+   "setup": "une soirée poker",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "108976",
+   "punchlines": [
+    "no one else is committing to",
+    "where you’re solving your actual murder",
+    "but your character is “The Smelly Traitor”"
+   ],
+   "setup": "une soirée meurtre et mystère",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": false,
+   "id": "109011",
+   "punchlines": [
+    "you’re both trapped in the same elevator",
+    "loathing, unadulterated loathing",
+    "you both have the same scent?!"
+   ],
+   "setup": "trouver un point commun avec quelqu'un",
+   "type": "GOOD"
+  },
+  {
+   "id": "109012",
+   "punchlines": [
+    "cereal",
+    "made from high-end kittens",
+    "pants, in summer"
+   ],
+   "setup": "du cuir haut de gamme",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "109052",
+   "punchlines": [
+    "but it’s kinda evil",
+    "it’s six hamsters in a fur coat",
+    "she only likes to sleep in a bucket of gazpacho"
+   ],
+   "setup": "adopter un raton laveur comme animal de compagnie",
+   "type": "GOOD"
+  },
+  {
+   "id": "109222",
+   "punchlines": [
+    "falling onto your toes",
+    "but the food is all eggs",
+    "launched off a building onto your car"
+   ],
+   "setup": "un réfrigérateur rempli de nourriture",
+   "type": "GOOD"
+  },
+  {
+   "id": "109227",
+   "punchlines": [
+    "in a redwood that’s about to get cut down",
+    "made out of cardboard",
+    "splinters all up in your tuchus"
+   ],
+   "setup": "une cabane dans les arbres géniale",
+   "type": "GOOD"
+  },
+  {
+   "id": "109250",
+   "punchlines": [
+    "and it won’t stop screaming",
+    "oops, you’re a vampire",
+    "through the barred windows of the hot dog factory"
+   ],
+   "setup": "regarder le lever du soleil",
+   "type": "GOOD"
+  },
+  {
+   "id": "109295",
+   "punchlines": [
+    "ruined for you by the internet",
+    "the twist is you’re a ghost. sorry!",
+    "Last Airbender 2"
+   ],
+   "setup": "un nouveau film de M. Night Shyamalan",
+   "type": "GOOD"
+  },
+  {
+   "id": "109351",
+   "punchlines": [
+    "on the ground",
+    "covered in $2,000 worth of gold flake for some reason",
+    "burned up in dragon fire"
+   ],
+   "setup": "un dîner avec un bon steak",
+   "type": "GOOD"
+  },
+  {
+   "id": "109455",
+   "punchlines": [
+    "but you’re really a wizard and turn someone into a frog",
+    "but you’re playing the valiant steed",
+    "slam dunking into a dragon’s mouth"
+   ],
+   "setup": "un jeu de rôle fantastique",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "112803",
+   "punchlines": [
+    "in the back seat of this hot car",
+    "they’re all scared and do not want to be eaten",
+    "swallowed in one gulp"
+   ],
+   "setup": "une douzaine d'huîtres",
+   "type": "GOOD"
+  },
+  {
+   "id": "112804",
+   "punchlines": [
+    "just before the locusts come",
+    "they’re all talking about you",
+    "augh, the pollen!"
+   ],
+   "setup": "un champ de tournesols",
+   "type": "GOOD"
+  },
+  {
+   "id": "112805",
+   "punchlines": [
+    "said sarcastically",
+    "you are literally in a beige sack",
+    "from the creepy ghost child haunting this Gap"
+   ],
+   "setup": "Quelqu'un complimente tenue",
+   "type": "GOOD"
+  },
+  {
+   "id": "112807",
+   "punchlines": [
+    "it’s one giant tandem bicycle",
+    "pneumatic tubes, baby!",
+    "a big underground tube full of vomit"
+   ],
+   "setup": "des transports publics fiables",
+   "type": "GOOD"
+  },
+  {
+   "id": "112812",
+   "punchlines": [
+    "during volcano season",
+    "or, as the sharks call it, “lunch time”",
+    "...channels, ‘cause you never leave the house"
+   ],
+   "setup": "faire du surf",
+   "type": "GOOD"
+  },
+  {
+   "id": "112813",
+   "punchlines": [
+    "run by the Snake Zoo next door",
+    "oh no! they only have pumas",
+    "every cat is an anti-social meanie"
+   ],
+   "setup": "un refuge pour animaux",
+   "type": "GOOD"
+  },
+  {
+   "id": "112814",
+   "punchlines": [
+    "everyone is just “me booty!”",
+    "ends in a pirate-themed fight",
+    "not enough eyepatches"
+   ],
+   "setup": "une fête sur le thème des pirates",
+   "type": "GOOD"
+  },
+  {
+   "id": "112816",
+   "punchlines": [
+    "chest hair",
+    "but you look more dirty than cool",
+    "you get dye on everything, including your cat"
+   ],
+   "setup": "teindre vos cheveux d'une couleur amusante",
+   "type": "GOOD"
+  },
+  {
+   "id": "112817",
+   "punchlines": [
+    "“the smoker” is your uncle",
+    "ribs-shaped tofu",
+    "a single tender mouse"
+   ],
+   "setup": "mettre de la viande dans le fumoir",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "112818",
+   "punchlines": [
+    "down the back of your jersey",
+    "is all you eat for 18 years",
+    "now this song is stuck in my head, thanks",
+    "but you’re at a wedding"
+   ],
+   "setup": "des cacahuètes et des crackers",
+   "type": "GOOD"
+  },
+  {
+   "id": "112863",
+   "punchlines": [
+    "for spineless men",
+    "tossed in a guano sauce",
+    "in a loose bag inside this hot car"
+   ],
+   "setup": "des wings sans os",
+   "type": "GOOD"
+  },
+  {
+   "id": "112864",
+   "punchlines": [
+    "but you only get sodas from the minifridge",
+    "but only when nobody’s around",
+    "but the only things are food related"
+   ],
+   "setup": "déplacer des objets par la pensée",
+   "type": "GOOD"
+  },
+  {
+   "id": "112865",
+   "punchlines": [
+    "took you 20 years to read it",
+    "but you basically just rewrote Pride & Prejudice",
+    "darn it, someone tore out the last page"
+   ],
+   "setup": "enfin terminer ce roman",
+   "type": "GOOD"
+  },
+  {
+   "id": "112866",
+   "punchlines": [
+    "but it’s a lot of heavy breathing and uncoordinated winking",
+    "with what turns out to be a mannequin",
+    "by squawking and flashing your tail feathers"
+   ],
+   "setup": "draguer quelqu'un",
+   "type": "GOOD",
+   "x": true
+  },
+  {
+   "id": "112867",
+   "punchlines": [
+    "made of cardboard and grease",
+    "but it’s so hot it liquifies the roof of your mouth",
+    "stolen by a rat"
+   ],
+   "setup": "une part de pizza à un dollar",
+   "type": "GOOD"
+  },
+  {
+   "id": "112869",
+   "punchlines": [
+    "for six months with Willem Dafoe",
+    "but it also makes an annoying whining sound",
+    "strobe light!"
+   ],
+   "setup": "un phare",
+   "type": "GOOD"
+  },
+  {
+   "id": "112870",
+   "punchlines": [
+    "and getting into a fight with Randy of Randy’s Donuts",
+    "by cleaning Hollywood toilets",
+    "and then waking up in West Covina"
+   ],
+   "setup": "vivre le rêve hollywoodien",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": false,
+   "id": "114251",
+   "punchlines": [
+    "at the dump",
+    "“Very Inconsiderate Pig-people”",
+    "there’s broken glass everywhere from the “bottle service”"
+   ],
+   "setup": "être dans la section VIP",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": false,
+   "id": "114252",
+   "punchlines": [
+    "RSVP = “Returning Several Vats of Peepee”",
+    "the event is hosted by Dracula",
+    "several dinosaurs have invited you to “dinner”"
+   ],
+   "setup": "Répondre à une invitation à un événement",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114253",
+   "punchlines": [
+    "but they don’t do space anymore",
+    "“Nasty Acne Sausage Annex”",
+    "you make the Tang"
+   ],
+   "setup": "être embauché à la NASA",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114254",
+   "punchlines": [
+    "NBC = “Nothing But Chicken”",
+    "breaking news reports about the end of the world",
+    "The Office Werner Herzog documentary"
+   ],
+   "setup": "Une émission à succès sur Arte",
+   "type": "GOOD"
+  },
+  {
+   "id": "114467",
+   "punchlines": [
+    "“Bad Trombone Saxophone”",
+    "all their legs break while they’re dancing",
+    "but your favorite Jung Kook gets carried away by a dozen seagulls"
+   ],
+   "setup": "une tournée de concerts BTS",
+   "type": "GOOD"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114695",
+   "punchlines": [
+    "the “Sad Night Lounge”",
+    "but the musical guest is a crying baby",
+    "Lorne Michaels pulls you offstage with a giant hook"
+   ],
+   "setup": "un plat de spaghetti",
+   "type": "GOOD"
+  },
+  {
+   "id": "107939",
+   "punchlines": [
+    "but it costs 11 dollars an hour",
+    "but fresh air makes your skin boil",
+    "on Mars"
+   ],
+   "setup": "prendre l'air",
+   "type": "GOOD"
+  },
+  {
+   "id": "107977",
+   "punchlines": [
+    "that a guest just farted on",
+    "with a strict “no napping” policy",
+    "where you only read overdue bills"
+   ],
+   "setup": "votre fauteuil de lecture confortable",
    "type": "GOOD"
   }
  ]
