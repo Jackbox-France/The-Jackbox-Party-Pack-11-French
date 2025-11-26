@@ -968,6 +968,16 @@
      "altText": "Fer à cheval violet",
      "correct": true,
      "hint": "Fer à cheval violet ajouté en 1983"
+    },
+    {
+     "altText": "Gold Coin",
+     "correct": false,
+     "hint": "Lucky doesn’t have any gold coins"
+    },
+    {
+     "altText": "White Cloud",
+     "correct": false,
+     "hint": "No white clouds... they would just look like normal marshmallows"
     }
 ],
 "id": "112630",
@@ -1148,8 +1158,6 @@
    "question": "Titres de films avec Tom Cruise"
   },
   {
-   "choices": [
-    {
    "choices": [
     {
      "altText": "Scrubs",
@@ -2096,6 +2104,11 @@
      "hint": "Prométhée volant le feu pour l’humanité"
     },
     {
+     "altText": "The Thinker",
+     "correct": false,
+     "hint": "This Rodin piece was originally inspired by Dante’s Inferno"
+    },
+    {
      "altText": "Thor, dieu du tonnerre",
      "correct": false,
      "hint": "Thor avec ses boucs Tanngrisnir et Tanngnjóstr"
@@ -2218,6 +2231,406 @@
    "id": "113641",
    "isEasy": false,
    "question": "Nom de famille d’un auteur parmi les 100 meilleures ventes"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Sulfur",
+     "correct": false,
+     "hint": "Naturally occurring, smells like rotten eggs"
+    },
+    {
+     "altText": "Aspirin",
+     "correct": true,
+     "hint": "Formula = C9H8O4"
+    },
+    {
+     "altText": "Mercury",
+     "correct": false,
+     "hint": "Only metal element that’s liquid at room temperature"
+    },
+    {
+     "altText": "Hydrochloric Acid",
+     "correct": true,
+     "hint": "Hydrogen AND Chlorine"
+    },
+    {
+     "altText": "Lead",
+     "correct": false,
+     "hint": "Lead is not an alloy"
+    },
+    {
+     "altText": "Water",
+     "correct": true,
+     "hint": "H2O"
+    },
+    {
+     "altText": "Ethanol",
+     "correct": true,
+     "hint": "NaCl"
+    },
+    {
+     "altText": "Copper Wire",
+     "correct": false,
+     "hint": "It’s just copper"
+    },
+    {
+     "altText": "Gold",
+     "correct": false,
+     "hint": "100% Au"
+    },
+    {
+     "altText": "White Sugar",
+     "correct": true,
+     "hint": "Formula = C12H22O11"
+    }
+   ],
+   "id": "114738",
+   "isEasy": false,
+   "question": "Compounds (AKA Made of Multiple Elements)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "European Union",
+     "correct": false,
+     "hint": "Created in 1955 to celebrate a new union"
+    },
+    {
+     "altText": "Chile",
+     "correct": false,
+     "hint": "Red, white & blue is often found in the Americas"
+    },
+    {
+     "altText": "Turkey",
+     "correct": true,
+     "hint": "A tiny bit of it is in Europe, but most of the country is...."
+    },
+    {
+     "altText": "Japan",
+     "correct": true,
+     "hint": "Known as the “land of the rising sun”"
+    },
+    {
+     "altText": "Fake Flag",
+     "correct": false,
+     "hint": "I made this in Google Docs"
+    },
+    {
+     "altText": "China",
+     "correct": true,
+     "hint": "The large star represents the CCP, aka the ______ Communist Party"
+    },
+    {
+     "altText": "India",
+     "correct": true,
+     "hint": "The Ashoka Chakra is in the center"
+    },
+    {
+     "altText": "Ghana",
+     "correct": false,
+     "hint": "The black star represents independence from colonial rule"
+    },
+    {
+     "altText": "Morocco",
+     "correct": false,
+     "hint": "Same continent as Ghana"
+    },
+    {
+     "altText": "South Korea",
+     "correct": true,
+     "hint": "This is the southern one"
+    }
+   ],
+   "id": "114739",
+   "isEasy": false,
+   "question": "Flags of Countries in Asia"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Birds",
+     "correct": false,
+     "hint": "Birds are not one of the flying pests to plague Pharaoh"
+    },
+    {
+     "altText": "Thorns",
+     "correct": false,
+     "hint": "Not a lot of plants in the desert"
+    },
+    {
+     "altText": "Locusts",
+     "correct": true,
+     "hint": "They ate the crops"
+    },
+    {
+     "altText": "Flies",
+     "correct": true,
+     "hint": "Several of the plagues would really “bug” you"
+    },
+    {
+     "altText": "Hail",
+     "correct": true,
+     "hint": "This is hail"
+    },
+    {
+     "altText": "Crocodiles",
+     "correct": false,
+     "hint": "The Nile had other problems"
+    },
+    {
+     "altText": "Spiders",
+     "correct": false,
+     "hint": "Spiders? Even Moses had his limits...."
+    },
+    {
+     "altText": "Darkness",
+     "correct": true,
+     "hint": "This covers the entire land"
+    },
+    {
+     "altText": "Frogs",
+     "correct": true,
+     "hint": "This one almost gets Pharaoh to change his mind..."
+    },
+    {
+     "altText": "Tornado",
+     "correct": false,
+     "hint": "You’re thinking of the Book of Job"
+    }
+   ],
+   "id": "114740",
+   "isEasy": false,
+   "question": "The Plagues of Egypt (From the Book of Exodus)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Mushrooms",
+     "correct": false,
+     "hint": "Not much flora in this recipe"
+    },
+    {
+     "altText": "White Wine",
+     "correct": false,
+     "hint": "You can eat this and drive"
+    },
+    {
+     "altText": "Spinach",
+     "correct": false,
+     "hint": "You’re thinking of Quiche Florentine"
+    },
+    {
+     "altText": "Bacon",
+     "correct": true,
+     "hint": "Yep, chopped up into little bits"
+    },
+    {
+     "altText": "Eggs",
+     "correct": true,
+     "hint": "“Quiche” basically means “egg pie”"
+    },
+    {
+     "altText": "Gruyère Cheese",
+     "correct": true,
+     "hint": "Cheese was added in 20th-century recipes"
+    },
+    {
+     "altText": "Shortening",
+     "correct": true,
+     "hint": "The opposite of Tall-ening"
+    },
+    {
+     "altText": "Mayo",
+     "correct": false,
+     "hint": "Mayo has eggs, so this would be redundant"
+    },
+    {
+     "altText": "Lobster",
+     "correct": false,
+     "hint": "Not a seafood dish"
+    },
+    {
+     "altText": "Butter",
+     "correct": true,
+     "hint": "This is Julia’s trademark"
+    }
+   ],
+   "id": "114741",
+   "isEasy": false,
+   "question": "Traditional Quiche Lorraine Ingredients (Using Julia Childs’ recipe)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Twelve Drummers Drumming",
+     "correct": true,
+     "hint": "There are 12"
+    },
+    {
+     "altText": "3 Jugglers Juggling",
+     "correct": false,
+     "hint": "These are not French Hens"
+    },
+    {
+     "altText": "Two Falcons Posing",
+     "correct": false,
+     "hint": "These are not turtle doves"
+    },
+    {
+     "altText": "8 Archers Launching",
+     "correct": false,
+     "hint": "No weapons in the song"
+    },
+    {
+     "altText": "Seven Swans A-Swimming",
+     "correct": true,
+     "hint": "There are 7"
+    },
+    {
+     "altText": "Three Ducks A-Migrating",
+     "correct": false,
+     "hint": "These are not French Hens"
+    },
+    {
+     "altText": "Five Golden Rings!",
+     "correct": true,
+     "hint": "This is the part you sing as loud as possible"
+    },
+    {
+     "altText": "Two Turtle Doves",
+     "correct": true,
+     "hint": "Yes, this is what a Turtle Dove looks like"
+    },
+    {
+     "altText": "Nine Ladies Dancing",
+     "correct": true,
+     "hint": "Yes, there 9 ladies dancing in this photo"
+    },
+    {
+     "altText": "Seven Horses Prancing",
+     "correct": false,
+     "hint": "Song mentions bovines, not equines"
+    }
+   ],
+   "id": "114742",
+   "isEasy": false,
+   "question": "Gifts in “The 12 Days of Christmas”"
+  },
+  {
+   "choices": [
+    {
+     "altText": "21 by Adele",
+     "correct": true,
+     "hint": "That adds up to “21”"
+    },
+    {
+     "altText": "Dark Side of the Moon by Pink Floyd",
+     "correct": false,
+     "hint": "Syd Barrett was lead vocals for Pink Floyd"
+    },
+    {
+     "altText": "Teenage Dream by Katy Perry",
+     "correct": true,
+     "hint": "Featuring song “Firework” and “California Gurls”"
+    },
+    {
+     "altText": "SOS by SZA",
+     "correct": true,
+     "hint": "SOS is three letters, so is SZA"
+    },
+    {
+     "altText": "American Idiot by Green Day",
+     "correct": false,
+     "hint": "“Don’t wanna be an....”"
+    },
+    {
+     "altText": "Chocolate Starfish by Limp Bizkit",
+     "correct": false,
+     "hint": "...and the Hot Dog Flavored Water"
+    },
+    {
+     "altText": "Dirty Computer by Janelle Monáe",
+     "correct": true,
+     "hint": "That is one “Dirty Computer”"
+    },
+    {
+     "altText": "Ice Ice Baby by Vanilla Ice",
+     "correct": false,
+     "hint": "Vanilla Ice identifies as male"
+    },
+    {
+     "altText": "Yellow Submarine by The Beatles",
+     "correct": false,
+     "hint": "Ringo wrote this one"
+    },
+    {
+     "altText": "Jagged Little Pill by Alanis Morissette",
+     "correct": true,
+     "hint": "This Little Pill is Jagged"
+    }
+   ],
+   "id": "114745",
+   "isEasy": false,
+   "question": "Albums by Solo Female Artists",
+   "starterContent": false
+  },
+  {
+   "choices": [
+    {
+     "altText": "Dracula",
+     "correct": true,
+     "hint": "He, and his son, attended"
+    },
+    {
+     "altText": "Hounds",
+     "correct": true,
+     "hint": "They were brought by Igor"
+    },
+    {
+     "altText": "Mummy",
+     "correct": false,
+     "hint": "Too wrapped up to attend"
+    },
+    {
+     "altText": "Igor",
+     "correct": true,
+     "hint": "He even gets a lyric, “Mash Good!”"
+    },
+    {
+     "altText": "Ghost",
+     "correct": false,
+     "hint": "No body, no invite"
+    },
+    {
+     "altText": "Zombies",
+     "correct": true,
+     "hint": "The lyrics say they were there and they were having fun"
+    },
+    {
+     "altText": "Dragon",
+     "correct": false,
+     "hint": "Not a party person, tends to drag-on"
+    },
+    {
+     "altText": "Wolfman",
+     "correct": true,
+     "hint": "Mentioned along with Dracula"
+    },
+    {
+     "altText": "Witch",
+     "correct": false,
+     "hint": "No Glinda, No Elphaba... no witch of any kind"
+    },
+    {
+     "altText": "Black Cat",
+     "correct": false,
+     "hint": "Only dogs are mentioned"
+    }
+   ],
+   "id": "114746",
+   "isEasy": false,
+   "question": "Mentioned in the “Monster Mash” Lyrics"
   }
-]
+ ]
 }
