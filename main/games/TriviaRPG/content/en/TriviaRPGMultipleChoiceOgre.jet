@@ -257,12 +257,13 @@
         }
       ],
       "clue": "Nombre porte-bonheur : 13",
+      "countrySpecific": true,
       "id": "112594",
       "isEasy": false,
       "question": "MOI VA MANGER TA CHAIR !!! À POINT COMME STEAK !!! Et... et... quelle température faut cuire toi ?",
       "theme": "CASTLE"
     },
-  {
+    {
       "category": "Pourquoi c’est populaire",
       "choices": [
         {
