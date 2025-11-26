@@ -1,0 +1,186 @@
+{
+ "content": [
+  {
+   "correct": true,
+   "id": "106983",
+   "question": "La plupart des gens ont 24 côtes."
+  },
+  {
+   "correct": true,
+   "id": "106984",
+   "question": "Il y a 7 continents."
+  },
+  {
+   "correct": false,
+   "id": "106985",
+   "question": "Facebook a été lancé avant MySpace."
+  },
+  {
+   "correct": false,
+   "id": "106986",
+   "question": "Bill Pullman joue dans [i]Twister[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106987",
+   "question": "Lizzo a enregistré la chanson “Pink” pour le film [i]Barbie[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106988",
+   "question": "Le théorème de Pythagore stipule que a2+b2 = c2."
+  },
+  {
+   "correct": true,
+   "id": "106989",
+   "question": "Muhammad Ali est médaillé d'or olympique."
+  },
+  {
+   "correct": true,
+   "id": "106990",
+   "question": "La révolte des Boxers a eu lieu en Chine."
+  },
+  {
+   "correct": false,
+   "id": "106991",
+   "question": "Melody Ellison est un membre de la série [i]Les Baby-sitters[/i]."
+  },
+  {
+   "correct": true,
+   "id": "106992",
+   "question": "Melody Ellison est une poupée American Girl."
+  },
+  {
+   "correct": false,
+   "id": "106993",
+   "question": "La Yukon est un modèle de voiture Ford."
+  },
+  {
+   "correct": true,
+   "id": "106994",
+   "question": "Les frères Parker ont créé le Monopoly."
+  },
+  {
+   "correct": true,
+   "id": "106995",
+   "question": "La barre 100 Grand contient des céréales de riz soufflé."
+  },
+  {
+   "correct": true,
+   "id": "106996",
+   "question": "Aphrodite est la déesse grecque de la beauté."
+  },
+  {
+   "correct": false,
+   "id": "106997",
+   "question": "H.G. Wells a écrit [i]20 000 lieues sous les mers[/i]."
+  },
+  {
+   "correct": true,
+   "countrySpecific": true,
+   "id": "106998",
+   "question": "Hugo Lloris a joué pour l'Olympique Lyonnais."
+  },
+  {
+   "correct": true,
+   "id": "106999",
+   "question": "L'ours Paddington a été recueilli par la famille Brown."
+  },
+  {
+   "correct": false,
+   "id": "107000",
+   "question": "Le sashimi est roulé dans du riz."
+  },
+  {
+   "correct": false,
+   "id": "107001",
+   "question": "Techniquement, l'orthographe correcte est la “Saint-Valentine.”"
+  },
+  {
+   "correct": true,
+   "id": "107002",
+   "question": "Technically, the correct spelling is “Saint-Valentin.”"
+  },
+  {
+   "correct": false,
+   "id": "107057",
+   "question": "La célèbre “forêt bleue” se trouve en Allemagne."
+  },
+  {
+   "correct": true,
+   "id": "107058",
+   "question": "Le gâteau Forêt-Noire est célèbre pour sa garniture à la cerise."
+  },
+  {
+   "correct": true,
+   "id": "107059",
+   "question": "Snoopy est un beagle."
+  },
+  {
+   "correct": false,
+   "id": "107060",
+   "question": "Scooby-Doo est un Saint-Bernard."
+  },
+  {
+   "correct": true,
+   "id": "107061",
+   "question": "Belle est un chien de montagne des Pyrénées."
+  },
+  {
+   "correct": true,
+   "id": "107062",
+   "question": "Le Soudan est le pays qui compte le plus grand nombre de pyramides."
+  },
+  {
+   "correct": false,
+   "id": "107063",
+   "question": "Le livre [i]Jurassic Park[/i] a été écrit par John Grisham."
+  },
+  {
+   "correct": true,
+   "id": "107064",
+   "question": "[i]Suits[/i] était la série télévisée la plus regardée sur Netflix en 2023."
+  },
+  {
+   "correct": false,
+   "countrySpecific": true,
+   "id": "107065",
+   "question": "[i]On en mangerait? ou pas[/i] était la série télévisée la plus regardée sur Netflix en 2023."
+  },
+  {
+   "correct": false,
+   "id": "107066",
+   "question": "Certaines parties de l'Afrique se trouvent dans 3 des 4 hémisphères."
+  },
+  {
+   "correct": false,
+   "id": "107067",
+   "question": "La jaunisse est une affection qui rend la peau bleue."
+  },
+  {
+   "correct": false,
+   "id": "107068",
+   "question": "Lionel Messi a joué pour les États-Unis lors de la Coupe du monde 2005."
+  },
+  {
+   "correct": true,
+   "id": "107070",
+   "question": "Le Tyrannosaurus Rex a vécu au Crétacé."
+  },
+  {
+   "correct": true,
+   "id": "107071",
+   "question": "L'atmosphère de Vénus est principalement composée de dioxyde de carbone."
+  },
+  {
+   "correct": true,
+   "id": "107072",
+   "question": "La guerre de Cent Ans a duré 116 ans."
+  },
+  {
+   "correct": false,
+   "id": "107073",
+   "question": "Traditionnellement, le lait de poule ne contient PAS d'œufs."
+  }
+ ]
+}
