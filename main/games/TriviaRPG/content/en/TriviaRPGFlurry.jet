@@ -1,0 +1,3332 @@
+{
+ "content": [
+  {
+   "countrySpecific": true,
+   "id": "111399",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Le Club des monstres",
+        "Théâtre de sang",
+        "Contes racontés deux fois",
+        "Le Cercueil vivant",
+        "La Maison des mille poupées",
+        "Le tueur porte un masque"
+       ],
+       "category": "Films d'Horreur de Vincent Price"
+      },
+      {
+       "answers": [
+        "Beautiful Ghosts",
+        "Who’s Afraid of Little Old Me?",
+        "Better Than Revenge",
+        "Death by a Thousand Cuts",
+        "No Body, No Crime",
+        "The Smallest Man Who Ever Lived"
+       ],
+       "category": "Musiques de Taylor Swift"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "August",
+        "Enchanted",
+        "Cardigan",
+        "Gasoline",
+        "Midnight Rain",
+        "Snow on the Beach"
+       ],
+       "category": "Musiques de Taylor Swift"
+      },
+      {
+       "answers": [
+        "Home Sweet Home",
+        "Meadow Showers",
+        "Campfire Cocktail",
+        "Desert Blooms",
+        "Leather",
+        "Beach Escape"
+       ],
+       "category": "Parfum de Bougies Yankee Candle"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "La Tour de Londres",
+        "Flic ou Zombie",
+        "L'Homme au masque de cire",
+        "La Terreur des Banshee",
+        "Le Désosseur de cadavres",
+        "Histoires extraordinaires"
+       ],
+       "category": "Films d'Horreur de Vincent Price"
+      },
+      {
+       "answers": [
+        "Midsummer’s Night",
+        "Blood Orange Pumpkin",
+        "Witches’ Brew",
+        "Wild Orchid",
+        "A Calm & Quiet Place",
+        "Beach Escape"
+       ],
+       "category": "Parfum de Bougies Yankee Candle"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "countrySpecific": true,
+   "id": "111455",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Nolan Chance",
+        "Fletcher Kane",
+        "Turk",
+        "As Du Volant",
+        "Jonesy Naufragé",
+        "Willow"
+       ],
+       "category": "Personnage de Fortnite"
+      },
+      {
+       "answers": [
+        "Pip",
+        "Le Renard",
+        "Quilp",
+        "Sydney Carton",
+        "Uriah Heep",
+        "Master Bates"
+       ],
+       "category": "Personnage de Charles Dickens"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gut Bomb",
+        "Style De Splosif",
+        "Crustina",
+        "Ronchon",
+        "Bill du Big Dill",
+        "Cabot"
+       ],
+       "category": "Personnage de Fortnite"
+      },
+      {
+       "answers": [
+        "Ganola Kudos",
+        "Croque Pouce",
+        "Shockers",
+        "Bubble Jug",
+        "Surge",
+        "Tastetation"
+       ],
+       "category": "Un goûté des années 90 qui n'existe plus"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "CHOKITO",
+        "RAIDERS",
+        "Mr. Phipps",
+        "Slimmons",
+        "Zings",
+        "FLOPS"
+       ],
+       "category": "Un goûté des années 90 qui n'existe plus"
+      },
+      {
+       "answers": [
+        "Sowerberry",
+        "Jerry Cruncher",
+        "Creakle",
+        "Mealy Potatoes",
+        "Noggs",
+        "P. Toots"
+       ],
+       "category": "Personnage de Charles Dickens"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "112265",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "L’Équipe de la Vengeance",
+        "Métallo",
+        "Bizarro",
+        "La Banshee d’Argent",
+        "Crâne Atomique",
+        "Blaze et Satanus"
+       ],
+       "category": "Ennemis de Superman"
+      },
+      {
+       "answers": [
+        "Les Brain Busters",
+        "The Ultimate Warrior",
+        "Monsieur Parfait",
+        "The Miz",
+        "Sergent Slaughter",
+        "The Undertaker"
+       ],
+       "category": "Catcheurs de la WWE"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Les garçons de Nickel",
+        "Les Foudroyés",
+        "La Route",
+        "Lonesome Dove",
+        "Les Anges de la mort",
+        "Les Splendeurs des Amberson"
+       ],
+       "category": "Nouvelles ayant remporté le Prix Pulitzer"
+      },
+      {
+       "answers": [
+        "Mankind",
+        "The New Day",
+        "Les Fabulous Freebirds",
+        "Big Show",
+        "L’Enfant Briseur de Coeurs",
+        "Edge"
+       ],
+       "category": "Catcheurs de la WWE"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "La Ronde de nuit",
+        "Démon Copperhead",
+        "Le Sympathisant",
+        "L’Homme de Kiev",
+        "Le Garçon rieur",
+        "Arrowsmith"
+       ],
+       "category": "Nouvelles ayant remporté le Prix Pulitzer"
+      },
+      {
+       "answers": [
+        "Le Parasite",
+        "Doomsday",
+        "La Reine Insecte",
+        "Mercy Graves",
+        "Le Farceur",
+        "Bloodsport"
+       ],
+       "category": "Ennemis de Superman"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112271",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Twisted",
+        "Life Itself",
+        "Oldboy",
+        "Jumper",
+        "Double détente",
+        "187 - Code meurtre"
+       ],
+       "category": "Films de Samuel L. Jackson"
+      },
+      {
+       "answers": [
+        "Misery",
+        "Her Majesty",
+        "Now and Then",
+        "Shout",
+        "Get Back",
+        "Glass Onion"
+       ],
+       "category": "Chanson des Beatles"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Help",
+        "Yesterday",
+        "Girl",
+        "Revolution",
+        "Because",
+        "Something"
+       ],
+       "category": "Chanson des Beatles"
+      },
+      {
+       "answers": [
+        "Unis",
+        "Bénédictions",
+        "Foi",
+        "Dudit",
+        "Dimanches",
+        "Tranquillité"
+       ],
+       "category": "Mots dans la constitution Américaine"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Basic",
+        "Saw : Spiral",
+        "Glass",
+        "No Limit",
+        "Chambre 1408",
+        "Incassable"
+       ],
+       "category": "Films de Samuel L. Jackson"
+      },
+      {
+       "answers": [
+        "Justice",
+        "Devoir",
+        "Exécution",
+        "Sept",
+        "Invasion",
+        "Pièce"
+       ],
+       "category": "Mots dans la constitution Américaine"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112285",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "I’m indecent, let it begin",
+        "Why would you try me?",
+        "I came to slay",
+        "Always stay gracious",
+        "Only a real one could tame me",
+        "I live so I can die with you"
+       ],
+       "category": "Paroles de Beyoncé"
+      },
+      {
+       "answers": [
+        "Sois cruel seulement pour être bon",
+        "Nous pourrions être de meilleurs étrangers",
+        "Tuez tous les avocats !",
+        "Les hommes de peu de mots sont les meilleurs hommes",
+        "Le tout et la fin de tout",
+        "Ce qui est fait ne peut être défait"
+       ],
+       "category": "Citation de Shakespeare"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sois toi-même",
+        "Fais un peu de scandale",
+        "Ne t’arrête pas tant que tu n’es pas fier·e",
+        "Achète les deux",
+        "C’est OK de ne pas tout gérer",
+        "Impossible d’écrire plaisir sans manger"
+       ],
+       "category": "Message dans les papiers de Chocolat Dove"
+      },
+      {
+       "answers": [
+        "Put a ring on it",
+        "Nobody can judge me but me",
+        "I’m one of one",
+        "Unique, that’s what you are",
+        "From now on, I’m gonna be my own best friend",
+        "I bloom and grow so beautifully"
+       ],
+       "category": "Paroles de Beyoncé"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Cède à tous tes caprices",
+        "On n’est jamais trop vieux, et il n’est jamais trop tard",
+        "Étreins la lumière du soleil",
+        "Il y a toujours du temps pour l’amour",
+        "L’inquiétude gâche la sagesse",
+        "Quand tu donnes avec joie, la joie te revient"
+       ],
+       "category":"Message dans les papiers de Chocolat Dove"
+      },
+      {
+       "answers": [
+        "Tout ce qui brille n’est pas or",
+        "La concision est l’âme de l’esprit",
+        "Nous haïssons ce que nous craignons souvent",
+        "Le monde entier est une scène",
+        "Je porterai mon cœur sur ma manche",
+        "Aucun héritage n’est plus précieux que l’honnêteté"
+       ],
+       "category": "Citation de Shakespeare"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112666",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Renégat",
+        "Pionnier",
+        "Aigle",
+        "Général",
+        "Mot de passe",
+        "Providence"
+       ],
+       "category": "Nom de code de Service Sectre Presidentiel"
+      },
+      {
+       "answers": [
+        "Sienna",
+        "Origin",
+        "Gaia",
+        "Tank",
+        "Crown",
+        "Sequoia"
+       ],
+       "category": "Modèle de Toyota"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Blue Fire",
+        "Silver Star",
+        "Wodan",
+        "Eurosat",
+        "Arthur – The Ride",
+        "Alpenexpress Coastiality"
+       ],
+       "category": "Montagnes russes à Europa-Park"
+      },
+      {
+       "answers": [
+        "Lexus LS",
+        "Corolla Sprinter",
+        "Vista",
+        "Hilux",
+        "ProAce Verso",
+        "RAV4"
+       ],
+       "category": "Modèle de Toyota"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Celtique",
+        "Acrobate",
+        "Lancer",
+        "Fonceur",
+        "Peau brute",
+        "Projecteur"
+       ],
+       "category": "Nom de code de Service Sectre Presidentiel"
+      },
+      {
+       "answers": [
+        "Poseidon",
+        "Pegasus",
+        "Atlantica SuperSplash",
+        "Eurosat Coastiality VR",
+        "Voletarium",
+        "Matterhorn Blitz"
+       ],
+       "category": "Montagnes russes à Europa-Park"
+      }
+     ]
+    }
+   ],
+   "theme": "DESERT"
+  },
+  {
+   "id": "112677",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Le Solitaire",
+        "La Poupée vivante",
+        "Le Persécuteur",
+        "L’Homme dans la bouteille",
+        "Quelle vie !",
+        "Muet"
+       ],
+       "category": "Episode de [i]La Quatrième Dimension[/i]"
+      },
+      {
+       "answers": [
+        "The Town",
+        "Red Terror",
+        "Baptized in Fear",
+        "Dark Times",
+        "The Hills",
+        "In the Night"
+       ],
+       "category": "Chansons de The Weeknd"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Quatre heures",
+        "Image dans le miroir",
+        "La Poussière",
+        "Le Jeu des ombres",
+        "Le Bruit blanc",
+        "La Vallée silencieuse"
+       ],
+       "category": "Episode de [i]La Quatrième Dimension[/i]"
+      },
+      {
+       "answers": [
+        "Always Morphing",
+        "Behind the Glass",
+        "Wink of Sleep",
+        "Seize the Minute",
+        "In Plane View",
+        "In the Time Zone"
+       ],
+       "category": "Couleur de vernis chez Essie"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tell Your Friends",
+        "As You Are",
+        "Niagara Falls",
+        "Snowchild",
+        "Blinding Lights",
+        "True Colors"
+       ],
+       "category": "Chansons de The Weeknd"
+      },
+      {
+       "answers": [
+        "Catch a Vibe",
+        "Check Your Baggage",
+        "Daily Grind",
+        "Crave the Chaos",
+        "Hands in the Air",
+        "Strut With It"
+       ],
+       "category": "Couleur de vernis chez Essie"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "id": "112685",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Shadowshaper",
+        "La Cité des ténèbres",
+        "Graceling",
+        "Lightlark",
+        "Caraval",
+        "Six of Crows"
+       ],
+       "category": "Titre de Nouvelles Pour Jeunes Adultes"
+      },
+      {
+       "answers": [
+        "Immortal",
+        "Children of Bodom",
+        "Sepultura",
+        "Morbid Angel",
+        "Darkthrone",
+        "Iced Earth"
+       ],
+       "category": "Groupes de Heavy Metal"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dio",
+        "Gorguts",
+        "Emperor",
+        "At the Gates",
+        "White Zombie",
+        "Mercyful Fate"
+       ],
+       "category": "Groupes de Heavy Metal"
+      },
+      {
+       "answers": [
+        "Arcangelo",
+        "Needles",
+        "Counterpoint",
+        "War Admiral",
+        "Union Rags",
+        "Hail To All"
+       ],
+       "category": "Chevaux ayant remporté les Belmont Stakes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Caraval",
+        "The Maze Runner",
+        "Coeur d’encre",
+        "La Reine Rouge",
+        "Wings of Starlight",
+        "Legendborn"
+       ],
+       "category": "Titre de Nouvelles Pour Jeunes Adultes"
+      },
+      {
+       "answers": [
+        "Empire Maker",
+        "Colonial Affair",
+        "Ruler On Ice",
+        "Palace Malice",
+        "Hourless",
+        "Touch Gold"
+       ],
+       "category": "Chevaux ayant remporté les Belmont Stakes"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112698",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Nuit étoilée",
+        "Femme qui fait un geste de la main",
+        "Coeur anatomique",
+        "Taxi arrivant",
+        "Femmes aux oreilles de lapin",
+        "Visage angoissé"
+       ],
+       "category": "Nom Officiel Des Emojis"
+      },
+      {
+       "answers": [
+        "Homme aux cheveux noirs",
+        "Femme allongée",
+        "Vague imminente",
+        "Homme pesant de l’or",
+        "Femme avec un chat"
+       ],
+       "category": "Oeuvres d'art au Metropolitan Museum of Art"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Soldat à cheval",
+        "Pirate Jenny",
+        "Un berger et un cavalier sur un chemin de campagne",
+        "Exorciste de démons",
+        "Deux jeunes paysannes",
+        "Pan jouant de la flûte"
+       ],
+       "category": "Oeuvres d'art au Metropolitan Museum of Art"
+      },
+      {
+       "answers": [
+        "Bimbo des forces spéciales",
+        "Capitaine de yacht",
+        "Bouffon terrifiant",
+        "Templier médiéval",
+        "Robe de Casanova",
+        "Roi noble"
+       ],
+       "category": "Costume d'Halloween vendu chez Spirit"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gardien de zoo",
+        "Livreur",
+        "Prêtre",
+        "Arbitre",
+        "Pharaon",
+        "Écolière"
+       ],
+       "category": "Costume d'Halloween vendu chez Spirit"
+      },
+      {
+       "answers": [
+        "Femme avec foulard",
+        "Ouvrier/ère d’usine",
+        "Femme scientifique",
+        "Homme super-vilain",
+        "Génie",
+        "Raton laveur"
+       ],
+       "category": "Nom Officiel Des Emojis"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "id": "112753",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Barotraumatisme",
+        "Neuromyélite optique",
+        "Langue géographique",
+        "Miliaria",
+        "Ankyloglossie",
+        "Doigt à ressort"
+       ],
+       "category": "Pathologie (selon La Mayo Clinic)"
+      },
+      {
+       "answers": [
+        "Augure",
+        "Peau d’écorce",
+        "Toucher froid",
+        "Vision dans le noir",
+        "Shillelagh",
+        "Respiration aquatique"
+       ],
+       "category": "Sorts de Donjons et Dragons (5e Edition)"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tétanos",
+        "Pied bot",
+        "Pieds plats",
+        "Orteil en marteau",
+        "Genou du sauteur",
+        "Crampes nerveuses"
+       ],
+       "category": "Pathologie (selon La Mayo Clinic)"
+      },
+      {
+       "answers": [
+        "Carioca",
+        "Hully Gully",
+        "Watusi",
+        "Caramelldansen",
+        "Shoulder Lean",
+        "Harlem Shake"
+       ],
+       "category": "Danses Populaires"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Thunder Clap",
+        "Bump",
+        "Time Warp",
+        "Daggering",
+        "Dutty Wine",
+        "Shoot"
+       ],
+       "category": "Danses Populaires"
+      },
+      {
+       "answers": [
+        "Mains brûlantes",
+        "Frappe",
+        "Éclair",
+        "Allonge",
+        "Pas brumeux",
+        "Grimpe-araignée"
+       ],
+       "category": "Sorts de Donjons et Dragons (5e Edition)"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112754",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Roche",
+        "Spectre",
+        "Dragon",
+        "Fée",
+        "Psy",
+        "Insecte"
+       ],
+       "category": "Type dans Pokémon"
+      },
+      {
+       "answers": [
+        "Gold",
+        "Diamond",
+        "Malibu",
+        "Viper",
+        "Nitro",
+        "Tower"
+       ],
+       "category": "Perosnnages de [i]American Gladiators[/i] dans les 90s"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Feu",
+        "Acier",
+        "Volant",
+        "Ténèbres",
+        "Électrik",
+        "Poison"
+       ],
+       "category": "Type of Pokémon"
+      },
+      {
+       "answers": [
+        "Fever",
+        "Heat",
+        "Sky",
+        "Jazz",
+        "Sun",
+        "Magic"
+       ],
+       "category": "Equipes de NBA ou de Women'sNBA"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dream",
+        "Wings",
+        "Sparks",
+        "Lynx",
+        "Mercury",
+        "Liberty"
+       ],
+       "category": "Equipes de NBA ou de Women'sNBA"
+      },
+      {
+       "answers": [
+        "Tank",
+        "Dallas",
+        "Blaze",
+        "Lace",
+        "Zap",
+        "Turbo"
+       ],
+       "category": "Perosnnages de [i]American Gladiators[/i] dans les 90s"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112889",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Altaïr",
+        "Bellatrix",
+        "Castula",
+        "Véga",
+        "Pollux"
+       ],
+       "category": "Nom d'étoile"
+      },
+      {
+       "answers": [
+        "Dralion",
+        "Alegria",
+        "Quidam",
+        "Ka",
+        "Zarkana"
+       ],
+       "category": "Spéctacle du Cirque du Soleil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Abrilada",
+        "Humatin",
+        "Revatio",
+        "Septra",
+        "Elelyso"
+       ],
+       "category": "Médicament Pfizer"
+      },
+      {
+       "answers": [
+        "Zumanity",
+        "Varekai",
+        "Saltimbanco",
+        "O",
+        "Luzia"
+       ],
+       "category": "Spéctacle du Cirque du Soleil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mirzam",
+        "Rigel",
+        "Syrma",
+        "Adhil",
+        "Chara"
+       ],
+       "category": "Nom d'étoile"
+      },
+      {
+       "answers": [
+        "Xalatan",
+        "Geodon",
+        "Eliquis",
+        "Eraxis",
+        "Calan"
+       ],
+       "category": "Médicament Pfizer"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "112985",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Banzai Drop",
+        "Sweet Chin Music",
+        "3D",
+        "Attitude Adjustment",
+        "Hell’s Gate",
+        "Glam Slam"
+       ],
+       "category": "Mouvements de finition en catch"
+      },
+      {
+       "answers": [
+        "Coup de Boost",
+        "Explosion Baja",
+        "Électro Dynamique",
+        "Revolution",
+        "Super Nova",
+        "Blanc Intense"
+       ],
+       "category": "Variantes de Mountain Dew"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "RKO",
+        "Razor’s Edge",
+        "F-5",
+        "Rock Bottom",
+        "Frog Splash",
+        "Batista Bomb"
+       ],
+       "category": "Mouvements de finition en catch"
+      },
+      {
+       "answers": [
+        "Suprême Commandement",
+        "Aube Rouge",
+        "Tempête du Désert",
+        "Barbe-Rousse",
+        "Dynamo",
+        "Maître des Bêtes"
+       ],
+       "category": "Noms de code d’opérations militaires américaines"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "MDX",
+        "Code Rouge",
+        "Noir Absolu",
+        "Melon Géant",
+        "Voltage",
+        "Amp"
+       ],
+       "category": "Variantes de Mountain Dew"
+      },
+      {
+       "answers": [
+        "Tonnerre Déferlant",
+        "Fureur Urgente",
+        "Colère de Dieu",
+        "Dracula",
+        "Geyser de Puissance",
+        "Lionceau"
+       ],
+       "category": "Noms de code d’opérations militaires américaines"
+      }
+     ]
+    }
+   ],
+   "theme": "FOREST"
+  },
+  {
+   "id": "112986",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Alaïa",
+        "Moschino",
+        "Céline",
+        "DSQUARED2",
+        "Givenchy",
+        "Loewe"
+       ],
+       "category": "Maisons de mode"
+      },
+      {
+       "answers": [
+        "Hooli",
+        "Weyland-Yutani",
+        "Soleil Bleu",
+        "InGen",
+        "Hyperion",
+        "Shinra"
+       ],
+       "category": "Entreprises fictives maléfiques"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Balmain",
+        "Burberry",
+        "Chloé",
+        "Fendi",
+        "Lanvin",
+        "Moncler"
+       ],
+       "category": "Maisons de mode"
+      },
+      {
+       "answers": [
+        "Bennifer",
+        "Speidi",
+        "Kimye",
+        "Spederline",
+        "Zanessa",
+        "Zigi"
+       ],
+       "category": "Surnom de couple de Celebrité"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Globex",
+        "Lexcorp",
+        "Biosyn",
+        "Oscorp",
+        "Vault-Tec",
+        "UAC"
+       ],
+       "category": "Entreprises fictives maléfiques"
+      },
+      {
+       "answers": [
+        "Brangelina",
+        "Jelena",
+        "Robsten",
+        "Desilu",
+        "Shefani",
+        "Swelce"
+       ],
+       "category": "Surnom de couple de Celebrité"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113097",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mute City",
+        "Passage Feuillage",
+        "Big Blue",
+        "Volcan grondant ",
+        "Plaine Donut",
+        "Aéroport Azur"
+       ],
+       "category": "Circuits de [i]Mario Kart[/i]"
+      },
+      {
+       "answers": [
+        "Gasoline Alley",
+        "Prickly City",
+        "Arctic Circle",
+        "Edge City",
+        "Le lagon de Sherman",
+        "Toundra"
+       ],
+       "category": "Bandes dessinées américaines"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Swans Crossing",
+        "Sunset Beach",
+        "Paradise Bay",
+        "Flamingo Road",
+        "River City",
+        "Emmerdale"
+       ],
+       "category": "Feuilletons télévisés"
+      },
+      {
+       "answers": [
+        "Bois Vermeil",
+        "Quartier Delfino",
+        "Jetée cassée",
+        "Lagon Tourbillon",
+        "Désert du Soleil",
+        "Manoir Trempé"
+       ],
+       "category": "Circuits de [i]Mario Kart[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Non-Sequitur",
+        "Perles aux cochons",
+        "Doonesbury",
+        "Bloom County",
+        "Bliss",
+        "Safe Havens"
+       ],
+       "category": "Bandes dessinées américaines"
+      },
+      {
+       "answers": [
+        "Family Affairs",
+        "Passions",
+        "Une Vie à Vivre",
+        "Les Jours de Notre Vie",
+        "Beyond the Gates",
+        "Les Sullivans"
+       ],
+       "category": "Feuilletons télévisés"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113140",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Beekini",
+        "Rocket Skates",
+        "Woodchipper",
+        "Bungie Boogie",
+        "Jet Engine",
+        "Butt X-ray"
+       ],
+       "category": "[i]Jackass[/i] Stunt"
+      },
+      {
+       "answers": [
+        "Naked and Famous",
+        "Corpse Reviver No. 2",
+        "Monkey Gland",
+        "Jungle Bird",
+        "Rusty Nail",
+        "Zombie"
+       ],
+       "category": "Cocktail"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Indy Nosebone",
+        "Kickflip",
+        "Melon",
+        "Fandangle",
+        "Big Hitter II",
+        "Wall Plant"
+       ],
+       "category": "[i]Tony Hawk Pro Skater[/i] Trick"
+      },
+      {
+       "answers": [
+        "Bee’s Knees",
+        "French 75",
+        "Grasshopper",
+        "Moscow Mule",
+        "Paper Plane",
+        "Sidecar"
+       ],
+       "category": "Cocktail"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Paper Cuts",
+        "Alligator Tightrope",
+        "BMX Tug-of-War",
+        "The High Five",
+        "The Fish Hook",
+        "Pin the Tail on the Donkey"
+       ],
+       "category": "[i]Jackass[/i] Stunt"
+      },
+      {
+       "answers": [
+        "Pizza Guy",
+        "Coffin",
+        "Hospital Flip",
+        "Switcheroo",
+        "Rocket Air",
+        "Benihana"
+       ],
+       "category": "[i]Tony Hawk Pro Skater[/i] Trick"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "113142",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Talisman",
+        "The Lawnmower Man",
+        "Doctor Sleep",
+        "The Outsider",
+        "The Running Man",
+        "Mr. Mercedes"
+       ],
+       "category": "Stephen King Story"
+      },
+      {
+       "answers": [
+        "The Greek Freak",
+        "The Admiral",
+        "Slim Reaper",
+        "The Answer",
+        "The Bald Mamba",
+        "The Worm"
+       ],
+       "category": "NBA Player Nickname"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Dead Zone",
+        "Christine",
+        "The Monkey",
+        "Needful Things",
+        "Finders Keepers",
+        "Never Flinch"
+       ],
+       "category": "Stephen King Story"
+      },
+      {
+       "answers": [
+        "The Lighthouse",
+        "The Farewell",
+        "Climax",
+        "Bring Her Back",
+        "The Witch",
+        "Under the Skin"
+       ],
+       "category": "A24 Film"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ant-Man",
+        "Reign Man",
+        "White Chocolate",
+        "Agent Zero",
+        "The Hick from French Lick",
+        "The Process"
+       ],
+       "category": "NBA Player Nickname"
+      },
+      {
+       "answers": [
+        "The Iron Claw",
+        "The Brutalist",
+        "The Sixth",
+        "The Green Knight",
+        "Saint Maud",
+        "Lean on Pete"
+       ],
+       "category": "A24 Film"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113280",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Godiva Chocolate",
+        "Spicy Ginger",
+        "Very Cherry Ghirardelli",
+        "Steak Diane",
+        "SkinnyLicious",
+        "Grilled Asparagus"
+       ],
+       "category": "Words on The Cheesecake Factory Menu"
+      },
+      {
+       "answers": [
+        "Alaska",
+        "June Jambalaya",
+        "Shea Couleé",
+        "Silky Nutmeg Ganache",
+        "Honey Davenport",
+        "BenDeLaCreme"
+       ],
+       "category": "[i]RuPaul’s Drag Race[/i] Contestant"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Peach Bellini",
+        "Paloma Rosa",
+        "Truffle Aioli",
+        "Soup of the Day",
+        "Mortadella Panino",
+        "Costoletta"
+       ],
+       "category": "Words on The Cheesecake Factory Menu"
+      },
+      {
+       "answers": [
+        "Sévérine",
+        "Mary Goodnight",
+        "Moneypenny",
+        "Gala Brand",
+        "Honey Ryder",
+        "Solitaire"
+       ],
+       "category": "Bond Girls"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Jiggly Caliente",
+        "Jinkx Monsoon",
+        "Serena ChaCha",
+        "Hormona Lisa",
+        "Nymphia Wind",
+        "Kahmora Hall"
+       ],
+       "category": "[i]RuPaul’s Drag Race[/i] Contestant"
+      },
+      {
+       "answers": [
+        "Wai Lin",
+        "Kissy Suzuki",
+        "Pussy Galore",
+        "Vesper Lynd",
+        "Tatiana Romanova",
+        "Giacinta “Jinx” Johnson"
+       ],
+       "category": "Bond Girls"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "id": "113281",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Industrial",
+        "Helix",
+        "Orbital",
+        "Auricle",
+        "Tragus",
+        "Anti-Tragus"
+       ],
+       "category": "Type of Ear Piercing"
+      },
+      {
+       "answers": [
+        "Ratchet",
+        "Arcee",
+        "Hound",
+        "Jazz",
+        "Sideswipe",
+        "Galvatron"
+       ],
+       "category": "Character in [i]Transformers[/i] Franchise"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Snakebite",
+        "Lobe",
+        "Scapha",
+        "Daith",
+        "Conch",
+        "Snug"
+       ],
+       "category": "Type of Ear Piercing"
+      },
+      {
+       "answers": [
+        "Portcullis",
+        "Talus",
+        "Garderobe",
+        "Oubliette",
+        "Oriel",
+        "Bretèche"
+       ],
+       "category": "Part of a Medieval Castle"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ironhide",
+        "Wheeljack",
+        "Ramjet",
+        "Grimlock",
+        "Cliffjumper",
+        "Bonecrusher"
+       ],
+       "category": "Character in [i]Transformers[/i] Franchise"
+      },
+      {
+       "answers": [
+        "Barbican",
+        "Machicolation",
+        "Bastion",
+        "Ravelin",
+        "Murder Hole",
+        "Bartizan"
+       ],
+       "category": "Part of Medieval Castle"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113282",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Jacqueline Kennedy: The White House Years",
+        "The Eighteenth-Century Woman",
+        "China: Through the Looking Glass",
+        "Costumes of Royal India",
+        "The World of Balenciaga"
+       ],
+       "category": "Met Gala Themes"
+      },
+      {
+       "answers": [
+        "Pattern and Paradox: The Quilts of Amish Women",
+        "Journey of Color",
+        "Designing Peace",
+        "Nature by Design: Botanical Lessons",
+        "Making a Statement"
+       ],
+       "category": "Smithsonian Museum Exhibits"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dance",
+        "Man and the Horse",
+        "La Belle Époque",
+        "Goddess: The Classical Mode",
+        "American Women of Style"
+       ],
+       "category": "Met Gala Themes"
+      },
+      {
+       "answers": [
+        "Belles de Jour",
+        "Petty in Pink",
+        "Hi, Society",
+        "Summer Kind of Wonderful",
+        "Last Tango, Then Paris"
+       ],
+       "category": "[i]Gossip Girl[/i] Episodes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Early Flight",
+        "America’s Listening",
+        "Taking the Stage",
+        "The Value of Money",
+        "Down These Mean Streets"
+       ],
+       "category": "Smithsonian Museum Exhibits"
+      },
+      {
+       "answers": [
+        "The Age of Dissonance",
+        "Raiders of the Lost Art",
+        "Salon of the Dead",
+        "Portrait of a Lady Alexander",
+        "Bonfire of the Vanity"
+       ],
+       "category": "[i]Gossip Girl[/i] Episodes"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113284",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Brooke Taylor-Windham",
+        "Emmett Richmond",
+        "Warner Huntington III",
+        "Vivian Kensington",
+        "Aaron Callahan"
+       ],
+       "category": "Characters in [i]Legally Blonde[/i]"
+      },
+      {
+       "answers": [
+        "James Holzhauer",
+        "Amy Schneider",
+        "Matt Amodio",
+        "Julia Collins",
+        "Victoria Groce"
+       ],
+       "category": "Jeopardy! Champions"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Enrique Salvatore",
+        "Paulette Bonafonté",
+        "Margot Chapman",
+        "Enid Wexler",
+        "David Kidney"
+       ],
+       "category": "Characters in [i]Legally Blonde[/i]"
+      },
+      {
+       "answers": [
+        "Adrian Beltre",
+        "Nellie Fox",
+        "Sandy Koufax",
+        "Kiki Cuyler",
+        "Dazzy Vance"
+       ],
+       "category": "Baseball Hall of Fame Players"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Jim Rice",
+        "Trevor Hoffman",
+        "Greg Maddux",
+        "Nolan Ryan",
+        "Duke Snider"
+       ],
+       "category": "Baseball Hall of Fame Players"
+      },
+      {
+       "answers": [
+        "David Madden",
+        "Cris Pannullo",
+        "Brad Rutter",
+        "Jason Zuffranieri",
+        "Yogesh Raut"
+       ],
+       "category": "Jeopardy! Champions"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113289",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "A Taste of Danger",
+        "Mystery on the Menu",
+        "The Invisible Intruder",
+        "The Witch Tree Symbol",
+        "Enemy Match"
+       ],
+       "category": "Nancy Drew Books"
+      },
+      {
+       "answers": [
+        "Betrayers, Fakes and Fraudsters",
+        "Murder in Plain Sight",
+        "Backstab and Betrayal",
+        "The Weight of Deceit",
+        "Cabins in the Woods"
+       ],
+       "category": "The Traitors Episodes"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Mystery at Lilac Inn",
+        "The Thirteenth Pearl",
+        "The Mystery of the 99 Steps",
+        "Password to Larkspur Lane",
+        "The Whispering Statue"
+       ],
+       "category": "Nancy Drew Books"
+      },
+      {
+       "answers": [
+        "Crystal Caper",
+        "Mystery of the Abbey",
+        "Ticket to Ride",
+        "The Vale of Eternity",
+        "The Night Cage"
+       ],
+       "category": "Board Games"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "A Silent Assassin",
+        "Trust No One",
+        "Suspicion and Sabotage",
+        "Murder They Wrote",
+        "A Killer Move"
+       ],
+       "category": "The Traitors Episodes"
+      },
+      {
+       "answers": [
+        "Mansions of Madness",
+        "Love is Dead",
+        "Betrayal at House on the Hill",
+        "The Castles of Burgundy",
+        "Deep Regrets"
+       ],
+       "category": "Board Games"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "113319",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Spy",
+        "Redemption",
+        "Blitz",
+        "The Bank Job",
+        "Chaos",
+        "Snatch"
+       ],
+       "category": "Movie Starring Jason Statham"
+      },
+      {
+       "answers": [
+        "For Free?",
+        "XXX",
+        "How Much a Dollar Cost?",
+        "Father Time",
+        "Opposites Attract",
+        "30 for 30"
+       ],
+       "category": "Kendrick Lamar Song"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Wild Card",
+        "Safe",
+        "13",
+        "War",
+        "Turn It Up",
+        "The One"
+       ],
+       "category": "Movie Starring Jason Statham"
+      },
+      {
+       "answers": [
+        "Cover Up",
+        "Check Out",
+        "Flip Flop",
+        "It’s in the Bag",
+        "Make Your Move",
+        "Money Game"
+       ],
+       "category": "Price is Right Game"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Rich",
+        "Big Shot",
+        "Now or Never",
+        "Count Me Out",
+        "For Sale?",
+        "Good Credit"
+       ],
+       "category": "Kendrick Lamar Song"
+      },
+      {
+       "answers": [
+        "Bullseye",
+        "Double Cross",
+        "Golden Road",
+        "Let ‘em Roll",
+        "3 Strikes",
+        "Temptation"
+       ],
+       "category": "Price is Right Game"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113320",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Joy",
+        "Boo",
+        "Russell",
+        "Dory",
+        "Hopper",
+        "Buzz"
+       ],
+       "category": "Pixar Character"
+      },
+      {
+       "answers": [
+        "Steeler",
+        "Flint",
+        "Spirit",
+        "Scarlett",
+        "Helix",
+        "Clutch"
+       ],
+       "category": "G.I. Joe Character"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Dash",
+        "Merida",
+        "Crush",
+        "Frozone",
+        "Remy",
+        "Syndrome"
+       ],
+       "category": "Pixar Character"
+      },
+      {
+       "answers": [
+        "Maverick",
+        "Edsel",
+        "Thunderbird",
+        "Courier",
+        "Durango",
+        "Probe"
+       ],
+       "category": "Ford Vehicle"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Roadblock",
+        "Firefly",
+        "Destro",
+        "Stalker",
+        "Banzai",
+        "Dart"
+       ],
+       "category": "G.I. Joe Character"
+      },
+      {
+       "answers": [
+        "Fiesta",
+        "Contour",
+        "Edge",
+        "Bronco",
+        "Scorpio",
+        "Freestyle"
+       ],
+       "category": "Ford Vehicle"
+      }
+     ]
+    }
+   ],
+   "theme": ""
+  },
+  {
+   "id": "113505",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Shoot-through",
+        "Good Morning",
+        "Farmer’s Carry",
+        "Burpee",
+        "Skin the Cat",
+        "Wall Walk"
+       ],
+       "category": "CrossFit Exercise"
+      },
+      {
+       "answers": [
+        "Throw the Baby",
+        "One-handed Star",
+        "Walk the Dog",
+        "Horizontal Boingy-boing",
+        "Houdini Mount",
+        "Brent"
+       ],
+       "category": "Yo-Yo Trick"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Split Jerk",
+        "Hang Snatch",
+        "Turkish Get-up",
+        "Box Jump",
+        "Air Squat",
+        "Thruster"
+       ],
+       "category": "CrossFit Exercise"
+      },
+      {
+       "answers": [
+        "Arabesque",
+        "Lasso Lift",
+        "Layback Spin",
+        "Lutz Jump",
+        "Russian Split Jump",
+        "Three Turn"
+       ],
+       "category": "Figure Skating Move"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Double Trapeze",
+        "Leg Wrap Trap",
+        "Behind-the-back Orbits",
+        "Pinwheel",
+        "Crazy 8",
+        "Brain Twister"
+       ],
+       "category": "Yo-Yo Trick"
+      },
+      {
+       "answers": [
+        "Camel Spin",
+        "Death Spiral",
+        "Haircutter Spin",
+        "Triple Axel",
+        "Rocker Turn",
+        "Shoot-the-duck"
+       ],
+       "category": "Figure Skating Move"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113530",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mongraal",
+        "TheGrefg",
+        "Tarik",
+        "Rubius",
+        "Ibai",
+        "Juansguarnizo"
+       ],
+       "category": "Popular Twitch Streamer"
+      },
+      {
+       "answers": [
+        "Lustigt",
+        "Stockholm",
+        "Skruvby",
+        "Varmblixt",
+        "Dejsa",
+        "Nordkisa"
+       ],
+       "category": "IKEA Product"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Jynxzi",
+        "Pokimane",
+        "Clix",
+        "Shroud",
+        "Alanzoka",
+        "Sykkuno"
+       ],
+       "category": "Popular Twitch Streamer"
+      },
+      {
+       "answers": [
+        "Rodian",
+        "Ewok",
+        "Zabrak",
+        "Anzellan",
+        "Wookiee",
+        "Sarlacc"
+       ],
+       "category": "Alien Species in [i]Star Wars[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Kallax",
+        "Tonstad",
+        "Smågöra",
+        "Vattenkar",
+        "Hauga",
+        "Vedbo"
+       ],
+       "category": "IKEA Product"
+      },
+      {
+       "answers": [
+        "Gungan",
+        "Togruta",
+        "Jawa",
+        "Hutt",
+        "Tauntaun",
+        "Nautolan"
+       ],
+       "category": "Alien Species in [i]Star Wars[/i]"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113541",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Hinterland",
+        "Rillington Place",
+        "Wolf Hall",
+        "Shetland",
+        "Virdee",
+        "Wisting"
+       ],
+       "category": "BBC Drama"
+      },
+      {
+       "answers": [
+        "Harrenhal",
+        "Moat Cailin",
+        "The Riverlands",
+        "The Crownlands",
+        "Winterfell",
+        "Horn Hill"
+       ],
+       "category": "Game of Thrones Location"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ridley Road",
+        "Poldark",
+        "Bannan",
+        "Campion",
+        "Granite Harbour",
+        "Middlemarch"
+       ],
+       "category": "BBC Drama"
+      },
+      {
+       "answers": [
+        "Tetley",
+        "Bigelow",
+        "Typhoo",
+        "Glengettie",
+        "Whittard",
+        "Tavalon"
+       ],
+       "category": "Brand of Tea"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tavalon",
+        "Casterly Rock",
+        "Pyke",
+        "Riverrun",
+        "Highgarden",
+        "Bear Island"
+       ],
+       "category": "Game of Thrones Location"
+      },
+      {
+       "answers": [
+        "Vahdam",
+        "Twinings",
+        "Yorkshire",
+        "Dilmah",
+        "Numi",
+        "Luzianne"
+       ],
+       "category": "Brand of Tea"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113584",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Corfu",
+        "Ithaca",
+        "Thera",
+        "Paxos",
+        "Samothrace"
+       ],
+       "category": "Greek Islands"
+      },
+      {
+       "answers": [
+        "Synopsys",
+        "Ansys",
+        "Okta",
+        "Kyndryl",
+        "Oracle"
+       ],
+       "category": "Major Software Companies"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gorgie",
+        "Solimo",
+        "Alani Nu",
+        "Oca",
+        "Ardor"
+       ],
+       "category": "Energy Drinks"
+      },
+      {
+       "answers": [
+        "Cythera",
+        "Salamis",
+        "Chios",
+        "Leucas",
+        "Kéa"
+       ],
+       "category": "Greek Islands"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Twilio",
+        "Splunk",
+        "Toast",
+        "Fiserv",
+        "Atlassian"
+       ],
+       "category": "Major Software Companies"
+      },
+      {
+       "answers": [
+        "Fast Twitch",
+        "Prime",
+        "Gorilla Mind",
+        "Jocko Go",
+        "Celsius"
+       ],
+       "category": "Energy Drinks"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "id": "113586",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Mappy",
+        "Tekken",
+        "Navarone",
+        "Rolling Thunder",
+        "Time Crisis"
+       ],
+       "category": "Namco Classic Arcade Games"
+      },
+      {
+       "answers": [
+        "Eartheater",
+        "Flight Facilities",
+        "Orbital",
+        "Skepta",
+        "Clown Core"
+       ],
+       "category": "2024 Coachella Festival Lineup"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sky Kid",
+        "Point Blank",
+        "Convoy",
+        "Blazer",
+        "Steel Gunner"
+       ],
+       "category": "Namco Classic Arcade Games"
+      },
+      {
+       "answers": [
+        "Tombstone",
+        "True Grit",
+        "The Shootist",
+        "Hud",
+        "Silver Lode"
+       ],
+       "category": "Western Films"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gorgon City",
+        "Taking Back Sunday",
+        "Black Country, New Road",
+        "Mandy, Indiana",
+        "feeble little horse"
+       ],
+       "category": "2024 Coachella Festival Lineup"
+      },
+      {
+       "answers": [
+        "The Magnificent Seven",
+        "Vera Cruz",
+        "A Fistful of Dollars",
+        "High Noon",
+        "The Wild Bunch"
+       ],
+       "category": "Western Films"
+      }
+     ]
+    }
+   ],
+   "theme": "DESERT"
+  },
+  {
+   "id": "113591",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Nutrish",
+        "Orijen",
+        "Diamond Naturals",
+        "Pedigree",
+        "Vital Essentials"
+       ],
+       "category": "Dog Food Labels"
+      },
+      {
+       "answers": [
+        "Kora Organics",
+        "Stripes",
+        "S’able Labs",
+        "Sienna Naturals",
+        "Rhode",
+        "Kind Science"
+       ],
+       "category": "Celebrity Beauty Brands"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "KSHMR",
+        "Topic",
+        "Black Coffee",
+        "Hardwell",
+        "R3HAB",
+        "Skrillex"
+       ],
+       "category": "Famous DJs"
+      },
+      {
+       "answers": [
+        "Goop",
+        "LolaVie",
+        "Homecourt",
+        "SKKN",
+        "The Outset"
+       ],
+       "category": "Celebrity Beauty Brands"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Eukanuba",
+        "Iams",
+        "Nutro",
+        "Ollie",
+        "Jinx"
+       ],
+       "category": "Dog Food Labels"
+      },
+      {
+       "answers": [
+        "Marshmello",
+        "Dubdogz",
+        "Pink Panda",
+        "W&W",
+        "Alok"
+       ],
+       "category": "Famous DJs"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113658",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Toncantins",
+        "Borneo",
+        "Caramoan",
+        "Palau",
+        "Vanuatu",
+        "Fiji"
+       ],
+       "category": "[i]Survivor[/i] Season Location"
+      },
+      {
+       "answers": [
+        "Solana",
+        "Cardano",
+        "Toncoin",
+        "Monero",
+        "Shiba Inu",
+        "Aptos"
+       ],
+       "category": "Cryptocurrency"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Gabon",
+        "Kaôh Rōng",
+        "Cagayan",
+        "San Juan del Sur",
+        "Cook Islands",
+        "Marquesas"
+       ],
+       "category": "[i]Survivor[/i] Season Location"
+      },
+      {
+       "answers": [
+        "Reale",
+        "Jungsik",
+        "Le Palais",
+        "Lasarte",
+        "L’Ambroisie",
+        "Maaemo"
+       ],
+       "category": "Three-Star Michelin Restaurant"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Ethereum",
+        "BNB",
+        "Polkadot",
+        "Hyperliquid",
+        "Avalanche",
+        "Bitcoin"
+       ],
+       "category": "Cryptocurrency"
+      },
+      {
+       "answers": [
+        "Providence",
+        "Alinea",
+        "Sorn",
+        "Quintessence",
+        "Geranium",
+        "Noma"
+       ],
+       "category": "Three-Star Michelin Restaurant"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113790",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Summer of Soul",
+        "Man On Wire",
+        "Grey Gardens",
+        "The Cave",
+        "Spellbound",
+        "Searching for Sugar Man"
+       ],
+       "category": "Oscar-nominated Documentary"
+      },
+      {
+       "answers": [
+        "The Cat in a Shopping Bag",
+        "A Man Who Lived in Leeds",
+        "Somebody Fell From Aloft",
+        "The Bad News",
+        "What Do You Come For?",
+        "The Red Spot"
+       ],
+       "category": "A Scary Story to Tell in the Dark"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Exit Through the Gift Shop",
+        "My Octopus Teacher",
+        "Food, Inc.",
+        "Sicko",
+        "Waste Land",
+        "Super Size Me"
+       ],
+       "category": "Oscar-nominated Documentary"
+      },
+      {
+       "answers": [
+        "Amish Paradise",
+        "Headline News",
+        "Christmas at Ground Zero",
+        "Trapped in the Drive-Thru",
+        "First World Problems",
+        "Word Crimes"
+       ],
+       "category": "A Weird Al Song"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Wonderful Sausage",
+        "The Hearse Song",
+        "May I Carry Your Basket?",
+        "A New Horse",
+        "The Babysitter",
+        "Cemetery Soup"
+       ],
+       "category": "A Scary Story to Tell in the Dark"
+      },
+      {
+       "answers": [
+        "Handy",
+        "I Can’t Watch This",
+        "Pancreas",
+        "Ricky",
+        "Toothless People",
+        "The White Stuff"
+       ],
+       "category": "A Weird Al Song"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY"
+  },
+  {
+   "id": "113795",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Deck",
+        "Bear Brook",
+        "Betrayal",
+        "Bone Valley",
+        "Welcome to Your Fantasy",
+        "A Little Wicked"
+       ],
+       "category": "True Crime Podcast"
+      },
+      {
+       "answers": [
+        "Are You the One?",
+        "Mr. Personality",
+        "Outback Jack",
+        "Forever Eden",
+        "The One That Got Away",
+        "It Takes a Church"
+       ],
+       "category": "Reality Dating Show"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Swan",
+        "Farmer Wants a Wife",
+        "Daisy of Love",
+        "What Chili Wants",
+        "Love Village",
+        "Momma’s Boys"
+       ],
+       "category": "Reality Dating Show"
+      },
+      {
+       "answers": [
+        "Valentine, Oh, Valentine",
+        "The Queen of Hearts",
+        "Hot Cross Buns",
+        "Bow-Wow-Wow",
+        "Dance to Your Daddy",
+        "The Turtle Dove’s Nest"
+       ],
+       "category": "Mother Goose Poem"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Cry, Baby, Cry",
+        "Jack Be Nimble",
+        "The House That Jack Built",
+        "There Was a Crooked Man",
+        "The Great Brown Owl",
+        "Poor Dog Bright"
+       ],
+       "category": "Mother Goose Poem"
+      },
+      {
+       "answers": [
+        "Sword and Scale",
+        "Rotten Mango",
+        "And That’s Why We Drink",
+        "Something Was Wrong",
+        "The Bakersfield Three",
+        "Run, Fool!"
+       ],
+       "category": "True Crime Podcast"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "113829",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Moses",
+        "Napoleon",
+        "Boxer",
+        "Minimus",
+        "Bluebell"
+       ],
+       "category": "[i]Animal Farm[/i] Character"
+      },
+      {
+       "answers": [
+        "Peacock",
+        "Acorn",
+        "Stan",
+        "Philo",
+        "Mango"
+       ],
+       "category": "Streaming Service"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Old Major",
+        "Squealer",
+        "Benjamin",
+        "Clover",
+        "Mr. Whymper"
+       ],
+       "category": "[i]Animal Farm[/i] Character"
+      },
+      {
+       "answers": [
+        "Lucky",
+        "Sonny",
+        "Cookie Jarvis",
+        "Cornelius Rooster",
+        "Chip the Dog"
+       ],
+       "category": "Cereal Mascot"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Crave",
+        "Binge",
+        "Nebula",
+        "Aha",
+        "Starz"
+       ],
+       "category": "Streaming Service"
+      },
+      {
+       "answers": [
+        "Buzz",
+        "Snap",
+        "Bigg Mixx",
+        "Dig ‘Em",
+        "Coco"
+       ],
+       "category": "Cereal Mascot"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113833",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Silo",
+        "Servant",
+        "Murderbot",
+        "Surface",
+        "See",
+        "Echo 3"
+       ],
+       "category": "Apple TV Series"
+      },
+      {
+       "answers": [
+        "Newton",
+        "Cyberdog",
+        "Airport",
+        "Copland",
+        "Time Capsule"
+       ],
+       "category": "Discontinued Apple Product"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Palm Royale",
+        "Acapulco",
+        "Bad Monkey",
+        "Monarch",
+        "Dickinson",
+        "Pachinko"
+       ],
+       "category": "Apple TV Series"
+      },
+      {
+       "answers": [
+        "Pink Lady",
+        "Braeburn",
+        "Spartan",
+        "Northern Spy",
+        "Gravenstein"
+       ],
+       "category": "Type of Apple"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Lisa",
+        "Pippin",
+        "Ping",
+        "Round Mouse",
+        "Xserve"
+       ],
+       "category": "Discontinued Apple Product"
+      },
+      {
+       "answers": [
+        "Spartan",
+        "Gala",
+        "Ambrosia",
+        "SweeTango",
+        "Idared",
+        "Jazz"
+       ],
+       "category": "Type of Apple"
+      }
+     ]
+    }
+   ],
+   "theme": "FOREST"
+  },
+  {
+   "id": "114055",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "VSX",
+        "PINK",
+        "Signature",
+        "Bombshell",
+        "Rapture"
+       ],
+       "category": "Victoria’s Secret product name"
+      },
+      {
+       "answers": [
+        "Jitterbug",
+        "Mate",
+        "Edge",
+        "Galaxy",
+        "Chocolate"
+       ],
+       "category": "Model of Cellular Phone"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Cricket",
+        "Firefly",
+        "Soul",
+        "Wave",
+        "Pixel"
+       ],
+       "category": "Model of Cellular Phone"
+      },
+      {
+       "answers": [
+        "Skinamarink",
+        "Grimcutty",
+        "Cuckoo",
+        "Pooka!",
+        "Companion"
+       ],
+       "category": "Horror Film on Hulu"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Tease",
+        "Dream Angels",
+        "Insatiable",
+        "Temptation",
+        "Secret Dream"
+       ],
+       "category": "Victoria’s Secret product name"
+      },
+      {
+       "answers": [
+        "Little Monsters",
+        "Appendage",
+        "Matriarch",
+        "Fresh",
+        "Run"
+       ],
+       "category": "Horror Film on Hulu"
+      }
+     ]
+    }
+   ],
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "countrySpecific": true,
+   "id": "114080",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Bad Medicine",
+        "Cherry Pie",
+        "Dr. Feelgood",
+        "November Rain",
+        "Fantasy",
+        "Naughty Naughty"
+       ],
+       "category": "Song Played on Hair Nation"
+      },
+      {
+       "answers": [
+        "Swagger",
+        "Timber",
+        "Prestige",
+        "Wolfthorn",
+        "Oasis",
+        "Aqua Reef"
+       ],
+       "category": "Old Spice Scent"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Black Clover",
+        "Fire Force",
+        "Bleach",
+        "Wind Breaker",
+        "Berserk",
+        "Chainsaw Man"
+       ],
+       "category": "Anime on Crunchyroll"
+      },
+      {
+       "answers": [
+        "Pure Sport",
+        "Deep Sea",
+        "Steel Titan",
+        "Raptorstrike",
+        "Krakengard",
+        "Sunrise"
+       ],
+       "category": "Old Spice Scent"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Lord of Mysteries",
+        "Demon Slayer",
+        "Hellsing",
+        "My Dress-Up Darling",
+        "The Seven Deadly Sins",
+        "A Condition Called Love"
+       ],
+       "category": "Anime on Crunchyroll"
+      },
+      {
+       "answers": [
+        "The Final Countdown",
+        "Youth Gone Wild",
+        "Jet City Woman",
+        "Heaven’s on Fire",
+        "Modern Day Cowboy",
+        "Too Young to Fall in Love"
+       ],
+       "category": "Song Played on Hair Nation"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "114084",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Totem of Undying",
+        "Bottle O’Enchanting",
+        "Nether Star",
+        "Phantom Membrane",
+        "End Crystal",
+        "Blaze Rod"
+       ],
+       "category": "Minecraft Item"
+      },
+      {
+       "answers": [
+        "Cosmic Control Rod",
+        "Casket of Ancient Winters",
+        "All-Black the Necrosword",
+        "Cosmic Cube",
+        "Eye of Agamotto",
+        "Stormbreaker"
+       ],
+       "category": "Fictional Object in Marvel Comics"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sand Cloud",
+        "Stasher Bag",
+        "Clean Cube",
+        "UniKey",
+        "Mission Belt",
+        "The Bouqs"
+       ],
+       "category": "Shark Tank Invention"
+      },
+      {
+       "answers": [
+        "Lava Bucket",
+        "Knowledge Book",
+        "Chorus Fruit",
+        "Cherry Boat",
+        "Ender Chest",
+        "Dragon’s Breath"
+       ],
+       "category": "Minecraft Item"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Madbomb",
+        "Ultimate Nullifier",
+        "Quantum Bands",
+        "Life Model Decoy",
+        "Time Platform",
+        "Unstable Molecules"
+       ],
+       "category": "Fictional Object in Marvel Comics"
+      },
+      {
+       "answers": [
+        "Ionic Ear",
+        "RoloDoc",
+        "The Sullivan Generator",
+        "LIFTiD Neurostimulation",
+        "Monosuit",
+        "DomeDock"
+       ],
+       "category": "Shark Tank Invention"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114085",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Chalkzone",
+        "Pig Goat Banana Cricket",
+        "Middlemost Post",
+        "Mr. Meaty",
+        "Just for Kicks",
+        "Game Shakers"
+       ],
+       "category": "Show on Nickelodeon"
+      },
+      {
+       "answers": [
+        "Psycho Bunny",
+        "ClimbZone",
+        "Adopt Me",
+        "Ubetcha!",
+        "Free People",
+        "Master Noodle"
+       ],
+       "category": "Business in Mall of America"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Big Nate",
+        "Victorious",
+        "Marvin Marvin",
+        "Sunny Day",
+        "T.U.F.F. Puppy",
+        "Catscratch"
+       ],
+       "category": "Show on Nickelodeon"
+      },
+      {
+       "answers": [
+        "Early Girl",
+        "Better Boy",
+        "Juliet",
+        "Celebrity",
+        "Green Giant",
+        "Mr. Stripey"
+       ],
+       "category": "Type of Tomato"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Buckle",
+        "Zara",
+        "Squishable",
+        "True Classic",
+        "Mochinut",
+        "Pepper Palace"
+       ],
+       "category": "Business in Mall of America"
+      },
+      {
+       "answers": [
+        "Jersey Boy",
+        "Super Sweet 100",
+        "Sungold",
+        "Midnight Roma",
+        "Gardener’s Delight",
+        "Brandywine"
+       ],
+       "category": "Type of Tomato"
+      }
+     ]
+    }
+   ],
+   "theme": "FOREST"
+  },
+  {
+   "countrySpecific": true,
+   "id": "114088",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "The Great Indoors",
+        "Dads",
+        "My Mother the Car",
+        "Cavemen",
+        "Cupid",
+        "Bad Judge"
+       ],
+       "category": "TV Comedy (With Just One Season)"
+      },
+      {
+       "answers": [
+        "The War with Grandpa",
+        "Like a Boss",
+        "Wish Upon",
+        "Old Dogs",
+        "Chappie",
+        "The Love Guru"
+       ],
+       "category": "Movie (with One-Star Critical Review)"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Angel from Hell",
+        "Hope & Faith",
+        "We Are Men",
+        "Sit Down, Shut Up",
+        "Work It!",
+        "One Big Happy"
+       ],
+       "category": "TV Comedy (with Just One Season)"
+      },
+      {
+       "answers": [
+        "Lovefool",
+        "Me and Mrs. Jones",
+        "How Do You Talk to an Angel?",
+        "Two of Hearts",
+        "Mickey",
+        "What’s Up"
+       ],
+       "category": "Song (That’s a One-Hit Wonder)"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Borderlands",
+        "Sweet November",
+        "Angel Has Fallen",
+        "Bright",
+        "Jack Frost",
+        "Just Go With It"
+       ],
+       "category": "Movie (with One-Star Critical Review)"
+      },
+      {
+       "answers": [
+        "Spirit in the Sky",
+        "I Know What Boys Like",
+        "In a Big Country",
+        "Barbie Girl",
+        "Just a Friend",
+        "Genius of Love"
+       ],
+       "category": "Song (That’s a One-Hit Wonder)"
+      }
+     ]
+    }
+   ],
+   "theme": "DESERT"
+  }
+ ]
+}
