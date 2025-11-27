@@ -21,7 +21,7 @@
    },
    "familiarity": "FRIENDS",
    "id": "112196",
-   "question": "Lequel aurait le poids le plus satisfaisant pour frapper quelqu'un à la tête ?",
+   "question": "Lequel de ces objets serait le plus satisfaisant pour frapper quelqu'un à la tête ?",
    "starterContent": false
   },
   {
@@ -47,7 +47,7 @@
    },
    "familiarity": "STRANGERS",
    "id": "112197",
-   "question": "Quand je vole - je veux dire visite - un musée, je me dirige vers...",
+   "question": "Quand je vole - je veux dire visite - un musée, je me dirige vers les...",
    "starterContent": true
   },
   {
@@ -64,7 +64,7 @@
     "title": [
      "Regardez des deux côtés avant de renverser",
      "Meurtre à plus de 20KM/H",
-     "Road Trip... Vers Murderville",
+     "Road Trip... Vers Meurtreville",
      "Rapide et Meurtrier"
     ]
    },
@@ -81,7 +81,7 @@
     "Une Tarantule",
     "Un Hippopotame nain",
     "Un Koala",
-    "Un Monstre de Gila"
+    "Un Dragon de Komodo"
    ],
    "crime": {
     "description": "D'{{SELECTION}} du zoo",
@@ -107,7 +107,7 @@
     "Un haltère"
    ],
    "crime": {
-    "description": "A frappé quelqu'un avec un {{SELECTION}}",
+    "description": "A frappé quelqu'un avec {{SELECTION}}",
     "offense": "COUP MORTEL",
     "summary": "COUP AVEC : {{SELECTION}}",
     "title": [
@@ -117,7 +117,7 @@
    },
    "familiarity": "FRIENDS",
    "id": "112200",
-   "question": "Juste par curiosité, lequel de ces objets suivants avez-vous chez vous ?",
+   "question": "Juste par curiosité, lequel de ces objets avez-vous chez vous ?",
    "starterContent": true
   },
   {
@@ -131,7 +131,7 @@
     "Le Vatican"
    ],
    "crime": {
-    "description": "A volé à sa cible : {{SELECTION}}",
+    "description": "A volé dans ce lieu : {{SELECTION}}",
     "offense": "CAMBRIOLAGE",
     "summary": "VOL : {{SELECTION}}",
     "title": [
@@ -148,11 +148,11 @@
   {
    "choices": [
     "Shrek",
-    "Shrek II",
-    "Shrek le Troisième",
-    "Shrek : Il Était Une Fois",
-    "Le chat botté",
-    "Le chat botté : Le Dernier Souhait"
+    "Shrek 2",
+    "Shrek le troisième",
+    "Shrek 4 : Il était une fin",
+    "Le Chat potté",
+    "Le Chat potté 2 : La Dernière Quête"
    ],
    "crime": {
     "description": "Téléchargement illégal de {{SELECTION}}",
@@ -160,7 +160,7 @@
     "summary": "TÉLÉCHARGÉ : {{SELECTION}}",
     "title": [
      "Tout droit pris de Netflix",
-     "Quelqu'un m'a dit un jour..."
+     "Somebody once told me..."
     ]
    },
    "familiarity": "FRIENDS",
@@ -175,7 +175,7 @@
     "Un Coffre-Fort",
     "Un Flipper",
     "Un Boulet de Canon",
-    "Un Anvil ACME",
+    "Une enclume d'ACME",
     "Un Cercueil",
     "Un Lit King-Size"
    ],
@@ -217,7 +217,7 @@
   },
   {
    "choices": [
-    "Un scorpion",
+    "Un Scorpion",
     "Une Grenouille Venimeuse",
     "Un Cobra",
     "Une Veuve Noire",
@@ -260,7 +260,7 @@
    },
    "familiarity": "FRIENDS",
    "id": "112207",
-   "question": "Lequel de ces espaces (inoccupés) aimeriez-vous le plus brûler ?",
+   "question": "Lequel de ces espaces (inoccupés bien évidemment) aimeriez-vous le plus brûler ?",
    "starterContent": true
   },
   {
@@ -272,7 +272,7 @@
     "Un discours politique"
    ],
    "crime": {
-    "description": "Dessin d'{{SELECTION}} sur un mur de toilettes publiques",
+    "description": "Graffiti d'{{SELECTION}} sur un mur de toilettes publiques",
     "offense": "VANDALISME",
     "summary": "GRAFFITI: {{SELECTION}}",
     "title": [
@@ -303,7 +303,7 @@
      "Et avec 3 grammes dans le sang",
      "Justice dans le rétroviseur",
      "Mais monsieur l'agent, je faisais sécher ma voiture !",
-     "Surement habité par l'esprit de Michael Schumacher",
+     "Sûrement habité par l'esprit de Michael Schumacher",
      "Ca doit être le vent qui l'a poussé"
     ]
    },
@@ -396,9 +396,9 @@
     "Beyoncé"
    ],
    "crime": {
-    "description": "Impersonation de {{SELECTION}}",
+    "description": "Usurpation de {{SELECTION}}",
     "offense": "VOL D'IDENTITÉ",
-    "summary": "IMPERSONNÉ : {{SELECTION}}",
+    "summary": "USURPÉ : {{SELECTION}}",
     "title": [
      "Nous Sommes Ce Que Nous Prétendons Voler",
      "C'est Une Vie Volée Merveilleuse",
@@ -412,16 +412,16 @@
   },
   {
    "choices": [
-    "Du Liquide lave-glace",
+    "Du Liquide Lave-glace",
     "De l'Eau de Javel",
-    "Du Dissolvant pour vernis à ongles",
-    "Du Répulsif à insectes",
+    "Du Dissolvant pour Vernis à Ongles",
+    "Du Répulsif à Insectes",
     "Du Vernis",
     "De l'Antigel",
-    "De l'Huile pour moteur"
+    "De l'Huile pour Moteur"
    ],
    "crime": {
-    "description": "Victime traitée avec {{SELECTION}}",
+    "description": "Victime tuée avec {{SELECTION}}",
     "offense": "EMPOISONNEMENT",
     "summary": "POISON : {{SELECTION}}",
     "title": [
@@ -446,7 +446,7 @@
     "Une lame de ciseaux"
    ],
    "crime": {
-    "description": "Avec {{SELECTION}} vraiment bien aiguisé",
+    "description": "Avec {{SELECTION}} vraiment bien aiguisé(e)",
     "offense": "MEURTRE",
     "summary": "MEURTRE AVEC : {{SELECTION}}",
     "title": [
@@ -461,7 +461,7 @@
   },
   {
    "choices": [
-    "Une voiture... normale",
+    "Une voiture... normale quoi",
     "Un jet privé",
     "Une montgolfière",
     "Une voiture de sport",
@@ -494,11 +494,11 @@
    ],
    "crime": {
     "description": "Dans le magasin préféré du criminel : Un {{SELECTION}}",
-    "offense": "PETIT VOL",
+    "offense": "LARÇIN",
     "summary": "VOL DANS : UN {{SELECTION}}",
     "title": [
      "Il s'en ait mis plein les poches",
-     "Ré-inventant le shopping"
+     "Ré-inventer le shopping"
     ]
    },
    "familiarity": "FRIENDS",
@@ -512,7 +512,7 @@
     "Babouche le singe",
     "Bugs Bunny",
     "Sandy de Bob l'éponge",
-    "Le chat botté"
+    "Le Chat Potté"
    ],
    "crime": {
     "description": "A frappé sa cible favorite : {{SELECTION}}",
@@ -543,7 +543,7 @@
     "offense": "CHAT-NAPPING",
     "summary": "CHAT-NAPPÉ : {{SELECTION}}",
     "title": [
-     "Surement en train de faire ses griffes sur un canapé"
+     "Probablement en train de faire ses griffes sur un canapé"
     ]
    },
    "familiarity": "FRIENDS",
@@ -783,7 +783,7 @@
    ],
    "crime": {
     "description": "Homicide durable, en utilisant uniquement {{SELECTION}}",
-    "offense": "ECO-CRIME",
+    "offense": "ÉCO-CRIME",
     "summary": "MEURTRE NATUREL AVEC : {{SELECTION}}",
     "title": [
      "Mère nature... rencontre Père terreur",
@@ -807,7 +807,7 @@
    ],
    "crime": {
     "description": "Avec son arme de prédilection, {{SELECTION}}",
-    "offense": "COUP LITTÉRAIRE",
+    "offense": "AGRESSION LITTÉRAIRE",
     "summary": "Frappé par {{SELECTION}}",
     "title": [
      "La fin va vous faire mourir",
