@@ -92,7 +92,7 @@
     },
     {
      "choices": [
-      "Aucun des deux"
+      "Je suis ambidextre"
      ],
      "finding": "Le coupable se vante car il est {{RED}}ambidextre.",
      "summary": "MAINS: {{RED}}AMBIDEXTRE"

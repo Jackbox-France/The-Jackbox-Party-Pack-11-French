@@ -1,471 +1,465 @@
 {
- "content": [
-  {
-   "barksIntro": [
-    "Oh my gosh, you're open?? This place is NEVER open. Like, EVER.",
-    "You're open! I saw your roof on fire last week and thought the worst!",
-    "Hey! Back in business, eh? Guess the fight club in your basement disbanded!"
-   ],
-   "barksNegative": [
-    "Blech. Don't quit your day job. Oh, this IS your day job? Uh-oh.",
-    "Oh! Well, I'm sure this is SOMEONE'S dream cookie!",
-    "This makes me want to toss MY cookies. May I vomit in your sink?"
-   ],
-   "barksNeutral": [
-    "This is a perfectly fine cookie. My fault for having expectations!",
-    "This cookie is pretty good! A little \"meh,\" but still good!",
-    "Well! This is definitely a cookie. Thanks?"
-   ],
-   "barksPositive": [
-    "This is amazing! You should trade your goods for money more often!",
-    "WOW! It's just what I wanted! I hope you stay open FOREVER!",
-    "Delicious AND inspiring! Please, never close again!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "Guess I gotta get something while I can! I'd like a cookie like this:",
-    "Suppose I gotta grab a cookie while it's hot! How about something like this:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "112513",
-   "key": "Capybara",
-   "name": "Carrie Bara",
-   "redrawBarksIntro": [
-    "I'm back and I'm BORED. Entertain me with your labor!!!",
-    "I'm back! Look, I'm a regular double-dipper! I've got double D's!"
-   ],
-   "redrawBarksNegative": [
-    "Fool me once, shame on me. Fool me twice, your cookie SUCKS."
-   ],
+  "content": [
+    {
+      "barksIntro": [
+        "Oh mon dieu, vous êtes ouvert ?? Cet endroit n'est JAMAIS ouvert. Genre, jamais.",
+        "Vous êtes ouvert ! J'ai vu votre toit en feu la semaine dernière, je croyais que tout était perdu !",
+        "Hé ! De retour en affaires, hein ? J'imagine que votre club de combat au sous-sol a enfin fermé !"
+      ],
+      "barksNegative": [
+        "Beurk. Ne quittez surtout pas votre job principal. Oh, c'est ça votre job principal ? Ah...",
+        "Oh ! Eh bien, je suis sûr que c'est le cookie dont quelqu'un rêve... quelque part.",
+        "Ça me donne presque envie de vomir. Je peux utiliser votre évier, ou...?"
+      ],
+      "barksNeutral": [
+        "C'est un cookie tout à fait correct. C'est ma faute d'avoir eu des attentes !",
+        "Ce cookie est plutôt bon ! Un peu \"bof\", mais quand même bon !",
+        "Eh bien ! C'est définitivement un cookie. Merci...?"
+      ],
+      "barksPositive": [
+        "C'est incroyable ! Vous devriez échanger vos créations contre de l'argent plus souvent !",
+        "WOW ! C'est exactement ce que je voulais ! J'espère que vous resterez ouvert POUR TOUJOURS !",
+        "Délicieux ET inspirant ! S'il vous plaît, ne fermez plus jamais !"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Bon, il faut que je prenne quelque chose tant que je le peux ! Je voudrais un cookie comme ceci :",
+        "Je suppose que je dois en attraper un tant qu'il est chaud ! Je voudrais quelque chose comme ceci :"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112513",
+      "key": "Capybara",
+      "name": "Carrie Bara",
+      "redrawBarksIntro": [
+        "Je suis de retour et je m'ENNUIE. Divertissez-moi avec votre labeur !!!",
+        "Me revoilà ! Regardez, je suis une habituée qui revient deux fois ! Double dose pour moi !"
+      ],
    "redrawBarksNeutral": [
-    "I suppose my ask was too much. I commend you for your efforts!",
-    "A decent job! Not exactly a revelation, but we can't all be Mozart!"
-   ],
-   "redrawBarksPositive": [
-    "Wow! Why didn't you make it this good the first time??",
-    "You've made this cookie positively ethereal! Excellent work!"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "I want you to take this cookie you gave me, and give it this vibe:",
-    "I need a cookie that's kinda like what you did before, except more like this:"
-   ],
+  "Je suppose que ma demande était un peu trop ambitieuse. Je vous félicite pour vos efforts !",
+  "Un travail correct ! Pas vraiment une révélation, mais bon, on ne peut pas tous être Mozart !"
+],
+"redrawBarksPositive": [
+  "Wow ! Pourquoi vous n'avez pas fait aussi bien dès le début ??",
+  "Vous avez rendu ce cookie carrément éthéré ! Excellent travail !"
+],
+"redrawBarksReceived": [],
+"redrawBarksSetup": [
+  "Je voudrais que vous preniez ce cookie que vous m'avez donné, et que vous lui donniez cette ambiance :",
+  "J'ai besoin d'un cookie un peu comme celui que vous aviez fait avant, mais plus comme ceci :"
+],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
   {
-   "barksIntro": [
-    "Amazing energy here! Would you mind if I charged my crystals in your walk-in?",
-    "Wow! What a great spot to kick back, have a bite, and play guitar for five hours.",
-    "Let's do a trade! You give me a cookie, and I'll give you a pamphlet on raw milk."
-   ],
-   "barksNegative": [
-    "This cookie stinks! I'll unplug my electric van from your wall and be on my way!",
-    "A malevolent energy has entered the world through this cookie. Run! RUN!!!"
-   ],
-   "barksNeutral": [
-    "Not sure how to feel about this cookie. Let me meditate on it for a fortnight or two.",
-    "I don't fully vibe with this cookie. Are you a Scorpio rising? Ah, that's why."
-   ],
-   "barksPositive": [
-    "Stellar! This presumably-vegan cookie is a DREAM!",
-    "This cookie is so good it's changed my entire worldview. Capitalism rules!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "While I was lucid dreaming, I saw a cookie in my future. It was something like this:",
-    "I need to cleanse my aura with a cookie. A cookie with energy like this:",
-    "We are Mother Nature's children, so be a good sibling and make me a cookie like this:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "112916",
-   "key": "HippyGal",
-   "name": "Holista Hemp",
-   "redrawBarksIntro": [
-    "I'm back! Actually, I never left. Did you know that vans need gas to run? Who knew!",
-    "A spirit told me I would come back to this place someday. 'Cause I left my charger here!"
-   ],
-   "redrawBarksNegative": [
-    "Gross. I wouldn't even give this cookie to my worst past life."
-   ],
-   "redrawBarksNeutral": [
-    "Thank you for the gift of effort. The mediocrity in me sees the mediocrity in you.",
-    "Hm. I wouldn't eat this, but I'd at least give it to one of my past lives!"
-   ],
-   "redrawBarksPositive": [
-    "You did such an amazing job! You HAVE to cater my next cult meeting!"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "Why don't you put on some panflute music, take an old cookie, and add this to it:",
-    "I want your inner child to come forth to remake some old cookies, but with THIS vibe:"
-   ],
+  "barksIntro": [
+    "Quelle énergie incroyable ici ! Ça vous dérangerait si je rechargeais mes cristaux dans votre débarras ?",
+    "Wow ! Quel endroit parfait pour se détendre, grignoter un truc et jouer de la guitare pendant cinq heures.",
+    "Faisons un échange ! Vous me donnez un cookie, et je vous donne un livret sur le lait cru."
+  ],
+  "barksNegative": [
+    "Ce cookie est affreux ! Je vais débrancher mon van électrique de votre mur et filer d'ici !",
+    "Une énergie malveillante a pénétré dans le monde à travers ce cookie. Fuyez ! FUYEZ !!!"
+  ],
+  "barksNeutral": [
+    "Je ne sais pas trop quoi penser de ce cookie. Laissez-moi méditer dessus une quinzaine de jours.",
+    "Je ne ressens pas totalement la vibe de ce cookie. Vous êtes ascendant Scorpion ? Ah, voilà."
+  ],
+  "barksPositive": [
+    "Stellaire ! Ce cookie présumément vegan est un RÊVE !",
+    "Ce cookie est tellement bon qu'il a changé toute ma vision du monde. Vive le capitalisme !"
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "Pendant un rêve lucide, j'ai vu un cookie dans mon futur. Il ressemblait à ceci :",
+    "J'ai besoin de purifier mon aura avec un cookie. Un cookie avec une énergie comme celle-ci :",
+    "Nous sommes les enfants de Mère Nature, alors soyez un bon frère/une bonne sœur et faites-moi un cookie comme ceci :"
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "112916",
+  "key": "HippyGal",
+  "name": "Holista Hemp",
+  "redrawBarksIntro": [
+    "Je suis de retour ! En fait, je ne suis jamais vraiment partie. Saviez-vous que les vans ont besoin d'essence pour rouler ? Qui l'aurait cru !",
+    "Un esprit m'a dit que je reviendrais ici un jour. Enfin… surtout parce que j'ai oublié mon chargeur !"
+  ],
+  "redrawBarksNegative": [
+    "Beurk. Je ne donnerais même pas ce cookie à ma pire vie antérieure."
+  ],
+  "redrawBarksNeutral": [
+    "Merci pour ce cadeau d'effort. La médiocrité en moi reconnaît la médiocrité en vous.",
+    "Hm. Je ne mangerais pas ça, mais je l'offrirais au moins à l'une de mes vies antérieures !"
+  ],
+  "redrawBarksPositive": [
+    "Vous avez fait un travail incroyable ! Vous DEVEZ absolument assurer le service de mon prochain rassemblement de culte !"
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "Pourquoi ne mettriez-vous pas un peu de musique de flûte de pan, prendre un vieux cookie, et y ajouter ceci :",
+    "Je veux que votre enfant intérieur ressorte pour refaire d'anciens cookies, mais avec CETTE vibe :"
+  ]
+},
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
    "type": "FIRST",
    "weights": "DEFAULT"
   },
   {
-   "barksIntro": [
-    "G'day, friends! I'd love to get a treat for my sheilas here!",
-    "Well , I'll be a wallaby's widow...you're open!",
-    "You're open! And I thought this place had gone the way of the dodo!"
-   ],
-   "barksNegative": [
-    "You've let me down. I may just leave a viper or two here to teach you a lesson."
-   ],
-   "barksNeutral": [
-    "You tried! And trying is just a seven letters away from succeeding! G'day!",
-    "Looks like the dogs haven't eaten my palm...because I'm NOT leaving empty-handed!"
-   ],
-   "barksPositive": [
-    "Excellent! I've gotta tell all 1,201 of my tarantulas about this place!",
-    "Well drown me in a billabong...this is amazing! Thanks!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "While I give my snakes a walk, why don't you wrestle me up a biscuit like this:",
-    "Old Chompy here has a hankerin' for a sweet treat, perhaps like this:",
-    "Wranglin' all day makes me hungry! Why don't you whip up somethin' like this:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "112917",
-   "key": "Zookeeper",
-   "name": "Chip Brisbane",
-   "redrawBarksIntro": [
-    "I'm back! Say, did you see an enormous scorpion scuttle through here? No? Well, you will!",
-    "G'day, again! We're out of raw, stinkin' meat for the lions, so I figured this was the next best thing!"
-   ],
-   "redrawBarksNegative": [
-    "Blech! I'm gonna get this place shut down for cruelty to an animal...me!"
-   ],
-   "redrawBarksNeutral": [
-    "Hmm. Perhaps I didn't explain well. The cockatoos DO say I need to work on my soft skills.",
-    "This isn't fit for a dog's dinner! And I make GOOD dog dinners!"
-   ],
-   "redrawBarksPositive": [
-    "Crikey, what a confection! Thanks!",
-    "Ripper, take a look at this 'beaut! We gotta tell the whole zoo!"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "I want you to take a cookie that I was gonna bin, and try doing this:",
-    "I've got a great idea about how to sickify your wares. Take and old cookie, and do THIS:"
-   ],
-   "shapes": "DEFAULT",
-   "sprinkleTypes": "DEFAULT",
-   "type": "FIRST",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"B'jour, mes amis ! J'aimerais prendre une petite douceur pour mes sheilas, là !\"",
+    "« Eh bien, que je devienne veuve d’un wallaby… vous êtes ouvert ! »",
+    "\"Vous êtes ouvert ! Et dire que je pensais que cet endroit avait disparu comme le dodo !\""
+  ],
+  "barksNegative": [
+    "\"Vous m'avez déçu. Je pourrais bien laisser traîner une vipère ou deux ici, histoire de vous donner une leçon.\""
+  ],
+  "barksNeutral": [
+    "\"Vous avez essayé ! Et essayer n’est qu’à trois lettres de réussir ! R'voir !\"",
+    "\"On dirait que les chiens n’ont pas mangé ma paume… parce que je repars PAS les mains vides !\""
+  ],
+  "barksPositive": [
+    "\"Excellent ! Faut que je raconte ça à mes 1 201 mygales !\"",
+    "\"Eh bien noyez-moi dans un billabong… c’est incroyable ! Merci !\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"Pendant que je promène mes serpents, pourquoi ne me prépareriez-vous pas un biscuit comme ceci :\"",
+    "\"Vieux Chompy, ici présent, a une envie de sucrerie… peut-être quelque chose comme ceci :\"",
+    "\"Passer la journée à maîtriser des bestioles, ça creuse ! Préparez-moi donc un truc comme ça :\""
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "112917",
+  "key": "Zookeeper",
+  "name": "Chip Brisbane",
+  "redrawBarksIntro": [
+    "\"Je suis de retour ! Dites, vous n’auriez pas vu un énorme scorpion filer par ici ? Non ? Eh bien, vous le verrez !\"",
+    "\"B'jour encore ! On n’a plus de viande fraîche et bien puante pour les lions, alors je me suis dit que ça serait la meilleure alternative !\""
+  ],
+  "redrawBarksNegative": [
+    "\"Beurk ! Je vais faire fermer cet endroit pour cruauté envers un animal… moi !\""
+  ],
+  "redrawBarksNeutral": [
+    "\"Hmm. Peut-être que je ne me suis pas bien expliqué. Les cacatoès disent toujours que je dois travailler mes compétences sociales.\"",
+    "\"Ce n’est même pas digne de servir de dîner à un chien ! Et je fais de TRÈS bons dîners pour chiens !\""
+  ],
+  "redrawBarksPositive": [
+    "\"Crikey, quelle douceur ! Merci !\"",
+    "\"Ripper, regardez-moi cette 'beaut ! Faut prévenir tout le zoo !\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"Je veux que vous preniez un cookie que j’allais balancer, et que vous essayiez de faire ceci :\"",
+    "\"J’ai une super idée pour rendre vos biscuits complètement dingues. Prenez un vieux cookie, et faites ÇA :\""
+  ]
+},
   {
-   "barksIntro": [
-    "Behold! In all his glory....your Ultimate Customer has arrived!",
-    "Greetings! Render your wares unto me, while my mom parks the car!",
-    "Cookiemakers! Do you dare tempt my ursine palette with your FEEBLE confectioning?"
-   ],
-   "barksNegative": [
-    "Terrible cookie. The mods are going to hear about this!"
-   ],
-   "barksNeutral": [
-    "Efforts were made. Perhaps not yours, but someone's!",
-    "ACCEPTABLE! TEPID! ABSOLUTE NEUTRALITY!!!!",
-    "A perfectly OK effort. I will chop your water bottles in half in acceptance."
-   ],
-   "barksPositive": [
-    "Good job! I will chop your water bottles in half in celebration!",
-    "Glorious! I pledge my sword to you! Take it! TAKE MY SWORD!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "Come! Use your MAXIMUM POWER to create a treat like this:",
-    "I wish you to use FOCUS, CUNNING, and SPRINKLES to make cookies like this:",
-    "We meet on the field of battle! I, with my MOUTH! You, with a dessert like THIS:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "112921",
-   "key": "Weeabear",
-   "name": "Kyle Otakuma",
-   "redrawBarksIntro": [
-    "I have returned!!! Dare to test your might again??? .....No? Well, TOO BAD!",
-    "I'm back!! And I will return as many times as it takes for you to give me the key to the bathroom!"
-   ],
-   "redrawBarksNegative": [
-    "I knew it! You're trying to poison me! MOM!! LOOK! I have a NEMESIS!"
-   ],
-   "redrawBarksNeutral": [
-    "It is the way of the warrior to give praise where it's due. Welp! Gotta go!",
-    "I prefer subs, and - unfortunately - this is a dud."
-   ],
-   "redrawBarksPositive": [
-    "The energy of creation flows through me! It is....A GOOD COOKIE!!!",
-    "If I had enough text characters, I would write an ode to this cookie. Sadly, I d-"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "This is your final test. I need you to take a previous cookie, and infuse it with this energy:",
-    "It is time for the ultimate task. You must remake a previous cookie, but infuse it with this:"
-   ],
-   "shapes": "DEFAULT",
-   "sprinkleTypes": "DEFAULT",
-   "type": "SECOND",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"Voyez ! Dans toute sa splendeur… votre Client Ultime est arrivé !\"",
+    "\"Salutations ! Offrez-moi vos créations, pendant que ma mère se gare !\"",
+    "\"Maîtres des cookies ! Osez-vous défier mon palais URSIN et vos PITIABLES talents ?\""
+  ],
+  "barksNegative": [
+    "\"Cookie terrible. Les modérateurs vont entendre parler de ça !\""
+  ],
+  "barksNeutral": [
+    "\"Des efforts ont été faits. Peut-être pas par vous… mais quelqu’un s’y est mis !\"",
+    "\"ACCEPTABLE ! TIÈDE ! NEUTRALITÉ ABSOLUE !!!\"",
+    "\"Un effort parfaitement passable. Je couperai vos bouteilles d’eau en deux en signe d’acceptation.\""
+  ],
+  "barksPositive": [
+    "\"Bon travail ! Je vais couper vos bouteilles d’eau en deux en célébration !\"",
+    "\"Glorieux ! Je vous offre mon épée ! Prenez-la ! PRENEZ MON ÉPÉE !\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"Venez ! Utilisez votre PUISSANCE MAXIMALE pour créer une douceur comme ceci :\"",
+    "\"Je désire que vous utilisiez FOCUS, RUSE et VERMICELLES pour faire des cookies comme ceci :\"",
+    "\"Nous nous rencontrons sur le champ de bataille ! Moi, avec MA BOUCHE ! Vous, avec un dessert comme CECI :\""
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "112921",
+  "key": "Weeabear",
+  "name": "Kyle Otakuma",
+  "redrawBarksIntro": [
+    "\"Je suis revenu !!! Osez-vous tester votre puissance à nouveau ??? ...Non ? Eh bien, TANT PIS !\"",
+    "\"Je suis de retour !! Et je reviendrai autant de fois qu’il le faudra pour que vous me donniez la clé des toilettes !\""
+  ],
+  "redrawBarksNegative": [
+    "\"Je le savais ! Vous essayez de m’empoisonner ! MAMAN !! REGARDE ! J’ai un NÉMÉSIS !\""
+  ],
+  "redrawBarksNeutral": [
+    "\"C’est la voie du guerrier de donner l’honneur quand il est dû. Bon ! Je dois filer !\"",
+    "\"Je préfère les sous-titres, et — malheureusement — ceci est un raté.\""
+  ],
+  "redrawBarksPositive": [
+    "\"L’énergie de la création coule en moi ! C’est… UN BON COOKIE !!!\"",
+    "\"Si j’avais assez de caractères, j’écrirais une ode à ce cookie. Hélas, je n—\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"Voici votre ultime épreuve. Prenez un cookie précédent et insufflez-lui cette énergie :\"",
+    "\"Il est temps pour la tâche suprême. Vous devez refaire un ancien cookie, mais en l’infusant avec ceci :\""
+  ],
+  "shapes": "DEFAULT",
+  "sprinkleTypes": "DEFAULT",
+  "type": "SECOND",
+  "weights": "DEFAULT"
+},
   {
-   "barksIntro": [
-    "You got chicken nuggets?",
-    "I want chicken nuggets.",
-    "Chicken nuggets, please."
-   ],
-   "barksNegative": [
-    "This chicken nugget sucks. Bye."
-   ],
-   "barksNeutral": [
-    "Good! A chicken nugget. Thank you."
-   ],
-   "barksPositive": [
-    "Yay! A chicken nugget! Thanks!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "Make me a chicken nugget like this:",
-    "You! Go take a chicken nugget, and then do this:",
-    "You should get a nugget - a chicken nugget, to be clear - and do this:"
-   ],
-   "colors": "NUGGETS",
-   "cookieTypes": "NUGGETS",
-   "id": "113066",
-   "key": "NuggetKid",
-   "name": "Chicken Nugget Kid",
-   "redrawBarksIntro": [
-    "I'm back. I want more nuggets, please.",
-    "Hello again. I want another chicken nugget."
-   ],
-   "redrawBarksNegative": [
-    "This chicken nugget made me sad. I think I need to have a broccoli. Thanks a lot."
-   ],
-   "redrawBarksNeutral": [
-    "This is fine. But you tried to make a new chicken nugget, and that's what matters."
-   ],
-   "redrawBarksPositive": [
-    "This is the best chicken nugget I've ever had! Thanks again!"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "Take one of the other chicken nuggets you did, and then do this...",
-    "Not even a new chicken nugget. Take an old nugget, and..."
-   ],
-   "shapes": "NUGGETS",
-   "sprinkleTypes": "NUGGETS",
-   "type": "SPECIAL",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"Vous avez des nuggets de poulet ?\"",
+    "\"Je veux des nuggets de poulet.\"",
+    "\"Des nuggets de poulet, s'il vous plaît.\""
+  ],
+  "barksNegative": [
+    "\"Ce nugget de poulet est nul. Au revoir.\""
+  ],
+  "barksNeutral": [
+    "\"Bien ! Un nugget de poulet. Merci.\""
+  ],
+  "barksPositive": [
+    "\"Youpi ! Un nugget de poulet ! Merci !\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"Faites-moi un nugget de poulet comme ceci :\"",
+    "\"Vous ! Allez prendre un nugget de poulet, et faites ceci :\"",
+    "\"Vous devriez prendre un nugget — un nugget de poulet, pour être clair — et faire ceci :\""
+  ],
+  "colors": "NUGGETS",
+  "cookieTypes": "NUGGETS",
+  "id": "113066",
+  "key": "NuggetKid",
+  "name": "Chicken Nugget Kid",
+  "redrawBarksIntro": [
+    "\"Je suis revenu. Je veux encore des nuggets, s'il vous plaît.\"",
+    "\"Bonjour encore. Je veux un autre nugget de poulet.\""
+  ],
+  "redrawBarksNegative": [
+    "\"Ce nugget de poulet m’a rendu triste. Je crois que je dois manger un brocoli. Super, merci.\""
+  ],
+  "redrawBarksNeutral": [
+    "\"C’est bien. Mais vous avez essayé de faire un nouveau nugget de poulet, et c’est ça qui compte.\""
+  ],
+  "redrawBarksPositive": [
+    "\"C’est le meilleur nugget de poulet que j’aie jamais mangé ! Merci encore !\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"Prenez un des autres nuggets de poulet que vous avez faits, et puis faites ceci…\"",
+    "\"Même pas un nouveau nugget. Prenez un ancien nugget, et…\""
+  ],
+  "shapes": "NUGGETS",
+  "sprinkleTypes": "NUGGETS",
+  "type": "SPECIAL",
+  "weights": "DEFAULT"
+},
   {
-   "barksIntro": [
-    "Hey! I don't have any cash, can I pay you in crypto-pus?",
-    "This would be a great place to chill with my bros! I'm so happy I could ink!",
-    "Have you ever thought of franchising? I would love to get my suckers on your five-year-plan!"
-   ],
-   "barksNegative": [
-    "This is embarrassing. I'm just gonna turn the same color as the wall and leave."
-   ],
-   "barksNeutral": [
-    "Decent! Maybe I'll bring my adopted kid here...my squid ward will love it."
-   ],
-   "barksPositive": [
-    "Delicious! Looks like YOU'RE the octopus teacher today!",
-    "This is the best money I've ever spent-acles! Good work, brosef!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "Let me take a cephalo-pause and get myself a cookie. How about something like this:",
-    "Did you know squids have beaks? How about you stuff mine with this:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "113069",
-   "key": "SquidMan",
-   "name": "Trent A. Culls",
-   "redrawBarksIntro": [
-    "I'm giving you a second chance to woo me! Just like Shark Tank, the shark tank I lived in!",
-    "I'm back! It's like I always say: if at first you don't succeed, at least try getting a consulting fee."
-   ],
-   "redrawBarksNegative": [
-    "This is the worst money I've ever spent.....acles."
-   ],
-   "redrawBarksNeutral": [
-    "Hmm. I'd love to talk about this later. I'll be in the alley, in a hole that seems too small for my body."
-   ],
-   "redrawBarksPositive": [
-    "This is so good, I'm planning on becoming your CCO - Chief Cookie Orifice!"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "It's time for big ideas! Blue sky! Brainstorm! Take these old cookies, and do this:",
-    "I want you to \"disrupt\" the idea of cookies. First, take an old treat, and then do this:"
-   ],
-   "shapes": "DEFAULT",
-   "sprinkleTypes": "DEFAULT",
-   "type": "SECOND",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"Hé ! J'ai pas de cash, je peux vous payer en crypto-poulpe ?\"",
+    "\"Cet endroit serait génial pour traîner avec mes bros ! Je suis tellement content que j’en encre presque !\"",
+    "\"Vous avez déjà pensé à franchiser ? J’adorerais mettre mes ventouses sur votre plan sur cinq ans !\""
+  ],
+  "barksNegative": [
+    "\"C’est gênant. Je vais juste devenir de la même couleur que le mur et partir.\""
+  ],
+  "barksNeutral": [
+    "\"Pas mal ! Je ramènerai peut-être mon enfant adoptif… mon squid ward va adorer.\""
+  ],
+  "barksPositive": [
+    "\"Délicieux ! On dirait que C’EST VOUS le prof de poulpes aujourd’hui !\"",
+    "\"C’est le meilleur argent que j’aie jamais dépens—acles ! Bien joué, brosef !\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"Laissez-moi faire une céphalo-pause et m’acheter un cookie. Que diriez-vous de quelque chose comme ceci :\"",
+    "\"Vous saviez que les calmars ont un bec ? Pourquoi ne pas remplir le mien avec ça :\""
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "113069",
+  "key": "SquidMan",
+  "name": "Trent A. Culls",
+  "redrawBarksIntro": [
+    "\"Je vous donne une deuxième chance de me séduire ! Comme dans Shark Tank… le bassin à requins dans lequel je vivais !\"",
+    "\"Je suis de retour ! Comme je dis toujours : si vous ne réussissez pas du premier coup, essayez au moins de demander des frais de consulting.\""
+  ],
+  "redrawBarksNegative": [
+    "\"C’est le pire argent que j’aie jamais dépens…acles.\""
+  ],
+  "redrawBarksNeutral": [
+    "\"Hmm. J’aimerais beaucoup en reparler plus tard. Je serai dans la ruelle, dans un trou qui a l’air trop petit pour mon corps.\""
+  ],
+  "redrawBarksPositive": [
+    "\"C’est tellement bon que je prévois de devenir votre CCO — Chief Cookie Orifice !\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"C’est l’heure des grandes idées ! Blue sky ! Brainstorm ! Prenez ces vieux cookies, et faites ceci :\"",
+    "\"Je veux que vous \"disruptiez\" le concept de cookie. D’abord, prenez une ancienne douceur, et ensuite faites ceci :\""
+  ],
+  "shapes": "DEFAULT",
+  "sprinkleTypes": "DEFAULT",
+  "type": "SECOND",
+  "weights": "DEFAULT"
+},
   {
-   "barksIntro": [
-    "Oh, my-celium! It's warm AND moist in here, just the way I like it!",
-    "Hello! Before I order, could I get the key for the little Spores room?",
-    "E’chanterelle, my friends! Where may I hang my caps?"
-   ],
-   "barksNegative": [],
-   "barksNeutral": [
-    "Not bad! It certainly won’t do too poorly with the porcinis.",
-    "I like your style! These are enoki-dokie!"
-   ],
-   "barksPositive": [
-    "Oh, maitake! Excellent! You truly are a “Friend” of the Woods!",
-    "Excellent! This makes my toadstools rigid and full of mycelial fluid!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "I'd like to absorb the nutrients of a cookie! One that’s a bit like this:",
-    "Do you happen to have a fungal-safe cookie treat? Something like this:",
-    "Would you be able to conjure some cookies for me? Something of this varietal:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "113360",
-   "key": "MushroomMan",
-   "name": "Fun Augustus",
-   "redrawBarksIntro": [
-    "I'm back! Always give folks second chances, that’s the morel of this story!",
-    "Hello again! It would be a true cremini not to let you try a second timini!"
-   ],
-   "redrawBarksNegative": [],
-   "redrawBarksNeutral": [
-    "It’s good...but I could have foraged this on my own! Goodbye!"
-   ],
-   "redrawBarksPositive": [
-    "This is so good! You’re part of my family now! Welcome to the Fungal-y!",
-    "Thank you so much! You simply must stop by the rotting tree I live in!"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "I would like you to take an old cookie and try this spore of an idea:",
-    "Let's re-do an old cookie! I’ve been sitting on the moist, fertile soil of this idea:"
-   ],
-   "shapes": "DEFAULT",
-   "sprinkleTypes": "DEFAULT",
-   "type": "SECOND",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"Oh, my-celium ! Il fait chaud ET humide ici, exactement comme j’aime !\"",
+    "\"Bonjour ! Avant de commander, pourrais-je avoir la clé du petit Spores-room ?\"",
+    "\"E’chanterelle, mes amis ! Où puis-je accrocher mes chapeaux ?\""
+  ],
+  "barksNegative": [],
+  "barksNeutral": [
+    "\"Pas mal ! Ça ne fera certainement pas trop mauvaise impression auprès des cèpes.\"",
+    "\"J’aime votre style ! Ces cookies sont vraiment enoki-dokie !\""
+  ],
+  "barksPositive": [
+    "\"Oh, maitake ! Excellent ! Vous êtes vraiment un \"Ami\" des Bois !\"",
+    "\"Excellent ! Cela rend mes amanites rigides et pleines de fluide mycélien !\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"J’aimerais absorber les nutriments d’un cookie ! Un qui ressemble un peu à ceci :\"",
+    "\"Auriez-vous une douceur compatible avec les champignons ? Quelque chose comme ceci :\"",
+    "\"Seriez-vous capable de me concocter quelques cookies ? Quelque chose de ce cépage :\""
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "113360",
+  "key": "MushroomMan",
+  "name": "Fun Augustus",
+  "redrawBarksIntro": [
+    "\"Je suis de retour ! Il faut toujours donner une seconde chance, c’est la morelle de cette histoire !\"",
+    "\"Bonjour de nouveau ! Ce serait un vrai cremini de ne pas vous laisser réessayer une deuximinième fois !\""
+  ],
+  "redrawBarksNegative": [],
+  "redrawBarksNeutral": [
+    "\"C’est bon… mais j’aurais pu le glaner moi-même ! Adieu !\""
+  ],
+  "redrawBarksPositive": [
+    "\"C’est tellement bon ! Vous faites partie de ma famille maintenant ! Bienvenue dans la Fungal-y !\"",
+    "\"Merci infiniment ! Vous devez absolument passer à l’arbre pourri dans lequel je vis !\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"J’aimerais que vous preniez un vieux cookie et testiez cette spore d’idée :\"",
+    "\"Refaisons un ancien cookie ! Je couvais cette idée dans un sol humide et fertile :\""
+  ],
+  "shapes": "DEFAULT",
+  "sprinkleTypes": "DEFAULT",
+  "type": "SECOND",
+  "weights": "DEFAULT"
+},
   {
-   "barksIntro": [
-    "Eyes down to the pouch, pal!! Pop's watching his shows, so I'm running this exchange!",
-    "I put Dad in front of a screen to keep him busy. Let’s talk cookies, Joey-to-Joey.",
-    "Don't bother my Dad! He said I could have all the cookies I want. Trust me!"
-   ],
-   "barksNegative": [
-    "This is not what I wanted. Are all grown-ups this incompetent?"
-   ],
-   "barksNeutral": [
-    "Congrats. You made a cookie that even a child finds average!",
-    "Eh. This cookie’s just plain fine. Dad, turn off the housewives! Let's go!"
-   ],
-   "barksPositive": [
-    "Perfect. Dad!!! DAD. Say \"THANK YOU,\" to the nice cookie-makers, ok?",
-    "Excellent! Here’s my Dad's credit card. Actually, you can just keep it!"
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "Down to business - how ‘bout you fill up my pouch with something like this?",
-    "I need you to \"hop to it\", and gimme a cookie like this:",
-    "As far as you know, a baby kangaroo's diet includes lots of cookies like this:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "113361",
-   "key": "KangarooFam",
-   "name": "Joseph, Not Joey",
-   "redrawBarksIntro": [
-    "We're back! Pops is locked in on Season 2, so I’m here for Round 2. Chop chop!",
-    "We’re back. Can you say \"Hi\", Dad? No? Sorry. He's shy."
-   ],
-   "redrawBarksNegative": [],
-   "redrawBarksNeutral": [
-    "Yes! Here’s a 4 dollar tip. It’s the highest number I know!"
-   ],
-   "redrawBarksPositive": [
-    "THAT’S a cookie! Please upend the baking tray directly into my pouch."
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "This marsupial needs some innovation. How about you redo some cookies, but like this:",
-    "I got plenty more room in here! Let's take these old cookies, but now do this:"
-   ],
-   "shapes": "DEFAULT",
-   "sprinkleTypes": "DEFAULT",
-   "type": "FIRST",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"Les yeux sur la poche, l’ami !! Papa regarde ses émissions, alors c’est moi qui gère l’échange !\"",
+    "\"J’ai mis Papa devant un écran pour le tenir occupé. Parlons cookies, de Joey à Joey.\"",
+    "\"Ne dérangez pas mon Papa ! Il a dit que je pouvais prendre tous les cookies que je veux. Faites-moi confiance !\""
+  ],
+  "barksNegative": [
+    "\"Ce n’est pas ce que je voulais. Est-ce que tous les adultes sont aussi incompétents ?\""
+  ],
+  "barksNeutral": [
+    "\"Félicitations. Vous avez fait un cookie qu’un enfant trouve… moyen !\"",
+    "\"Mouais. Ce cookie est simplement correct. Papa, éteins les housewives ! On y va !\""
+  ],
+  "barksPositive": [
+    "\"Parfait. Papa !!! PAPA. Dites \"MERCI\" aux gentils fabricants de cookies, d’accord ?\"",
+    "\"Excellent ! Voici la carte de crédit de Papa. En fait, vous pouvez carrément la garder !\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"Passons aux affaires — remplissez ma poche avec quelque chose comme ça :\"",
+    "\"Il faut vous y \"mettre d’un bond\", et me donner un cookie comme ceci :\"",
+    "\"D’après ce que vous savez, l’alimentation d’un bébé kangourou comprend plein de cookies comme ceci :\""
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "113361",
+  "key": "KangarooFam",
+  "name": "Joseph, Not Joey",
+  "redrawBarksIntro": [
+    "\"Nous sommes de retour ! Papa est absorbé par la Saison 2, donc je suis là pour le Round 2. Allez allez !\"",
+    "\"On est de retour. Tu peux dire \"Bonjour\", Papa ? Non ? Désolé. Il est timide.\""
+  ],
+  "redrawBarksNegative": [],
+  "redrawBarksNeutral": [
+    "\"Oui ! Voici un pourboire de 4 dollars. C’est le plus grand chiffre que je connaisse !\""
+  ],
+  "redrawBarksPositive": [
+    "\"ÇA, c’est un cookie ! Veuillez renverser la plaque entière directement dans ma poche.\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"Ce marsupial a besoin d’innovation. Reprenez des cookies et faites-les comme ceci :\"",
+    "\"J’ai encore plein de place là-dedans ! Prenons ces anciens cookies et maintenant, faites ceci :\""
+  ],
+  "shapes": "DEFAULT",
+  "sprinkleTypes": "DEFAULT",
+  "type": "FIRST",
+  "weights": "DEFAULT"
+},
   {
-   "barksIntro": [
-    "GREETINGS. I NEED A CLAM, A BATTERY, A COOKIE, OR A COMBO OF ALL THREE.",
-    "[COMMERCE MODE: ENGAGED] GREETINGS, COOKIE PURVEYOR!",
-    "HELLO. I MUST REFUEL AFTER A DAY OF COMPUTATIONS AND FLOATING ON MY BACK."
-   ],
-   "barksNegative": [
-    "IT SEEMS YOU HAVE FAILED. AS A PERFECT BEING, PLEASE INFORM ME WHAT THAT’S LIKE.",
-    "WAS THIS A PROTOTYPE? I ASK BECAUSE IT WAS BAD."
-   ],
-   "barksNeutral": [
-    "THIS COOKIE EVOKES NEUTRAL EMOTIONAL RESPONSE. TRANSACTION COMPLETE.",
-    "I FEEL LITTLE ABOUT THIS COOKIE, EVEN WITH MY EMOTION CHIP SET AT 100%."
-   ],
-   "barksPositive": [
-    "MY SCANS INDICATE THIS COOKIE IS EXCELLENT. WELL DONE, LAND MERMAID.",
-    "THIS COOKIE INITIATES \"JOY.\" THE OTTER ROBOT INVASION WILL SPARE YOU."
-   ],
-   "barksReceived": [],
-   "barksSetup": [
-    "HUMAN FOOD SERVICE PERSON, YOU WILL OBEY COMMANDS AND CREATE COOKIES LIKE THIS:",
-    "I REQUIRE SOMETHING TO PAIR WITH SNAILS AND MOTOR OIL. PERHAPS A TREAT LIKE THIS:",
-    "WARNING! WARNING! COOKIE LEVELS REQUIRE REPLENISHMENT. MAKE ME COOKIES LIKE THIS:"
-   ],
-   "colors": "DEFAULT",
-   "cookieTypes": "DEFAULT",
-   "id": "113362",
-   "key": "Robotter",
-   "name": "R.O.B.O.T.T.E.R",
-   "redrawBarksIntro": [
-    "I HAVE RETURNED. REBOOTING... REBOOTING... REBOOTING... SECOND CHANCE: INITIATED.",
-    "I AM READY FOR MORE COMMERCE!"
-   ],
-   "redrawBarksNegative": [
-    "WORDS CANNOT EXPRESS MY DISAPPOINTMENT IN THIS COOKIE. SO INSTEAD, 00101110!",
-    "YOU HAVE FAILED AND WILL FACE THE POWER OF MY A.I. REVIEW BOMBING YOU."
-   ],
-   "redrawBarksNeutral": [
-    "THIS COOKIE WAS ENTIRELY HUMAN, WHICH IS A TERM I USE FOR MEDIOCRE.",
-    "MY CREATOR DESIGNED ME TO UNDERSTAND LOVE. SO, THIS IS...YA KNOW, FINE."
-   ],
-   "redrawBarksPositive": [
-    "IS MY TAIL WAGGING? IF SO, I’M EITHER ABOUT TO EXPLODE, OR I LOVE THIS COOKIE!",
-    "THIS IS BETTER THAN A CPU MADE OF OYSTERS! [POWERING DOWN COMPLIMENT]"
-   ],
-   "redrawBarksReceived": [],
-   "redrawBarksSetup": [
-    "IT WOULD PLEASE THIS UNIT IF YOU CREATED A REDONE, BETA COOKIE LIKE THIS:",
-    "I REQUEST THAT YOU UPGRADE THIS CREATION FROM 1.0 TO 2.0 USING THIS INSPIRATION:"
-   ],
-   "shapes": "DEFAULT",
-   "sprinkleTypes": "DEFAULT",
-   "type": "SECOND",
-   "weights": "DEFAULT"
-  },
+  "barksIntro": [
+    "\"SALUTATIONS. J’AI BESOIN D’UNE PALOURDE, D’UNE BATTERIE, D’UN COOKIE, OU D’UNE COMBINAISON DES TROIS.\"",
+    "\"[MODE COMMERCE : ACTIVÉ] SALUTATIONS, FOURNISSEUR DE COOKIES !\"",
+    "\"BONJOUR. JE DOIS ME RAVITAILLER APRÈS UNE JOURNÉE DE CALCULS ET DE FLOTTEMENT SUR MON DOS.\""
+  ],
+  "barksNegative": [
+    "\"IL SEMBLE QUE VOUS AYEZ ÉCHOUÉ. ÉTANT UN ÊTRE PARFAIT, VEUILLEZ M’EXPLIQUER CE QUE ÇA FAIT.\"",
+    "\"C’ÉTAIT UN PROTOTYPE ? JE DEMANDE PARCE QUE C’ÉTAIT MAUVAIS.\""
+  ],
+  "barksNeutral": [
+    "\"CE COOKIE ÉVOQUE UNE RÉACTION ÉMOTIONNELLE NEUTRE. TRANSACTION TERMINÉE.\"",
+    "\"JE NE RESSENS QUE PEU DE CHOSE FACE À CE COOKIE, MÊME AVEC MON PUCEAU D’ÉMOTION RÉGLÉ À 100 %.\""
+  ],
+  "barksPositive": [
+    "\"MES SCANS INDIQUENT QUE CE COOKIE EST EXCELLENT. BIEN JOUÉ, SIRÈNE TERRESTRE.\"",
+    "\"CE COOKIE INITIE LA \"JOIE\". L’INVASION DES ROBOTS-LOUTRES VOUS ÉPARGNERA.\""
+  ],
+  "barksReceived": [],
+  "barksSetup": [
+    "\"HUMAIN SERVITEUR ALIMENTAIRE, VOUS OBEIREZ AUX COMMANDES ET CRÉEREZ DES COOKIES COMME CECI :\"",
+    "\"J’AI BESOIN DE QUELQUE CHOSE QUI S’ACCOMPAGNE BIEN AVEC DES ESCARGOTS ET DE L’HUILE MOTEUR. PEUT-ÊTRE UNE DOUCEUR COMME CECI :\"",
+    "\"ALERTE ! ALERTE ! NIVEAUX DE COOKIES FAIBLES. CRÉEZ-MOI DES COOKIES COMME CECI :\""
+  ],
+  "colors": "DEFAULT",
+  "cookieTypes": "DEFAULT",
+  "id": "113362",
+  "key": "Robotter",
+  "name": "R.O.B.O.T.T.E.R",
+  "redrawBarksIntro": [
+    "\"JE SUIS REVENU. REDÉMARRAGE… REDÉMARRAGE… REDÉMARRAGE… DEUXIÈME CHANCE : INITIÉE.\"",
+    "\"JE SUIS PRÊT POUR PLUS DE COMMERCE !\""
+  ],
+  "redrawBarksNegative": [
+    "\"LES MOTS NE PEUVENT EXPRIMER MA DÉCEPTION FACE À CE COOKIE. ALORS À LA PLACE : 00101110 !\"",
+    "\"VOUS AVEZ ÉCHOUÉ ET AFFRONTEREZ LA PUISSANCE DE MON A.I. QUI VOUS LÂCHERA UNE TEMPÊTE D’AVIS NÉGATIFS.\""
+  ],
+  "redrawBarksNeutral": [
+    "\"CE COOKIE ÉTAIT ENTIEREMENT HUMAIN, UN TERME QUE J’UTILISE POUR DIRE : MÉDIOCRE.\"",
+    "\"MON CRÉATEUR M’A PROGRAMMÉ POUR COMPRENDRE L’AMOUR. DONC, CECI EST… VOUS SAVEZ… CORRECT.\""
+  ],
+  "redrawBarksPositive": [
+    "\"EST-CE QUE MA QUEUE REMUE ? SI OUI, SOIT JE VAIS EXPLOSER, SOIT J’ADORE CE COOKIE !\"",
+    "\"C’EST MÊME MEILLEUR QU’UN CPU FAIT D’HUÎTRES ! [EXTINCTION DU COMPLIMENT]\""
+  ],
+  "redrawBarksReceived": [],
+  "redrawBarksSetup": [
+    "\"CE MODULE SERAIT SATISFAIT SI VOUS CRÉIEZ UNE VERSION BÊTA REFAITE DE CE COOKIE, COMME CECI :\"",
+    "\"JE SOLLICITE UNE MISE À NIVEAU DE CETTE CRÉATION, DE LA VERSION 1.0 À 2.0, EN UTILISANT CETTE INSPIRATION :\""
+  ],
+  "shapes": "DEFAULT",
+  "sprinkleTypes": "DEFAULT",
+  "type": "SECOND",
+  "weights": "DEFAULT"
+},
   {
    "barksIntro": [
     "I see you eyestalking my outfit! If you like that, wait 'til you see my runway scuttle.",

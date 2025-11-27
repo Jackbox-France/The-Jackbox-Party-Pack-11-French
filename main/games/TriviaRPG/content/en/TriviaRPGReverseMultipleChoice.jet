@@ -1020,7 +1020,7 @@
         },
         {
       "clue": "Culture populaire",
-      "text": "Lettre emblématique de mutants célèbres chez Marvel."
+      "text": "Lettre emblématique de mutants célèbres chez Marvel.
         },
         {
           "clue": "Elon Musk adore cette lettre",
@@ -1355,11 +1355,11 @@
       "questions": [
         {
           "clue": "Pensez à la terre qui bouge",
-          "text": "Surnom du président Lyndon B. Johnson"
+          "text": "Surnom du président Lyndon B. Johnson"*
         },
         {
           "clue": "“Elle la fera tomber”",
-          "text": "Chanson du groupe Fleetwood Mac"
+          "text": "Chanson du groupe Fleetwood Mac"*
         },
         {
           "clue": "Ça rend tout boueux...",
@@ -1367,7 +1367,7 @@
         },
         {
           "clue": "Dites-le à voix haute",
-          "text": "Mot de deux syllabes"
+          "text": "Mot de deux syllabes"*
         },
         {
           "clue": "Qui mesure la distance",
@@ -1392,11 +1392,11 @@
         },
         {
           "clue": "Nom de famille West, prénom différent",
-          "text": "Prénom du premier enfant de Kim Kardashian et Kanye West"
+          "text": "Prénom du premier enfant de Kim Kardashian et Kanye West"*
         },
         {
           "clue": "Allitération",
-          "text": "Film d’Hitchcock : _____ [i]by Northwest[/i]"
+          "text": "Film d’Hitchcock : _____ [i]by Northwest[/i]"*
         },
         {
           "clue": "Direction vers la maison du Père Noël",
@@ -1404,7 +1404,7 @@
         },
         {
           "clue": "N’a qu’une seule voyelle",
-          "text": "Il a quitté l’armée après l’affaire Iran-Contra"
+          "text": "Il a quitté l’armée après l’affaire Iran-Contra"*
         }
       ],
       "text": "Nord"
@@ -1425,11 +1425,11 @@
         },
         {
           "clue": "Quelle direction mène au Mexique depuis les États-Unis ?",
-          "text": "Vieille chanson de Gene Autry : “____ of the Border (Down Mexico Way)”"
+          "text": "Vieille chanson de Gene Autry : “____ of the Border (Down Mexico Way)”"*
         },
         {
           "clue": "“Shout, shout, let it all out!”",
-          "text": "Anagramme du titre d’une chanson de Tears for Fears"
+          "text": "Anagramme du titre d’une chanson de Tears for Fears"*
         }
       ],
       "text": "Sud"
@@ -1450,11 +1450,11 @@
         },
         {
           "clue": "Prénom : Clint",
-          "text": "___wood, réalisateur de [i]Million Dollar Baby[/i] et [i]Juror #2[/i]"
+          "text": "___wood, réalisateur de [i]Million Dollar Baby[/i] et [i]Juror #2[/i]"*
         },
         {
           "clue": "Ajoutez un “y” au début",
-          "text": "Ajoutez un “y” pour obtenir un champignon utilisé dans la bière"
+          "text": "Ajoutez un “y” pour obtenir un champignon utilisé dans la bière"*
         }
       ],
       "text": "Est"
@@ -1463,7 +1463,7 @@
       "questions": [
         {
           "clue": "Le soleil se couche sur son nom",
-          "text": "Adam qui jouait Batman dans la série télé des années 1960"
+          "text": "Adam qui jouait Batman dans la série télé des années 1960"*
         },
         {
           "clue": "Autrement dit “allez à gauche” sur la carte",
@@ -1471,11 +1471,11 @@
         },
         {
           "clue": "Dernier mot par ordre alphabétique",
-          "text": "Comédie musicale de 1957 : ___ [i]Side Story[/i]"
+          "text": "Comédie musicale de 1957 : ___ [i]Side Story[/i]"*
         },
         {
           "clue": "Une série sur des robots cow-boys",
-          "text": "___[i]World[/i] sur HBO"
+          "text": "___[i]World[/i] sur HBO"*
         },
         {
           "clue": "Opposé de l’est",
@@ -1493,16 +1493,16 @@
     {
       "questions": [
         {
-          "clue": "Signifie voiture défectueuse",
-          "text": "Groupe de méchants dans [i]Cars 2[/i]"
+          "clue": "Pas les poires",
+          "text": "Est fêté une fois par an dans la ville de Menton"
         },
         {
           "clue": "Les produits de nettoyage ont souvent ce parfum",
-          "text": "Les plus courantes : Meyer, Eureka et Lisbon"
+          "text": "Les espèces plus courantes : de Meyer, Eureka et Lisbon"
         },
         {
           "clue": "Allitération avec le prénom “Liz”",
-          "text": "Nom de famille du personnage de Tina Fey dans [i]30 Rock[/i]"
+          "text": "Peinture de Matisse en 1914"
         },
         {
           "clue": "Et le goût du Sprite qui n’est PAS le citron vert",
@@ -1519,26 +1519,26 @@
       "questions": [
         {
           "clue": "N’est pas vraiment vert",
-          "text": "Pierre utilisée pour construire les Grandes Pyramides"
+          "text": "Fruit le moins acide de cette liste"
         },
         {
           "clue": "Aussi présent dans le guacamole",
-          "text": "Jus nécessaire à un daiquiri classique"
+          "text": "Jus nécessaire à un fall fizz"
         },
         {
           "clue": "Logo vert",
-          "text": "Marque de trottinettes électriques"
+          "text": "Variétés courantes : Williams, Conférence ou Comice"
         },
         {
-          "clue": "Mot le plus court",
-          "text": "L’oxyde de calcium est aussi appelé “chaux vive”"
+      "clue": "Sa forme inspire le design",
+      "text": "Donne son nom à un fauteuil emblématique des années 60"
         },
         {
           "clue": "Aucun rapport avec les oranges de Floride",
-          "text": "Ingrédient d’une célèbre tarte de Key West"
+          "text": "Ingrédient d’une célèbre tarte de Key West"*
         }
       ],
-      "text": "Citron vert"
+      "text": "Poire"
     },
     {
       "questions": [
@@ -1551,8 +1551,8 @@
           "text": "Le fruit d’agrumes le moins acide"
         },
         {
-          "clue": "La couleur du manteau de Kenny dans [i]South Park[/i]",
-          "text": "Chaîne de salles de sport “____ Theory”"
+      "clue": "Portrait célèbre",
+      "text": "Caricature de Louis-Philippe en forme de fruit"
         },
         {
           "clue": "Surnommé “OJ”",
@@ -1560,7 +1560,7 @@
         },
         {
           "clue": "Souvent servi pelé et tranché",
-          "text": "Variétés courantes : Cara Cara, Séville et sanguine"
+          "text": "Variétés courantes : Cara Cara, de Séville et sanguine"
         }
       ],
       "text": "Orange"
@@ -1572,16 +1572,16 @@
           "text": "Présent dans le tableau emblématique [i]Le Fils de l’homme[/i]"
         },
         {
-          "clue": "Mais donne un excellent cidre",
-          "text": "Fruit le moins acide de cette liste"
+      "clue": "Fruit de la connaissance",
+      "text": "Offerte à Ève dans le jardin d’Éden"
         },
         {
           "clue": "Contient aussi des lettres doubles",
-          "text": "Un explose dans [i]Chérie, j’ai rétréci les gosses[/i]"
+          "text": "Une explose dans [i]Chérie, j’ai rétréci les gosses[/i]"
         },
         {
-          "clue": "Premier fruit par ordre alphabétique",
-          "text": "“Criminal”, chanson de Fiona"
+      "clue": "Chutant sur un savant",
+      "text": "À l’origine d’une théorie sur la gravitation universelle"
         },
         {
           "clue": "On peut les “attraper” à Halloween",
@@ -1601,7 +1601,7 @@
       "questions": [
         {
           "clue": "Ils ROCKent",
-          "text": "Ancien nom du groupe Black Sabbath"
+          "text": "Nom d'une planète"
         },
         {
           "clue": "Passez au vert",
@@ -1617,7 +1617,7 @@
         },
         {
           "clue": "Aussi Taureau et Capricorne",
-          "text": "Un Vierge est un signe _______"
+          "text": "Un Vierge est un signe de _______"
         }
       ],
       "text": "Terre"
@@ -1638,7 +1638,7 @@
         },
         {
           "clue": "C’est frais",
-          "text": "Mentionné dans le titre de l’émission radio de Terry Gross"
+          "text": "Revali s'en sert pour s'envoler dans [i]Zelda : Breath of the Wild[/i]"
         },
         {
           "clue": "C’est le dernier...",
@@ -1655,11 +1655,11 @@
         },
         {
           "clue": "Utile pour le camping !",
-          "text": "Contrôlé par Drew Barrymore dans le film de 1984"
+          "text": "Harry Potter et la Coupe de _____"*
         },
         {
           "clue": "Pas un mot de cinq lettres",
-          "text": "Appareil de streaming d’Amazon : ______ TV"
+          "text": "Point de repos dans [i]Elden Ring[/i] et [i]Dark Souls[/i]"
         },
         {
           "clue": "Couronne de flammes",
@@ -1680,7 +1680,7 @@
         },
         {
           "clue": "C’est là qu’ils vivent",
-          "text": "Les tardigrades sont aussi appelés ours _______"
+          "text": "Les tardigrades sont aussi appelés ours d'/de_______"
         },
         {
           "clue": "Pas dans les nuages",
