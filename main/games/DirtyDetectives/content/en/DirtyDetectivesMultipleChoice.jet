@@ -4434,28 +4434,28 @@
      "choices": [
       "...en train de changer le monde."
      ],
-     "finding": "Techno-friendly suspect says {{RED}}“L'IA est en train de changer le monde.”",
+     "finding": "Le suspect technophile a dit {{RED}}“L'IA est en train de changer le monde.”",
      "summary": "IA : {{RED}}CHANGE LE MONDE"
     },
     {
      "choices": [
       "...un outil utile."
      ],
-     "finding": "Suspect says {{RED}}“L'IA est un outil utile.”",
+     "finding": "Le suspect a dit {{RED}}“L'IA est un outil utile.”",
      "summary": "IA : {{RED}}OUTIL UTILE"
     },
     {
      "choices": [
       "...en train de tous nous tuer."
      ],
-     "finding": "Suspect says {{RED}}“L'IA est en train de tous nous tuer.”",
+     "finding": "Le suspect a dit {{RED}}“L'IA est en train de tous nous tuer.”",
      "summary": "IA : {{RED}}TOUS NOUS TUER"
     },
     {
      "choices": [
       "...quelque chose qui ne m'intéresse pas."
      ],
-     "finding": "Suspect says {{RED}}“L'IA n'est pas quelque chose qui m'intéresse.”",
+     "finding": "Le suspect a dit {{RED}}“L'IA n'est pas quelque chose qui m'intéresse.”",
      "summary": "IA : {{RED}}PAS INTÉRESSÉ"
     }
    ],
