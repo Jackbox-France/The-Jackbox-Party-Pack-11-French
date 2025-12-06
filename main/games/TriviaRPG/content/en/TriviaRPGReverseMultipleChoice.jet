@@ -218,112 +218,6 @@
     {
      "questions": [
       {
-       "clue": "Author famous for short stories/poems",
-       "text": "Wrote a story called “The Black Cat”"
-      },
-      {
-       "clue": "For story “The Murders in the Rue Morgue”",
-       "text": "Credited with creating “the modern detective story”"
-      },
-      {
-       "clue": "In “The Raven”",
-       "text": "Wrote the line “Once upon a midnight dreary”"
-      },
-      {
-       "clue": "Virginia Eliza Poe",
-       "text": "Married their cousin"
-      },
-      {
-       "clue": "Set in 1830",
-       "text": "A character in the Netflix movie [i]The Pale Blue Eye[/i]"
-      }
-     ],
-     "text": "Edgar Allan Poe"
-    },
-    {
-     "questions": [
-      {
-       "clue": "Using pen name Richard Bachman",
-       "text": "Wrote a book called [i]The Running Man[/i]"
-      },
-      {
-       "clue": "Tabitha King",
-       "text": "Married the author of the romance novel [i]One on One[/i]"
-      },
-      {
-       "clue": "In [i]Pet Sematary[/i]",
-       "text": "Wrote the line “Sometimes dead is better”"
-      },
-      {
-       "clue": "A haunted hotel movie called [i]1408[/i]",
-       "text": "Their story became a movie starring John Cusack and Samuel L. Jackson"
-      },
-      {
-       "clue": "[i]The Long Walk[/i] & [i]Running Man[/i]",
-       "text": "Wrote dystopian novels under the pen name Richard Bachman"
-      }
-     ],
-     "text": "Stephen King"
-    },
-    {
-     "questions": [
-      {
-       "clue": "One of the FIRST dystopian novels",
-       "text": "Wrote a book called [i]The Last Man[/i]"
-      },
-      {
-       "clue": "Percy Bysshe Shelley",
-       "text": "Married the author of the poem “Ozymandias”"
-      },
-      {
-       "clue": "Daniel Radcliffe plays Igor",
-       "text": "Their book became a movie starring James McAvoy and Daniel Radcliffe"
-      },
-      {
-       "clue": "She’s the mother of science fiction",
-       "text": "Published their first novel at age 20"
-      },
-      {
-       "clue": "“Epistolary” means a series of letters and journal entries",
-       "text": "Their best-selling work is an epistolary novel"
-      }
-     ],
-     "text": "Mary Shelley"
-    },
-    {
-     "questions": [
-      {
-       "clue": "The 32nd in his famous series",
-       "text": "Wrote a book called [i]The Barking Ghost[/i]"
-      },
-      {
-       "clue": "Under the name Jovial Bob Stine",
-       "text": "Started their career writing joke books for kids"
-      },
-      {
-       "clue": "Not Poe or King",
-       "text": "Played by Jack Black in a 2015 film"
-      },
-      {
-       "clue": "In [i]Return to Ghost Camp[/i]",
-       "text": "Wrote a book featuring a villain called “The Snatcher” haunting a forest"
-      },
-      {
-       "clue": "In [i]Why I’m Afraid of Bees[/i]",
-       "text": "Wrote the line “Maybe I’d really been a bee for my entire life, and I’d just dreamed about being a boy”"
-      }
-     ],
-     "text": "R.L. Stine"
-    }
-   ],
-   "category": "The Haunted Library",
-   "id": "106981"
-  },
-  {
-   "answers": [
-    {
-     "questions": [
-      {
        "clue": "Pine joue Kirk",
        "text": "A incarné le père du capitaine Kirk dans le film [i]Star Trek[/i] (2009)"
       },
@@ -1461,11 +1355,11 @@
       "questions": [
         {
           "clue": "Pensez à la terre qui bouge",
-          "text": "Surnom du président Lyndon B. Johnson"*
+          "text": "Surnom du président Lyndon B. Johnson"
         },
         {
           "clue": "“Elle la fera tomber”",
-          "text": "Chanson du groupe Fleetwood Mac"*
+          "text": "Chanson du groupe Fleetwood Mac"
         },
         {
           "clue": "Ça rend tout boueux...",
@@ -1473,7 +1367,7 @@
         },
         {
           "clue": "Dites-le à voix haute",
-          "text": "Mot de deux syllabes"*
+          "text": "Mot de deux syllabes"
         },
         {
           "clue": "Qui mesure la distance",
@@ -1498,11 +1392,11 @@
         },
         {
           "clue": "Nom de famille West, prénom différent",
-          "text": "Prénom du premier enfant de Kim Kardashian et Kanye West"*
+          "text": "Prénom du premier enfant de Kim Kardashian et Kanye West"
         },
         {
           "clue": "Allitération",
-          "text": "Film d’Hitchcock : _____ [i]by Northwest[/i]"*
+          "text": "Film d’Hitchcock : _____ [i]by Northwest[/i]"
         },
         {
           "clue": "Direction vers la maison du Père Noël",
@@ -1510,7 +1404,7 @@
         },
         {
           "clue": "N’a qu’une seule voyelle",
-          "text": "Il a quitté l’armée après l’affaire Iran-Contra"*
+          "text": "Il a quitté l’armée après l’affaire Iran-Contra"
         }
       ],
       "text": "Nord"
@@ -1531,11 +1425,11 @@
         },
         {
           "clue": "Quelle direction mène au Mexique depuis les États-Unis ?",
-          "text": "Vieille chanson de Gene Autry : “____ of the Border (Down Mexico Way)”"*
+          "text": "Vieille chanson de Gene Autry : “____ of the Border (Down Mexico Way)”"
         },
         {
           "clue": "“Shout, shout, let it all out!”",
-          "text": "Anagramme du titre d’une chanson de Tears for Fears"*
+          "text": "Anagramme du titre d’une chanson de Tears for Fears"
         }
       ],
       "text": "Sud"
@@ -1556,11 +1450,11 @@
         },
         {
           "clue": "Prénom : Clint",
-          "text": "___wood, réalisateur de [i]Million Dollar Baby[/i] et [i]Juror #2[/i]"*
+          "text": "___wood, réalisateur de [i]Million Dollar Baby[/i] et [i]Juror #2[/i]"
         },
         {
           "clue": "Ajoutez un “y” au début",
-          "text": "Ajoutez un “y” pour obtenir un champignon utilisé dans la bière"*
+          "text": "Ajoutez un “y” pour obtenir un champignon utilisé dans la bière"
         }
       ],
       "text": "Est"
@@ -1569,7 +1463,7 @@
       "questions": [
         {
           "clue": "Le soleil se couche sur son nom",
-          "text": "Adam qui jouait Batman dans la série télé des années 1960"*
+          "text": "Adam qui jouait Batman dans la série télé des années 1960"
         },
         {
           "clue": "Autrement dit “allez à gauche” sur la carte",
@@ -1577,11 +1471,11 @@
         },
         {
           "clue": "Dernier mot par ordre alphabétique",
-          "text": "Comédie musicale de 1957 : ___ [i]Side Story[/i]"*
+          "text": "Comédie musicale de 1957 : ___ [i]Side Story[/i]"
         },
         {
           "clue": "Une série sur des robots cow-boys",
-          "text": "___[i]World[/i] sur HBO"*
+          "text": "___[i]World[/i] sur HBO"
         },
         {
           "clue": "Opposé de l’est",
@@ -1641,7 +1535,7 @@
         },
         {
           "clue": "Aucun rapport avec les oranges de Floride",
-          "text": "Ingrédient d’une célèbre tarte de Key West"*
+          "text": "Ingrédient d’une célèbre tarte de Key West"
         }
       ],
       "text": "Poire"
@@ -1761,7 +1655,7 @@
         },
         {
           "clue": "Utile pour le camping !",
-          "text": "Harry Potter et la Coupe de _____"*
+          "text": "Harry Potter et la Coupe de _____"
         },
         {
           "clue": "Pas un mot de cinq lettres",
@@ -2485,56 +2379,6 @@
         }
       ],
       "text": "Sting"
-    },
-    {
-     "questions": [
-      {
-       "clue": "A symbiote from space who fought Spider-Man",
-       "text": "Eddie Brock’s anti-hero alter ego"
-      },
-      {
-       "clue": "Not Spawn or Hiss",
-       "text": "An American Gladiator played by Beth Horn"
-      },
-      {
-       "clue": "For the Tom Hardy movie",
-       "text": "The title of a 2018 Eminem song"
-      },
-      {
-       "clue": "It made your computer VERY sick",
-       "text": "The name of a computer security flaw discovered in 2015"
-      },
-      {
-       "clue": "Types of toxins making up...",
-       "text": "Different categories include: necro, neuro & hemo"
-      }
-     ],
-     "text": "Venom"
-    },
-    {
-     "questions": [
-      {
-       "clue": "Not Venom or Sting",
-       "text": "Independent comic character created by Todd Macfarlane"
-      },
-      {
-       "clue": "Don’t camp out on their ______ point.",
-       "text": "What do [i]Call of Duty[/i] players do after they die?"
-      },
-      {
-       "clue": "How do you make a child?",
-       "text": "Computer function; executes a new child process"
-      },
-      {
-       "clue": "They’re the kids of an elder god",
-       "text": "Lovecraft’s [i]At the Mountains of Madness[/i] discusses the “Star-_______ of Chtulhu”"
-      },
-      {
-       "clue": "It’s similar to caviar",
-       "text": "Sujiko is a type of this"
-      }
-     ],
-     "text": "Spawn"
     }
   ],
   "category": "Créatures redoutables",
