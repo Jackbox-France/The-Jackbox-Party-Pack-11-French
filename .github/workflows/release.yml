@@ -36,6 +36,7 @@ jobs:
       with:
           ref: main-beta
           clean: true
+    - run: mkdir -p outputs
     - name: Zipping beta release
       working-directory: main
       run: |
