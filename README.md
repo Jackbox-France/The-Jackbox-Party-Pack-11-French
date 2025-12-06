@@ -8,7 +8,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Doominate  | ✅ | ✅ | ✅ | ❌ | ❌ | MisterShaokahn, Alexandre ROY, Sockonacab |
 | Hear Say  | ✅ | ✅ | ❌ | ❌ | ❌ | MisterShaokahn, Alexandre ROY, AntNv335 | 
-| Cookie Haus  | ✅ | ✅ | ❌ | ❌ | ❌ | Alexandre ROY |
+| Cookie Haus  | ✅ | ✅ | ❌ | ❌ | ❌ | Alexandre ROY et MisterShaokahn |
 | Suspectives  | ✅ | ✅ | ✅ | ❌ | ❌ | Alexis L, Alexandre ROY, AntNv335, Sockonacab |
 | Legends of Trivia | ❌ | ❌ | ❌ | ❌ | ❌ | MisterShaokahn, Alexandre ROY, AntNv335, Sockonacab |
 
