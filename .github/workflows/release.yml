@@ -49,3 +49,11 @@ jobs:
          tag: ${{ env.VERSION }}
          prerelease: false
          allowUpdates: true
+    - name: Upload release onto Github
+      uses: ncipollo/release-action@v1
+      with:
+         artifacts: 'outputs/JPP11-beta.zip'
+         token: ${{ secrets.GITHUB_TOKEN }}
+         tag: ${{ env.VERSION }}
+         prerelease: false
+         allowUpdates: true
