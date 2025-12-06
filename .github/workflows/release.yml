@@ -27,10 +27,19 @@ jobs:
     - run: rm -r ./main/games/TriviaRPG
     - run: mkdir -p outputs
     - run: echo "${VERSION}"
-    - name: Zipping windows release
+    - name: Zipping release
       working-directory: main
       run: |
           zip -r ../outputs/JPP11.zip *
+    - name: Checkout to main-beta
+      uses: actions/checkout@v3
+      with:
+          ref: main-beta
+          clean: true
+    - name: Zipping beta release
+      working-directory: main
+      run: |
+          zip -r ../outputs/JPP11-beta.zip *
     - name: Upload release onto Github
       uses: ncipollo/release-action@v1
       with:
