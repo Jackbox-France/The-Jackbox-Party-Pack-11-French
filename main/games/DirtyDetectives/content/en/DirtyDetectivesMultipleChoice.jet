@@ -4277,10 +4277,10 @@
     },
     {
      "choices": [
-      "I was born not knowing about F1, and I'll die not knowing about F1."
+      "Je suis né sans connaître la F1, et je mourrai sans connaître la F1."
      ],
-     "finding": "Perp does not know - and will never know - {{RED}}anything about F1.",
-     "summary": "HAMILTON F1: {{RED}}DUNNO LOL"
+     "finding": "Le coupable ne sait rien - et ne saura jamais rien - {{RED}}sur la F1.",
+     "summary": "HAMILTON F1: {{RED}}SAIS PÔ LOL"
     }
    ],
    "familiarity": "FRIENDS",
@@ -4290,7 +4290,7 @@
     "Does the word \"Haas\" make you feel anything?",
     "Do you even know what kind of cars they drive in F1?"
    ],
-   "question": "En cette année (2025), pour quelle écurie de Formule 1 Lewis Hamilton court-il ?",
+   "question": "Durant l'année 2025, pour quelle écurie de Formule 1 Lewis Hamilton a-t-il couru ?",
    "reminder": "Formule 1 Fun",
    "starterContent": true
   },
@@ -4562,7 +4562,7 @@
     },
     {
      "choices": [
-      "No. Humans are born bad and stay that way."
+      "Non. Les êtres humains naissent mauvais et le restent."
      ],
      "finding": "Le suspect pense que {{RED}}les êtres humains naissent mauvais et restent ainsi.",
      "summary": "HUMAIN : {{RED}}MAUVAIS POUR TOUJOURS"

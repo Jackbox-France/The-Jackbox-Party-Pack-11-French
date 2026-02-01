@@ -98,13 +98,13 @@
   },
   {
    "choices": [
-    "Un tube en Plomb",
-    "Une batte de Baseball",
-    "Un club de Golf",
-    "Une rame de Bateau",
-    "Une grosse Pierre",
-    "Un marteau",
-    "Un haltère"
+    "Un Tube en Plomb",
+    "Une Batte de Baseball",
+    "Un Club de Golf",
+    "Une Rame de Bateau",
+    "Une Grosse Pierre",
+    "Un Marteau",
+    "Un Haltère"
    ],
    "crime": {
     "description": "A frappé quelqu'un avec {{SELECTION}}",
@@ -175,7 +175,7 @@
     "Un Coffre-Fort",
     "Un Flipper",
     "Un Boulet de Canon",
-    "Une enclume d'ACME",
+    "Une Enclume d'ACME",
     "Un Cercueil",
     "Un Lit King-Size"
    ],
@@ -203,7 +203,7 @@
     "La Station Spatiale Internationale"
    ],
    "crime": {
-    "description": "Il a juste poussé la victime hors de {{SELECTION}}",
+    "description": "La victime a été poussée hors de {{SELECTION}}",
     "offense": "HOMICIDE DE HAUTE ALTITUDE",
     "summary": "POUSSÉ DE : {{SELECTION}}",
     "title": [
@@ -283,7 +283,7 @@
    },
    "familiarity": "FRIENDS",
    "id": "112208",
-   "question": "Oh, regarde, un marqueur et un mur de toilettes vierge. Qu'est-ce que vous allez écrire ?",
+   "question": "Oh, regardez, un marqueur et un mur de toilettes vierge. Qu'est-ce que vous allez écrire ?",
    "starterContent": true
   },
   {
@@ -338,11 +338,11 @@
   },
   {
    "choices": [
-    "Conduite de Chariot élévateur",
-    "Élevage de chinchillas",
-    "Pilotage d'hélicoptère",
-    "Cosmétologie post‑mortem",
-    "Conduite de grue",
+    "Conduite de Chariot Élévateur",
+    "Élevage de Chinchillas",
+    "Pilotage d'Hélicoptère",
+    "Cosmétologie Post‑mortem",
+    "Conduite de Grue",
     "Soudage en profondeur"
    ],
    "crime": {
@@ -370,7 +370,7 @@
     "Vol de voiture"
    ],
    "crime": {
-    "description": "Comme rôle choisi par quelqu'un à un braquage",
+    "description": "Comme rôle choisi pour un braquage",
     "offense": "{{SELECTION}}",
     "summary": "BRAQUAGE : {{SELECTION}}",
     "title": [
@@ -386,17 +386,17 @@
   },
   {
    "choices": [
-    "Shakira",
-    "Lady Gaga",
-    "Paul McCartney",
-    "Jennifer Coolidge",
-    "Rihanna",
-    "The Rock",
-    "Dr. Phil",
-    "Beyoncé"
-   ],
+  "Omar Sy",
+  "Marion Cotillard",
+  "Jean Dujardin",
+  "Stromae",
+  "Aya Nakamura",
+  "Kylian Mbappé",
+  "Gad Elmaleh",
+  "Mylène Farmer"
+],
    "crime": {
-    "description": "Usurpation de {{SELECTION}}",
+    "description": "Usurpation de/d' {{SELECTION}}",
     "offense": "VOL D'IDENTITÉ",
     "summary": "USURPÉ : {{SELECTION}}",
     "title": [
@@ -425,7 +425,7 @@
     "offense": "EMPOISONNEMENT",
     "summary": "POISON : {{SELECTION}}",
     "title": [
-     "Ca a quel goût, déjà ?",
+     "Ça a quel goût, déjà ?",
      "Bien mieux que la mort aux rats",
      "Tout ça donne soif"
     ]
@@ -461,7 +461,7 @@
   },
   {
    "choices": [
-    "Une voiture... normale quoi",
+    "Une voiture... normal quoi",
     "Un jet privé",
     "Une montgolfière",
     "Une voiture de sport",
@@ -604,7 +604,7 @@
     "Voler des miliardaires",
     "Exposer la corruption",
     "Détruire les réseaux sociaux",
-    "Mettre fin aux scammers",
+    "Mettre fin aux arnaqueurs",
     "Dévoiler les secrets d'État",
     "Cyberharceler un ennemi"
    ],
@@ -659,7 +659,7 @@
     "Un centre commercial abandonné"
    ],
    "crime": {
-    "description": "Le criminel a choisi de s'introduire furtivement dans {{SELECTION}}",
+    "description": "Le criminel s'est introduit furtivement dans {{SELECTION}}",
     "offense": "INTRUSION",
     "summary": "INTRUSION : {{SELECTION}}",
     "title": [
@@ -827,7 +827,7 @@
     "Une batte de baseball",
     "Un javelot",
     "Une pierre de curling",
-    "Un vendeur de hot-dogs"
+    "Un stand de hot-dogs"
    ],
    "crime": {
     "description": "En utilisant {{SELECTION}}",
