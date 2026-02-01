@@ -45,7 +45,7 @@
   {
    "appearance": "LATE",
    "category": "FORENSICS",
-   "evidence": "Si le suspect devait se faire tatouer un seul mot, ce mot serait : “{{SELECTION}}”",
+   "evidence": "Si le suspect devait se faire tatouer un seul mot, ce serait : “{{SELECTION}}”",
    "familiarity": "FRIENDS",
    "id": "107196",
    "interrogations": [
@@ -585,7 +585,7 @@
     "Have you been injured? Where?",
     "Do you have a weak stomach?"
    ],
-   "question": "Si vous étiez un boss de jeu vidéo, où serait votre point faible rougeoyant ?",
+   "question": "Si vous étiez un boss de jeu vidéo, où serait votre point faible en surbrillance ?",
    "reminder": "Point Faible ?",
    "starterContent": false,
    "summary": "POINT FAIBLE: {{SELECTION}}"
