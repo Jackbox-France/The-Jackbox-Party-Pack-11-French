@@ -968,6 +968,16 @@
      "altText": "Fer à cheval violet",
      "correct": true,
      "hint": "Fer à cheval violet ajouté en 1983"
+    },
+    {
+     "altText": "Gold Coin",
+     "correct": false,
+     "hint": "Lucky doesn’t have any gold coins"
+    },
+    {
+     "altText": "White Cloud",
+     "correct": false,
+     "hint": "No white clouds... they would just look like normal marshmallows"
     }
    ],
    "id": "112630",
@@ -2092,6 +2102,11 @@
      "altText": "Prométhée",
      "correct": true,
      "hint": "Prométhée volant le feu pour l’humanité"
+    },
+    {
+     "altText": "The Thinker",
+     "correct": false,
+     "hint": "This Rodin piece was originally inspired by Dante’s Inferno"
     },
     {
      "altText": "Thor, dieu du tonnerre",

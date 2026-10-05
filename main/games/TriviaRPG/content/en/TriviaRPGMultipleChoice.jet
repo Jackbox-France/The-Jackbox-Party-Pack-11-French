@@ -9200,6 +9200,7 @@
     }
    ],
    "clue": "Ce n’est pas un burger",
+   "countrySpecific": false,
    "id": "111684",
    "isEasy": false,
    "question": "Quel ''hamburgé'' n'est pas sur la carte du restaurant Big Fernand",
@@ -9281,7 +9282,8 @@
    "id": "111693",
    "isEasy": false,
    "question": "CÉLIBATAIRES CHAUDS DANS VOTRE ROYAUME — mais lequel est le plus chaud ?",
-   "theme": "DESERT"
+   "theme": "DESERT",
+   "x": true
   },
    {
    "category": "Un fleuve le traverse",
@@ -9753,7 +9755,8 @@
    "id": "112353",
    "isEasy": false,
    "question": "Leçon d’alchimie : le calcium et l’acide oxalique te donneront…",
-   "theme": "CASTLE"
+   "theme": "CASTLE",
+   "x": true
   },
   {
 "category": "De la page à l’écran",
@@ -9988,7 +9991,8 @@
    "id": "112727",
    "isEasy": false,
    "question": "Quel vêtement fera à coup sûr paraître vos fesses plus grosses ?",
-   "theme": "CASTLE"
+   "theme": "CASTLE",
+   "x": false
   },
   {
    "category": "Noms astronomiques",
@@ -10115,6 +10119,7 @@
     }
    ],
    "clue": "Tu es sûr de toi",
+   "countrySpecific": true,
    "id": "112756",
    "isEasy": false,
    "question": "Avec quel mot “shire” dans “Worcestershire sauce” rime-t-il réellement en anglais ?",
@@ -10379,7 +10384,8 @@
    "id": "114175",
    "isEasy": false,
    "question": "Votre groupe observe le continent fictif de Tamriel sur la planète Nirn… que faites-vous ?",
-   "theme": "DESERT"
+   "theme": "DESERT",
+   "x": false
   },
   {
    "category": "Couteaux !",

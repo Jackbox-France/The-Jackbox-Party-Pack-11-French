@@ -2169,6 +2169,7 @@
     }
    ],
    "clue": "Les prix Pulitzer ne récompensent pas que les livres.",
+   "countrySpecific": false,
    "id": "112995",
    "isEasy": false,
    "question": "Quelles deux personnes ont remporté un prix Pulitzer ?",
