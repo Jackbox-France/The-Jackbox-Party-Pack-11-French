@@ -1,0 +1,104 @@
+{
+    "payload": [
+        {
+            "id": "tutorialSelfHealPotion",
+            "name": "SELF_HEALING_POTION_NAME",
+            "itemDesign": "Heal",
+            "description": "SELF_HEALING_POTION_DESCRIPTION",
+            "buyValue": 100,
+            "sellValue": 90,
+            "triggerable": true,
+            "effects": [
+                {
+                    "action": "doSelfHeal",
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "id": "tutorialBlitzPotion",
+            "name": "BLITZ_ATTACK_POTION_NAME",
+            "itemDesign": "Blitz",
+            "description": "BLITZ_ATTACK_DESCRIPTION",
+            "buyValue": 100,
+            "sellValue": 90,
+            "triggerable": true,
+            "effects": [
+                {
+                    "action": "doAttack"
+                }
+            ]
+        },
+        {
+            "id": "world1TestSelfHealPotion",
+            "name": "SELF_HEALING_POTION_NAME",
+            "itemDesign": "Heal",
+            "description": "SELF_HEALING_POTION_DESCRIPTION",
+            "buyValue": 125,
+            "sellValue": 90,
+            "triggerable": true,
+            "effects": [
+                {
+                    "action": "doSelfHeal",
+                    "value": 300
+                }
+            ]
+        },
+        {
+            "id": "world1TestAttackPotion",
+            "name": "BLITZ_ATTACK_POTION_NAME",
+            "itemDesign": "Blitz",
+            "description": "BLITZ_ATTACK_DESCRIPTION",
+            "buyValue": 75,
+            "sellValue": 50,
+            "triggerable": true,
+            "effects": [
+                {
+                    "action": "doAttack"
+                }
+            ]
+        },
+        {
+            "id": "hintPotion",
+            "name": "HINT_POTION_NAME",
+            "itemDesign": "PhoneABard",
+            "description": "HINT_POTION_DESCRIPTION",
+            "buyValue": 125,
+            "sellValue": 75,
+            "triggerable": true,
+            "effects": [
+                {
+                    "action": "doHint"
+                }
+            ]
+        },
+        {
+            "id": "defendPotion",
+            "name": "DEFEND_POTION_NAME",
+            "itemDesign": "Block",
+            "description": "DEFEND_POTION_DESCRIPTION",
+            "buyValue": 100,
+            "sellValue": 75,
+            "triggerable": false,
+            "effects": [
+                {
+                    "action": "doDefend"
+                }
+            ]
+        },
+        {
+            "id": "autoRevivePotion",
+            "name": "AUTO_REVIVE_POTION",
+            "itemDesign": "Resurrect",
+            "description": "AUTO_REVIVE_POTION_DESCRIPTION",
+            "buyValue": 200,
+            "sellValue": 150,
+            "triggerable": false,
+            "effects": [
+                {
+                    "action": "doAutoRevive"
+                }
+            ]
+        }
+    ]
+}

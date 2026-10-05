@@ -131,33 +131,33 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Reality TV",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Vanderpump Rules[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Les Real Housewives d’Atlanta[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Southern Charm[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Married to Medicine[/i]"
-    }
-   ],
-   "clue": "Les deux qui font référence au mariage ou aux époux.",
-   "countrySpecific": true,
-   "id": "109872",
-   "isEasy": false,
-   "question": "Phaedra Parks a été une habituée de quelles deux émissions de téléréalité de Bravo ?",
-   "theme": "CEMETERY",
-   "x": true
-  },
+"category": "Téléréalité",
+"choices": [
+{
+"correct": false,
+"text": "[i]Koh-Lanta[/i]"
+},
+{
+"correct": true,
+"text": "[i]L’amour est dans le pré[/i]"
+},
+{
+"correct": false,
+"text": "[i]Secret Story[/i]"
+},
+{
+"correct": true,
+"text": "[i]Cauchemar en cuisine[/i]"
+}
+],
+"clue": "À la ferme ou en cuisine, on tente de sauver des cœurs ou des restaurants.",
+"countrySpecific": true,
+"id": "109872",
+"isEasy": false,
+"question": "Quelles deux émissions de téléréalité françaises sont diffusées sur M6 ?",
+"theme": "CEMETERY",
+"x": true
+},
   {
    "category": "Coat of Arms",
    "choices": [
@@ -317,31 +317,31 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "GADGETS",
-   "choices": [
-    {
-     "correct": false,
-     "text": "iPod"
-    },
-    {
-     "correct": false,
-     "text": "Xbox"
-    },
-    {
-     "correct": true,
-     "text": "Swiffer"
-    },
-    {
-     "correct": true,
-     "text": "Dippin’ Dots : la crème glacée du futur"
-    }
-   ],
-   "clue": "Plutôt Dippin’ Shops.",
-   "id": "110094",
-   "isEasy": false,
-   "question": "Quels deux produits ont été créés avant l’an 2000 ?",
-   "theme": "CASTLE"
-  },
+"category": "CONSOLES",
+"choices": [
+{
+"correct": false,
+"text": "Game Boy"
+},
+{
+"correct": false,
+"text": "Atari Lynx"
+},
+{
+"correct": true,
+"text": "PlayStation"
+},
+{
+"correct": true,
+"text": "Super Nintendo"
+}
+],
+"clue": "Les deux mauvaises réponses ont un peu trop d’avance sur les années 90.",
+"id": "110094",
+"isEasy": false,
+"question": "Quelles deux consoles ont été commercialisées dans les années 1990 ?",
+"theme": "CASTLE"
+},
   {
    "category": "THE FORGE",
    "choices": [
@@ -604,32 +604,32 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Modern Sitcoms",
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Single-ish[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Jew-ish[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Grown-ish[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Mixed-ish[/i]"
-    }
-   ],
-   "clue": "C’est un mélange de suite et de préquelle.",
-   "countrySpecific": true,
-   "id": "111686",
-   "isEasy": false,
-   "question": "Quelles sont les deux séries dérivées de [i]Black-ish[/i] ?",
-   "theme": "CASTLE"
-  },
+"category": "Séries culte",
+"choices": [
+{
+"correct": false,
+"text": "[i]Luther[/i]"
+},
+{
+"correct": false,
+"text": "[i]Tulsa King[/i]"
+},
+{
+"correct": true,
+"text": "[i]Better Call Saul[/i]"
+},
+{
+"correct": true,
+"text": "[i]The Wire[/i]"
+}
+],
+"clue": "Cherche plutôt du côté des avocats et des écoutes.",
+"countrySpecific": true,
+"id": "111686",
+"isEasy": false,
+"question": "Quelles deux séries mettent en scène un avocat comme personnage important ou récurrent ?",
+"theme": "CASTLE"
+},
   {
    "category": "ARACHNID FACTS",
    "choices": [
@@ -709,32 +709,32 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Sport Legacies",
-   "choices": [
-    {
-     "correct": false,
-     "text": "Atlanta Falcons"
-    },
-    {
-     "correct": false,
-     "text": "Buffalo Bills"
-    },
-    {
-     "correct": true,
-     "text": "Cleveland Browns"
-    },
-    {
-     "correct": true,
-     "text": "Detroit Lions"
-    }
-   ],
-   "clue": "Voici nos vraies couleurs, sans mensonge.",
-   "countrySpecific": true,
-   "id": "111750",
-   "isEasy": false,
-   "question": "Choisis les deux équipes qui ne sont jamais allées au Super Bowl.",
-   "theme": "CASTLE"
-  },
+"category": "Football européen",
+"choices": [
+{
+"correct": false,
+"text": "Arsenal"
+},
+{
+"correct": false,
+"text": "Atlético de Madrid"
+},
+{
+"correct": true,
+"text": "Real Madrid"
+},
+{
+"correct": true,
+"text": "Liverpool"
+}
+],
+"clue": "Les deux bonnes réponses ont déjà soulevé la coupe aux grandes oreilles.",
+"countrySpecific": true,
+"id": "111750",
+"isEasy": false,
+"question": "Quels deux clubs ont remporté la Ligue des champions de l’UEFA ?",
+"theme": "CASTLE"
+},
   {
    "category": "Arachnid Facts",
    "choices": [
@@ -788,31 +788,31 @@
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Blaxploitation",
-   "choices": [
-    {
-     "correct": false,
-     "text": "“Le détective de la rue à la recherche de la vérité”"
-    },
-    {
-     "correct": true,
-     "text": "“Le type qui ne se défile jamais”"
-    },
-    {
-     "correct": false,
-     "text": "“Ce costaud ne transpire pas pour les minables”"
-    },
-    {
-     "correct": true,
-     "text": "“C’est un homme compliqué”"
-    }
-   ],
-   "clue": "C’est à la fois un chat et un homme.",
-   "id": "111757",
-   "isEasy": false,
-   "question": "Quelles sont les deux descriptions de Shaft dans la chanson oscarisée “Theme From Shaft” ?",
-   "theme": "CASTLE"
-  },
+"category": "Chansons cultes",
+"choices": [
+{
+"correct": false,
+"text": "“La Vie en rose”"
+},
+{
+"correct": true,
+"text": "“Comme d’habitude”"
+},
+{
+"correct": false,
+"text": "“Non, je ne regrette rien”"
+},
+{
+"correct": true,
+"text": "“Le Moribond”"
+}
+],
+"clue": "Les adaptations anglaises sont devenues célèbres grâce à Sinatra et Terry Jacks.",
+"id": "111757",
+"isEasy": false,
+"question": "Quelles deux chansons francophones ont donné naissance à de grands succès en anglais ?",
+"theme": "CASTLE"
+},
   {
    "category": "Protagonist Problems",
    "choices": [
@@ -3159,7 +3159,7 @@
     },
     {
      "correct": true,
-     "text": "Lights! Caramel! Action!"
+     "text": "Lumières! Caramel! Action!"
     }
    ],
    "clue": "Les deux bonnes réponses contiennent un mot qui rime avec “right”.",

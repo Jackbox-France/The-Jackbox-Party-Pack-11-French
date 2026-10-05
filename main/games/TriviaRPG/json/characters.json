@@ -1,0 +1,140 @@
+{
+    "payload":[
+        {
+            "id": 0,
+            "characterName": "WARRIOR_CHARACTER_NAME",
+            "avatarIndex": 0, 
+            "className": "WARRIOR_CLASS_NAME", 
+            "description": "WARRIOR_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": 0.35,
+                "healthModifier": 0,
+                "defenseModifier": 0,
+                "goldModifier": -0.1
+            }
+        },
+        { 
+            "id": 1,
+            "characterName": "PALADIN_CHARACTER_NAME",
+            "avatarIndex": 1,  
+            "className": "PALADIN_CLASS_NAME", 
+            "description": "PALADIN_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": -0.35,
+                "healthModifier": 0.35,
+                "defenseModifier": 0,
+                "goldModifier": 0
+            }
+        },
+        { 
+            "id": 2, 
+            "characterName": "MAGE_CHARACTER_NAME",
+            "avatarIndex": 2,
+            "className": "MAGE_CLASS_NAME", 
+            "description": "MAGE_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": 0.35,
+                "healthModifier": -0.35,
+                "defenseModifier": 0,
+                "goldModifier": 0
+            }
+        },
+        { 
+            "id": 3,
+            "characterName": "HEALER_CHARACTER_NAME",
+            "avatarIndex": 3,
+            "className": "HEALER_CLASS_NAME", 
+            "description": "HEALER_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": 0,
+                "healthModifier": -0.35,
+                "defenseModifier": 0,
+                "goldModifier": 0.1
+            }
+        },
+        { 
+            "id": 4, 
+            "characterName": "RANGER_CHARACTER_NAME",
+            "avatarIndex": 4, 
+            "className": "RANGER_CLASS_NAME", 
+            "description": "RANGER_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": 0,
+                "healthModifier": 0,
+                "defenseModifier": 0,
+                "goldModifier": 0
+            }
+        },
+        { 
+            "id": 5, 
+            "characterName": "TRICKSTER_CHARACTER_NAME",
+            "avatarIndex": 5,
+            "className": "TRICKSTER_CLASS_NAME", 
+            "description": "TRICKSTER_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": -0.35,
+                "healthModifier": 0,
+                "defenseModifier": 0,
+                "goldModifier": 0.1
+            }
+        },
+        { 
+            "id": 6,
+            "characterName": "DRAGONBORN_CHARACTER_NAME",
+            "avatarIndex": 6,  
+            "className": "DRAGONBORN_CLASS_NAME", 
+            "description": "DRAGONBORN_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": 0,
+                "healthModifier": 0,
+                "defenseModifier": 0,
+                "goldModifier": 0
+            }
+        },
+        { 
+            "id": 7, 
+            "characterName": "DWARF_CHARACTER_NAME",
+            "avatarIndex": 7,  
+            "className": "DWARF_CLASS_NAME", 
+            "description": "DWARF_CLASS_DESCRIPTION", 
+            "textDescription": "DEFAULT_CLASS_TEXT_DESCRIPTION",
+            "baseHealth": 1000,
+            "startingGold": 0,
+            "statModifiers" :
+            {
+                "attackModifier": 0,
+                "healthModifier": 0.35,
+                "defenseModifier": 0,
+                "goldModifier": -0.1
+            }
+        }
+    ]
+}

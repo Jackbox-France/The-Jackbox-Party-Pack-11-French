@@ -1,0 +1,84 @@
+{
+  "payload": [
+    {
+        "dieValue": 1,
+        "goldToAdd": -1000
+    },
+    {
+        "dieValue": 2,
+        "goldToAdd": -950
+    },
+    {
+        "dieValue": 3,
+        "goldToAdd": -900
+    },
+    {
+        "dieValue": 4,
+        "goldToAdd": -850
+    },
+    {
+        "dieValue": 5,
+        "goldToAdd": -800
+    },
+    {
+        "dieValue": 6,
+        "goldToAdd": -800
+    },
+    {
+        "dieValue": 7,
+        "goldToAdd": -800
+    },
+    {
+        "dieValue": 8,
+        "goldToAdd": -600
+    },
+    {
+        "dieValue": 9,
+        "goldToAdd": -600
+    },
+    {
+        "dieValue": 10,
+        "goldToAdd": -600
+    },
+    {
+        "dieValue": 11,
+        "goldToAdd": -600
+    },
+    {
+        "dieValue": 12,
+        "goldToAdd": -500
+    },
+    {
+        "dieValue": 13,
+        "goldToAdd": -500
+    },
+    {
+        "dieValue": 14,
+        "goldToAdd": -500
+    },
+    {
+        "dieValue": 15,
+        "goldToAdd": -500
+    },
+    {
+        "dieValue": 16,
+        "goldToAdd": -400
+    },
+    {
+        "dieValue": 17,
+        "goldToAdd": -300
+    },
+    {
+        "dieValue": 18,
+        "goldToAdd": -200
+    },
+    {
+        "dieValue": 19,
+        "goldToAdd": -100
+    },
+    {
+        "dieValue": 20,
+        "goldToAdd": 500
+    }
+  ]
+}

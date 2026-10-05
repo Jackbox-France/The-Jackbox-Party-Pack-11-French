@@ -106,174 +106,174 @@
   },
   {
    "choices": [
-  {
-    "altText": "Revolver",
-    "correct": true,
-    "hint": "Compter les balles dans le revolver est une grande blague du film"
-  },
-  {
-    "altText": "Clé à molette",
-    "correct": true,
-    "hint": "La clé à molette est appelée spanner dans la version britannique"
-  },
-  {
-    "altText": "Couteau",
-    "correct": true,
-    "hint": "Également connu sous le nom de dague"
-  },
-  {
-    "altText": "Poison",
-    "correct": false,
-    "hint": "Le poison a été ajouté dans la version du jeu sur magnétoscope"
-  },
-  {
-    "altText": "Marteau",
-    "correct": false,
-    "hint": "Le marteau n’est une arme que dans le jeu dérivé de 2003"
-  },
-  {
-    "altText": "Hache",
-    "correct": false,
-    "hint": "Non, mais elle figurait dans la version avancée des années 80"
-  },
-  {
-    "altText": "Corde",
-    "correct": true,
-    "hint": "Le pion est tout enroulé"
-  },
-  {
-    "altText": "Tuyau de plomb",
-    "correct": true,
-    "hint": "Le Docteur Lenoir se prend vraiment du plomb"
-  },
-  {
-    "altText": "Arbalète",
-    "correct": false,
-    "hint": "Aucune flèche de quelque sorte que ce soit n’apparaît"
-  },
-  {
-    "altText": "Poêle à frire",
-    "correct": false,
-    "hint": "Le couteau est le seul ustensile de cuisine utilisé"
-  }
-],
-"id": "109772",
-"isEasy": false,
-"question": "Les armes du meurtre originales dans Cluedo (1949)"
-  },
-  {
-   "choices": [
-  {
-    "altText": "Arc de Triomphe",
-    "correct": true,
-    "hint": "L’Arc de Triomphe se trouve à Paris"
-  },
-  {
-    "altText": "Le Christ Rédempteur",
-    "correct": false,
-    "hint": "Le Christ Rédempteur se trouve à Rio de Janeiro"
-  },
-  {
-    "altText": "La Grande Muraille de Chine",
-    "correct": false,
-    "hint": "Devine où se trouve la Grande Muraille de Chine"
-  },
-  {
-    "altText": "Hôtel Paris Las Vegas",
-    "correct": false,
-    "hint": "Ceci est l’hôtel Paris Las Vegas"
-  },
-  {
-    "altText": "La tour Eiffel",
-    "correct": true,
-    "hint": "Ceci est la véritable tour Eiffel"
-  },
-  {
-    "altText": "Stonehenge",
-    "correct": true,
-    "hint": "Stonehenge se trouve au Royaume-Uni"
-  },
-  {
-    "altText": "Palais du Parlement",
-    "correct": true,
-    "hint": "Big Ben est la cloche, pas l’horloge"
-  },
-  {
-    "altText": "Notre-Dame",
-    "correct": true,
-    "hint": "C’est ici que vit le Bossu"
-  },
-  {
-    "altText": "Taj Mahal",
-    "correct": false,
-    "hint": "Le Taj Mahal se trouve dans la ville d’Agra"
-  },
-  {
-    "altText": "Salto Ángel",
-    "correct": false,
-    "hint": "Voici le Salto Ángel"
-  }
-],
-"id": "109773",
-"isEasy": false,
-"question": "Photos prises en Europe"
+    {
+     "altText": "Revolver",
+     "correct": true,
+     "hint": "Compter les balles dans le revolver est une grande blague du film"
+    },
+    {
+     "altText": "Clé à molette",
+     "correct": true,
+     "hint": "La clé à molette est appelée spanner dans la version britannique"
+    },
+    {
+     "altText": "Couteau",
+     "correct": true,
+     "hint": "Également connu sous le nom de dague"
+    },
+    {
+     "altText": "Poison",
+     "correct": false,
+     "hint": "Le poison a été ajouté dans la version du jeu sur magnétoscope"
+    },
+    {
+     "altText": "Marteau",
+     "correct": false,
+     "hint": "Le marteau n’est une arme que dans le jeu dérivé de 2003"
+    },
+    {
+     "altText": "Hache",
+     "correct": false,
+     "hint": "Non, mais elle figurait dans la version avancée des années 80"
+    },
+    {
+     "altText": "Corde",
+     "correct": true,
+     "hint": "Le pion est tout enroulé"
+    },
+    {
+     "altText": "Tuyau de plomb",
+     "correct": true,
+     "hint": "Le Docteur Lenoir se prend vraiment du plomb"
+    },
+    {
+     "altText": "Arbalète",
+     "correct": false,
+     "hint": "Aucune flèche de quelque sorte que ce soit n’apparaît"
+    },
+    {
+     "altText": "Poêle à frire",
+     "correct": false,
+     "hint": "Le couteau est le seul ustensile de cuisine utilisé"
+    }
+   ],
+   "id": "109772",
+   "isEasy": false,
+   "question": "Les armes du meurtre originales dans Cluedo (1949)"
   },
   {
    "choices": [
-  {
-    "altText": "Chèvre",
-    "correct": true,
-    "hint": "Cet animal donne du lait, parfait pour les oeufs"
+    {
+     "altText": "Arc de Triomphe",
+     "correct": true,
+     "hint": "L’Arc de Triomphe se trouve à Paris"
+    },
+    {
+     "altText": "Le Christ Rédempteur",
+     "correct": false,
+     "hint": "Le Christ Rédempteur se trouve à Rio de Janeiro"
+    },
+    {
+     "altText": "La Grande Muraille de Chine",
+     "correct": false,
+     "hint": "Devine où se trouve la Grande Muraille de Chine"
+    },
+    {
+     "altText": "Hôtel Paris Las Vegas",
+     "correct": false,
+     "hint": "Ceci est l’hôtel Paris Las Vegas"
+    },
+    {
+     "altText": "La tour Eiffel",
+     "correct": true,
+     "hint": "Ceci est la véritable tour Eiffel"
+    },
+    {
+     "altText": "Stonehenge",
+     "correct": true,
+     "hint": "Stonehenge se trouve au Royaume-Uni"
+    },
+    {
+     "altText": "Palais du Parlement",
+     "correct": true,
+     "hint": "Big Ben est la cloche, pas l’horloge"
+    },
+    {
+     "altText": "Notre-Dame",
+     "correct": true,
+     "hint": "C’est ici que vit le Bossu"
+    },
+    {
+     "altText": "Taj Mahal",
+     "correct": false,
+     "hint": "Le Taj Mahal se trouve dans la ville d’Agra"
+    },
+    {
+     "altText": "Salto Ángel",
+     "correct": false,
+     "hint": "Voici le Salto Ángel"
+    }
+   ],
+   "id": "109773",
+   "isEasy": false,
+   "question": "Photos prises en Europe"
   },
   {
-    "altText": "Tente",
-    "correct": false,
-    "hint": "Pas besoin de camper pour les oeufs"
-  },
-  {
-    "altText": "Avion",
-    "correct": false,
-    "hint": "Pas besoin de voyager pour manger des oeufs"
-  },
-  {
-    "altText": "Train",
-    "correct": true,
-    "hint": "Train rime avec rain (pluie)"
-  },
-  {
-    "altText": "Lion",
-    "correct": false,
-    "hint": "Avec quoi lion pourrait-il bien rimer ?"
-  },
-  {
-    "altText": "Souris",
-    "correct": true,
-    "hint": "Il les mangerait dans une maison"
-  },
-  {
-    "altText": "Arbre",
-    "correct": true,
-    "hint": "Le feriez-vous, pourriez-vous… dans un arbre ?"
-  },
-  {
-    "altText": "Boîte",
-    "correct": true,
-    "hint": "Un renard se joindrait à vous là-dedans"
-  },
-  {
-    "altText": "Chaussettes",
-    "correct": false,
-    "hint": "Vous pensez à un autre livre de Seuss"
-  },
-  {
-    "altText": "Chat",
-    "correct": false,
-    "hint": "Vous pensez à un autre livre de Seuss"
-  }
-],
-"id": "109774",
-"isEasy": true,
-"question": "Mots présents dans [i]Les Oeufs verts au jambon[/i]"
+   "choices": [
+    {
+     "altText": "Chèvre",
+     "correct": true,
+     "hint": "Cet animal donne du lait, parfait pour les oeufs"
+    },
+    {
+     "altText": "Tente",
+     "correct": false,
+     "hint": "Pas besoin de camper pour les oeufs"
+    },
+    {
+     "altText": "Avion",
+     "correct": false,
+     "hint": "Pas besoin de voyager pour manger des oeufs"
+    },
+    {
+     "altText": "Train",
+     "correct": true,
+     "hint": "Train rime avec rain (pluie)"
+    },
+    {
+     "altText": "Lion",
+     "correct": false,
+     "hint": "Avec quoi lion pourrait-il bien rimer ?"
+    },
+    {
+     "altText": "Souris",
+     "correct": true,
+     "hint": "Il les mangerait dans une maison"
+    },
+    {
+     "altText": "Arbre",
+     "correct": true,
+     "hint": "Le feriez-vous, pourriez-vous… dans un arbre ?"
+    },
+    {
+     "altText": "Boîte",
+     "correct": true,
+     "hint": "Un renard se joindrait à vous là-dedans"
+    },
+    {
+     "altText": "Chaussettes",
+     "correct": false,
+     "hint": "Vous pensez à un autre livre de Seuss"
+    },
+    {
+     "altText": "Chat",
+     "correct": false,
+     "hint": "Vous pensez à un autre livre de Seuss"
+    }
+   ],
+   "id": "109774",
+   "isEasy": true,
+   "question": "Mots présents dans [i]Les Oeufs verts au jambon[/i]"
   },
   {
    "choices": [
@@ -374,10 +374,10 @@
      "correct": true,
      "hint": "Une flûte à bec est un type de flûte, et une flûte est…"
     }
-],
-"id": "110148",
-"isEasy": false,
-"question": "Instruments à vent en bois"
+   ],
+   "id": "110148",
+   "isEasy": false,
+   "question": "Instruments à vent en bois"
   },
   {
    "choices": [
@@ -431,10 +431,10 @@
      "correct": false,
      "hint": "Les graines ne sont pas toujours des noyaux"
     }
-],
-"id": "110152",
-"isEasy": true,
-"question": "Fruits à noyau"
+   ],
+   "id": "110152",
+   "isEasy": true,
+   "question": "Fruits à noyau"
   },
   {
    "choices": [
@@ -488,10 +488,10 @@
      "correct": true,
      "hint": "Colis en papier brun ? Attaché avec une ficelle ?!... exact !"
     }
-],
-"id": "110153",
-"isEasy": false,
-"question": "Éléments mentionnés dans les paroles de “My Favorite Things”"
+   ],
+   "id": "110153",
+   "isEasy": false,
+   "question": "Éléments mentionnés dans les paroles de “My Favorite Things”"
   },
   {
    "choices": [
@@ -545,10 +545,10 @@
      "correct": true,
      "hint": "Peut-on diviser 11 de manière égale ?"
     }
-],
-"id": "111196",
-"isEasy": true,
-"question": "Nombre premier de canards en caoutchouc"
+   ],
+   "id": "111196",
+   "isEasy": true,
+   "question": "Nombre premier de canards en caoutchouc"
   },
   {
    "choices": [
@@ -597,11 +597,11 @@
      "correct": false,
      "hint": "Oh-hi… non"
     }
-],
-"countrySpecific": true,
-"id": "111501",
-"isEasy": false,
-"question": "États américains bordant le Mississippi"
+   ],
+   "countrySpecific": true,
+   "id": "111501",
+   "isEasy": false,
+   "question": "États américains bordant le Mississippi"
   },
   {
    "choices": [
@@ -655,11 +655,11 @@
      "correct": true,
      "hint": "Barnum propose de nombreuses options rayées"
     }
-],
-"countrySpecific": true,
-"id": "112583",
-"isEasy": true,
-"question": "Formes d’animaux des biscuits Barnum"
+   ],
+   "countrySpecific": true,
+   "id": "112583",
+   "isEasy": true,
+   "question": "Formes d’animaux des biscuits Barnum"
   },
   {
    "choices": [
@@ -713,10 +713,10 @@
      "correct": false,
      "hint": "Pas de mines de charbon"
     }
-],
-"id": "112584",
-"isEasy": false,
-"question": "Ressources dans le jeu (Original) Les Colons de Catan"
+   ],
+   "id": "112584",
+   "isEasy": false,
+   "question": "Ressources dans le jeu (Original) Les Colons de Catan"
   },
   {
    "choices": [
@@ -760,10 +760,10 @@
      "correct": true,
      "hint": "Steve Buscemi est contrarié que celui-ci soit correct"
     }
-],
-"id": "112586",
-"isEasy": false,
-"question": "Noms des personnages de [i]Reservoir Dogs[/i] de 92",
+   ],
+   "id": "112586",
+   "isEasy": false,
+   "question": "Noms des personnages de [i]Reservoir Dogs[/i] de 92",
    "x": true
   },
   {
@@ -818,10 +818,10 @@
      "correct": false,
      "hint": "Green Arrow est un super-héros DC"
     }
-],
-"id": "112588",
-"isEasy": false,
-"question": "Noms des personnages des X-Men"
+   ],
+   "id": "112588",
+   "isEasy": false,
+   "question": "Noms des personnages des X-Men"
   },
   {
    "choices": [
@@ -875,10 +875,10 @@
      "correct": true,
      "hint": "La Polo était une super mini"
     }
-],
-"id": "112589",
-"isEasy": false,
-"question": "Noms de modèles de voitures VW"
+   ],
+   "id": "112589",
+   "isEasy": false,
+   "question": "Noms de modèles de voitures VW"
   },
   {
    "choices": [
@@ -922,10 +922,10 @@
      "correct": true,
      "hint": "Il y a une pêche ! Elle ressemble à une orange à l’écran"
     }
-],
-"id": "112629",
-"isEasy": true,
-"question": "Fruits dans Pac-Man (1980)"
+   ],
+   "id": "112629",
+   "isEasy": true,
+   "question": "Fruits dans Pac-Man (1980)"
   },
   {
    "choices": [
@@ -979,10 +979,10 @@
      "correct": false,
      "hint": "No white clouds... they would just look like normal marshmallows"
     }
-],
-"id": "112630",
-"isEasy": true,
-"question": "Marshmallows des céréales Lucky Charms (dans une boîte standard 2025)"
+   ],
+   "id": "112630",
+   "isEasy": true,
+   "question": "Marshmallows des céréales Lucky Charms (dans une boîte standard 2025)"
   },
   {
    "choices": [
@@ -2235,344 +2235,344 @@
   {
    "choices": [
     {
-     "altText": "Sulfur",
+     "altText": "Soufre",
      "correct": false,
-     "hint": "Naturally occurring, smells like rotten eggs"
+     "hint": "Présent naturellement, sent l’œuf pourri"
     },
     {
-     "altText": "Aspirin",
+     "altText": "Aspirine",
      "correct": true,
-     "hint": "Formula = C9H8O4"
+     "hint": "Formule = C9H8O4"
     },
     {
-     "altText": "Mercury",
+     "altText": "Mercure",
      "correct": false,
-     "hint": "Only metal element that’s liquid at room temperature"
+     "hint": "Le seul élément métallique liquide à température ambiante"
     },
     {
-     "altText": "Hydrochloric Acid",
+     "altText": "Acide chlorhydrique",
      "correct": true,
-     "hint": "Hydrogen AND Chlorine"
+     "hint": "Hydrogène ET chlore"
     },
     {
-     "altText": "Lead",
+     "altText": "Plomb",
      "correct": false,
-     "hint": "Lead is not an alloy"
+     "hint": "Le plomb n’est pas un alliage"
     },
     {
-     "altText": "Water",
+     "altText": "Eau",
      "correct": true,
      "hint": "H2O"
     },
     {
-     "altText": "Ethanol",
+     "altText": "Éthanol",
      "correct": true,
      "hint": "NaCl"
     },
     {
-     "altText": "Copper Wire",
+     "altText": "Fil de cuivre",
      "correct": false,
-     "hint": "It’s just copper"
+     "hint": "C’est juste du cuivre"
     },
     {
-     "altText": "Gold",
+     "altText": "Or",
      "correct": false,
-     "hint": "100% Au"
+     "hint": "100 % Au"
     },
     {
-     "altText": "White Sugar",
+     "altText": "Sucre blanc",
      "correct": true,
-     "hint": "Formula = C12H22O11"
+     "hint": "Formule = C12H22O11"
     }
    ],
    "id": "114738",
    "isEasy": false,
-   "question": "Compounds (AKA Made of Multiple Elements)"
+   "question": "Composés (c’est-à-dire formés de plusieurs éléments)"
   },
   {
    "choices": [
     {
-     "altText": "European Union",
+     "altText": "Union européenne",
      "correct": false,
-     "hint": "Created in 1955 to celebrate a new union"
+     "hint": "Créé en 1955 pour célébrer une nouvelle union"
     },
     {
-     "altText": "Chile",
+     "altText": "Chili",
      "correct": false,
-     "hint": "Red, white & blue is often found in the Americas"
+     "hint": "Le rouge, le blanc et le bleu sont souvent présents sur les drapeaux des Amériques"
     },
     {
-     "altText": "Turkey",
+     "altText": "Turquie",
      "correct": true,
-     "hint": "A tiny bit of it is in Europe, but most of the country is...."
+     "hint": "Une toute petite partie se trouve en Europe, mais la majeure partie du pays est...."
     },
     {
-     "altText": "Japan",
+     "altText": "Japon",
      "correct": true,
-     "hint": "Known as the “land of the rising sun”"
+     "hint": "Connu comme le « pays du Soleil-Levant »"
     },
     {
-     "altText": "Fake Flag",
+     "altText": "Faux drapeau",
      "correct": false,
-     "hint": "I made this in Google Docs"
+     "hint": "Je l’ai fait dans Google Docs"
     },
     {
-     "altText": "China",
+     "altText": "Chine",
      "correct": true,
-     "hint": "The large star represents the CCP, aka the ______ Communist Party"
+     "hint": "La grande étoile représente le PCC, autrement dit le Parti communiste ______"
     },
     {
-     "altText": "India",
+     "altText": "Inde",
      "correct": true,
-     "hint": "The Ashoka Chakra is in the center"
+     "hint": "L’Ashoka Chakra est au centre"
     },
     {
      "altText": "Ghana",
      "correct": false,
-     "hint": "The black star represents independence from colonial rule"
+     "hint": "L’étoile noire représente l’indépendance face au pouvoir colonial"
     },
     {
-     "altText": "Morocco",
+     "altText": "Maroc",
      "correct": false,
-     "hint": "Same continent as Ghana"
+     "hint": "Sur le même continent que le Ghana"
     },
     {
-     "altText": "South Korea",
+     "altText": "Corée du Sud",
      "correct": true,
-     "hint": "This is the southern one"
+     "hint": "C’est celle du sud"
     }
    ],
    "id": "114739",
    "isEasy": false,
-   "question": "Flags of Countries in Asia"
+   "question": "Drapeaux de pays d’Asie"
   },
   {
    "choices": [
     {
-     "altText": "Birds",
+     "altText": "Oiseaux",
      "correct": false,
-     "hint": "Birds are not one of the flying pests to plague Pharaoh"
+     "hint": "Les oiseaux ne font pas partie des nuisibles volants qui ont frappé Pharaon"
     },
     {
-     "altText": "Thorns",
+     "altText": "Épines",
      "correct": false,
-     "hint": "Not a lot of plants in the desert"
+     "hint": "Il n’y a pas beaucoup de plantes dans le désert"
     },
     {
-     "altText": "Locusts",
+     "altText": "Sauterelles",
      "correct": true,
-     "hint": "They ate the crops"
+     "hint": "Elles ont mangé les récoltes"
     },
     {
-     "altText": "Flies",
+     "altText": "Mouches",
      "correct": true,
-     "hint": "Several of the plagues would really “bug” you"
+     "hint": "Plusieurs plaies auraient vraiment de quoi vous « faire bourdonner »"
     },
     {
-     "altText": "Hail",
+     "altText": "Grêle",
      "correct": true,
-     "hint": "This is hail"
+     "hint": "C’est de la grêle"
     },
     {
      "altText": "Crocodiles",
      "correct": false,
-     "hint": "The Nile had other problems"
+     "hint": "Le Nil avait d’autres problèmes"
     },
     {
-     "altText": "Spiders",
+     "altText": "Araignées",
      "correct": false,
-     "hint": "Spiders? Even Moses had his limits...."
+     "hint": "Des araignées ? Même Moïse avait ses limites...."
     },
     {
-     "altText": "Darkness",
+     "altText": "Ténèbres",
      "correct": true,
-     "hint": "This covers the entire land"
+     "hint": "Elles recouvrent tout le pays"
     },
     {
-     "altText": "Frogs",
+     "altText": "Grenouilles",
      "correct": true,
-     "hint": "This one almost gets Pharaoh to change his mind..."
+     "hint": "Celle-ci manque de faire changer Pharaon d’avis..."
     },
     {
-     "altText": "Tornado",
+     "altText": "Tornade",
      "correct": false,
-     "hint": "You’re thinking of the Book of Job"
+     "hint": "Tu penses au Livre de Job"
     }
    ],
    "id": "114740",
    "isEasy": false,
-   "question": "The Plagues of Egypt (From the Book of Exodus)"
+   "question": "Les plaies d’Égypte (dans le Livre de l’Exode)"
   },
   {
    "choices": [
     {
-     "altText": "Mushrooms",
+     "altText": "Champignons",
      "correct": false,
-     "hint": "Not much flora in this recipe"
+     "hint": "Pas beaucoup de végétaux dans cette recette"
     },
     {
-     "altText": "White Wine",
+     "altText": "Vin blanc",
      "correct": false,
-     "hint": "You can eat this and drive"
+     "hint": "On peut en manger et conduire"
     },
     {
-     "altText": "Spinach",
+     "altText": "Épinards",
      "correct": false,
-     "hint": "You’re thinking of Quiche Florentine"
+     "hint": "Tu penses à la quiche florentine"
     },
     {
-     "altText": "Bacon",
+     "altText": "Lardons",
      "correct": true,
-     "hint": "Yep, chopped up into little bits"
+     "hint": "Oui, coupés en petits morceaux"
     },
     {
-     "altText": "Eggs",
+     "altText": "Œufs",
      "correct": true,
-     "hint": "“Quiche” basically means “egg pie”"
+     "hint": "« Quiche » veut grosso modo dire « tarte aux œufs »"
     },
     {
-     "altText": "Gruyère Cheese",
+     "altText": "Gruyère",
      "correct": true,
-     "hint": "Cheese was added in 20th-century recipes"
+     "hint": "Le fromage a été ajouté dans les recettes du XXe siècle"
     },
     {
-     "altText": "Shortening",
+     "altText": "Graisse végétale",
      "correct": true,
-     "hint": "The opposite of Tall-ening"
+     "hint": "La pâte a besoin de matière grasse"
     },
     {
-     "altText": "Mayo",
+     "altText": "Mayonnaise",
      "correct": false,
-     "hint": "Mayo has eggs, so this would be redundant"
+     "hint": "La mayo contient des œufs, ce serait donc redondant"
     },
     {
-     "altText": "Lobster",
+     "altText": "Homard",
      "correct": false,
-     "hint": "Not a seafood dish"
+     "hint": "Ce n’est pas un plat de fruits de mer"
     },
     {
-     "altText": "Butter",
+     "altText": "Beurre",
      "correct": true,
-     "hint": "This is Julia’s trademark"
+     "hint": "C’est la marque de fabrique de Julia"
     }
    ],
    "id": "114741",
    "isEasy": false,
-   "question": "Traditional Quiche Lorraine Ingredients (Using Julia Childs’ recipe)"
+   "question": "Ingrédients traditionnels de la quiche lorraine (d’après la recette de Julia Child)"
   },
   {
    "choices": [
     {
-     "altText": "Twelve Drummers Drumming",
+     "altText": "Douze tambours tambourinant",
      "correct": true,
-     "hint": "There are 12"
+     "hint": "Il y en a 12"
     },
     {
-     "altText": "3 Jugglers Juggling",
+     "altText": "3 jongleurs jonglant",
      "correct": false,
-     "hint": "These are not French Hens"
+     "hint": "Ce ne sont pas des poules françaises"
     },
     {
-     "altText": "Two Falcons Posing",
+     "altText": "Deux faucons prenant la pose",
      "correct": false,
-     "hint": "These are not turtle doves"
+     "hint": "Ce ne sont pas des tourterelles"
     },
     {
-     "altText": "8 Archers Launching",
+     "altText": "8 archers tirant",
      "correct": false,
-     "hint": "No weapons in the song"
+     "hint": "Pas d’armes dans la chanson"
     },
     {
-     "altText": "Seven Swans A-Swimming",
+     "altText": "Sept cygnes nageant",
      "correct": true,
-     "hint": "There are 7"
+     "hint": "Il y en a 7"
     },
     {
-     "altText": "Three Ducks A-Migrating",
+     "altText": "Trois canards migrant",
      "correct": false,
-     "hint": "These are not French Hens"
+     "hint": "Ce ne sont pas des poules françaises"
     },
     {
-     "altText": "Five Golden Rings!",
+     "altText": "Cinq anneaux d’or !",
      "correct": true,
-     "hint": "This is the part you sing as loud as possible"
+     "hint": "C’est le passage qu’on chante le plus fort possible"
     },
     {
-     "altText": "Two Turtle Doves",
+     "altText": "Deux tourterelles",
      "correct": true,
-     "hint": "Yes, this is what a Turtle Dove looks like"
+     "hint": "Oui, voilà à quoi ressemble une tourterelle"
     },
     {
-     "altText": "Nine Ladies Dancing",
+     "altText": "Neuf dames dansant",
      "correct": true,
-     "hint": "Yes, there 9 ladies dancing in this photo"
+     "hint": "Oui, il y a 9 dames qui dansent sur cette photo"
     },
     {
-     "altText": "Seven Horses Prancing",
+     "altText": "Sept chevaux caracolant",
      "correct": false,
-     "hint": "Song mentions bovines, not equines"
+     "hint": "La chanson parle de bovins, pas d’équins"
     }
    ],
    "id": "114742",
    "isEasy": false,
-   "question": "Gifts in “The 12 Days of Christmas”"
+   "question": "Cadeaux dans « The 12 Days of Christmas »"
   },
   {
    "choices": [
     {
-     "altText": "21 by Adele",
+     "altText": "21 d’Adele",
      "correct": true,
-     "hint": "That adds up to “21”"
+     "hint": "Le total donne « 21 »"
     },
     {
-     "altText": "Dark Side of the Moon by Pink Floyd",
+     "altText": "Dark Side of the Moon de Pink Floyd",
      "correct": false,
-     "hint": "Syd Barrett was lead vocals for Pink Floyd"
+     "hint": "Syd Barrett a été chanteur principal de Pink Floyd"
     },
     {
-     "altText": "Teenage Dream by Katy Perry",
+     "altText": "Teenage Dream de Katy Perry",
      "correct": true,
-     "hint": "Featuring song “Firework” and “California Gurls”"
+     "hint": "Avec les chansons « Firework » et « California Gurls »"
     },
     {
-     "altText": "SOS by SZA",
+     "altText": "SOS de SZA",
      "correct": true,
-     "hint": "SOS is three letters, so is SZA"
+     "hint": "SOS a trois lettres, tout comme SZA"
     },
     {
-     "altText": "American Idiot by Green Day",
+     "altText": "American Idiot de Green Day",
      "correct": false,
-     "hint": "“Don’t wanna be an....”"
+     "hint": "« Don’t wanna be an.... »"
     },
     {
-     "altText": "Chocolate Starfish by Limp Bizkit",
+     "altText": "Chocolate Starfish de Limp Bizkit",
      "correct": false,
      "hint": "...and the Hot Dog Flavored Water"
     },
     {
-     "altText": "Dirty Computer by Janelle Monáe",
+     "altText": "Dirty Computer de Janelle Monáe",
      "correct": true,
-     "hint": "That is one “Dirty Computer”"
+     "hint": "C’est bien un « Dirty Computer »"
     },
     {
-     "altText": "Ice Ice Baby by Vanilla Ice",
+     "altText": "Ice Ice Baby de Vanilla Ice",
      "correct": false,
-     "hint": "Vanilla Ice identifies as male"
+     "hint": "Vanilla Ice s’identifie comme un homme"
     },
     {
-     "altText": "Yellow Submarine by The Beatles",
+     "altText": "Yellow Submarine des Beatles",
      "correct": false,
-     "hint": "Ringo wrote this one"
+     "hint": "C’est Ringo qui l’a écrite"
     },
     {
-     "altText": "Jagged Little Pill by Alanis Morissette",
+     "altText": "Jagged Little Pill d’Alanis Morissette",
      "correct": true,
-     "hint": "This Little Pill is Jagged"
+     "hint": "Cette petite pilule est bien dentelée"
     }
    ],
    "id": "114745",
    "isEasy": false,
-   "question": "Albums by Solo Female Artists",
+   "question": "Albums d’artistes féminines solo",
    "starterContent": false
   },
   {
@@ -2580,57 +2580,57 @@
     {
      "altText": "Dracula",
      "correct": true,
-     "hint": "He, and his son, attended"
+     "hint": "Lui et son fils étaient présents"
     },
     {
-     "altText": "Hounds",
+     "altText": "Chiens",
      "correct": true,
-     "hint": "They were brought by Igor"
+     "hint": "Ils ont été amenés par Igor"
     },
     {
-     "altText": "Mummy",
+     "altText": "Momie",
      "correct": false,
-     "hint": "Too wrapped up to attend"
+     "hint": "Trop emmaillotée pour venir"
     },
     {
      "altText": "Igor",
      "correct": true,
-     "hint": "He even gets a lyric, “Mash Good!”"
+     "hint": "Il a même droit à une parole : « Mash Good! »"
     },
     {
-     "altText": "Ghost",
+     "altText": "Fantôme",
      "correct": false,
-     "hint": "No body, no invite"
+     "hint": "Pas de corps, pas d’invitation"
     },
     {
      "altText": "Zombies",
      "correct": true,
-     "hint": "The lyrics say they were there and they were having fun"
+     "hint": "Les paroles disent qu’ils étaient là et qu’ils s’amusaient"
     },
     {
      "altText": "Dragon",
      "correct": false,
-     "hint": "Not a party person, tends to drag-on"
+     "hint": "Pas très fêtard, il préfère drag-on"
     },
     {
-     "altText": "Wolfman",
+     "altText": "Homme-loup",
      "correct": true,
-     "hint": "Mentioned along with Dracula"
+     "hint": "Mentionné avec Dracula"
     },
     {
-     "altText": "Witch",
+     "altText": "Sorcière",
      "correct": false,
-     "hint": "No Glinda, No Elphaba... no witch of any kind"
+     "hint": "Ni Glinda, ni Elphaba... aucune sorcière d’aucune sorte"
     },
     {
-     "altText": "Black Cat",
+     "altText": "Chat noir",
      "correct": false,
-     "hint": "Only dogs are mentioned"
+     "hint": "Seuls des chiens sont mentionnés"
     }
    ],
    "id": "114746",
    "isEasy": false,
-   "question": "Mentioned in the “Monster Mash” Lyrics"
+   "question": "Mentionné dans les paroles de « Monster Mash »"
   }
  ]
 }

@@ -254,7 +254,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Me The Ogre",
+                    "monsterConfigID": "Moi L'Ogre",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
@@ -275,7 +275,7 @@
                 },
                 {
                     "triviaType": "MultipleChoice",
-                    "monsterConfigID": "Me The Ogre",
+                    "monsterConfigID": "Moi L'Ogre",
                     "doIntro": true,
                     "doOutro": true,
                     "doScoreboard": true
